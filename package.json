@@ -1,0 +1,53 @@
+{
+  "name": "tip-of-the-day",
+  "description": "Get your daily knowledge dosis.",
+  "version": "1.0.0",
+  "author": "Darek Kay <hello@darekkay.com> (https://darekkay.com/)",
+  "dependencies": {
+    "@umpirsky/currency-list": "git+https://git@github.com/umpirsky/currency-list.git",
+    "axios": "0.18.0",
+    "country-json": "1.0.8",
+    "ejs": "2.6.1",
+    "feed": "2.0.4",
+    "fs-extra": "7.0.1",
+    "jsdom": "14.0.0",
+    "lodash": "4.17.11",
+    "moment": "2.24.0",
+    "shuffle-seed": "1.1.6",
+    "world-countries": "2.1.0"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "del": "4.1.0",
+    "eslint": "5.16.0",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-config-prettier": "4.1.0",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-prettier": "3.0.1",
+    "gulp": "4.0.0",
+    "gulp-babel": "8.0.0",
+    "gulp-cssmin": "0.2.0",
+    "gulp-htmlmin": "5.0.1",
+    "gulp-load-plugins": "1.5.0",
+    "gulp-plumber": "1.2.1",
+    "gulp-rename": "1.4.0",
+    "mocha": "6.0.2",
+    "plop": "2.3.0",
+    "prettier": "1.16.4",
+    "xml-js": "1.6.11"
+  },
+  "homepage": "https://tips.darekkay.com",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "npm run build:index && npm run build:feeds",
+    "build:index": "gulp build",
+    "build:feeds": "node src/index.js",
+    "ci": "npm run lint:check && npm run test",
+    "format": "prettier --write -- \"{src,public}/**/*.{js,jsx,tsx,json,css,scss,md}\"",
+    "generate": "plop --plopfile internals/generators/index.js",
+    "lint:check": "eslint src/**/*.js",
+    "lint:fix": "eslint --fix src/**/*.js",
+    "test": "mocha \"./src/**/*.test.js\""
+  }
+}

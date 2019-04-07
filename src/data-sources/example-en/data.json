@@ -1,0 +1,21 @@
+{
+  "title": "Example Tips",
+  "id": "example",
+  "entries": [
+    {
+      "title": "Tip #1",
+      "url": "https://example.com/#1",
+      "content": "This is a simple tip of the day."
+    },
+    {
+      "title": "Tip #2",
+      "url": "https://example.com/#2",
+      "content": "<strong>This is an HTML tip of the day.</strong>"
+    },
+    {
+      "title": "Tip #3",
+      "url": "https://example.com/#3",
+      "content": "<h2>This is a (sub-)headline</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nulla turpis, vulputate et odio a, tincidunt rutrum nulla.</p><h2>This is another (sub-)headline</h2><p>Morbi commodo elit nulla, vel aliquet metus condimentum non. Nunc ultrices malesuada quam sed semper.</p>"
+    }
+  ]
+}

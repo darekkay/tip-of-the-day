@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "chemical-elements-en",
+    "title": "Chemical elements",
+    "language": "en",
+    "description": "Periodic table of elements."
+  },
+  {
+    "slug": "countries-en",
+    "title": "World countries",
+    "language": "en",
+    "description": "Capitals, currencies, flags and more."
+  },
+  {
+    "slug": "logical-fallacies-en",
+    "title": "Logical fallacies",
+    "language": "en",
+    "description": "Learn to identify flows in reasoning."
+  }
+]
