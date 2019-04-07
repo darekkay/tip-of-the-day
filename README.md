@@ -1,5 +1,7 @@
 # Tip of the Day
 
+[![Travis](https://img.shields.io/travis/darekkay/tip-of-the-day.svg?style=flat-square)](https://travis-ci.org/darekkay/tip-of-the-day) [![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/darekkay/tip-of-the-day/blob/master/LICENSE)
+
 Reduce the information overload by providing just a single unit of information per day. Get your daily knowledge dosis via RSS, HTML or JSON.
 
 Live at [tips.darekkay.com](https://tips.darekkay.com).
