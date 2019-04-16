@@ -1,6 +1,6 @@
 {
   "name": "tip-of-the-day",
-  "description": "Get your daily knowledge dosis.",
+  "description": "Get your daily knowledge dose.",
   "version": "1.0.0",
   "author": "Darek Kay <hello@darekkay.com> (https://darekkay.com/)",
   "dependencies": {

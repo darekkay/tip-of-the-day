@@ -2,7 +2,9 @@
 
 [![Travis](https://img.shields.io/travis/darekkay/tip-of-the-day.svg?style=flat-square)](https://travis-ci.org/darekkay/tip-of-the-day) [![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/darekkay/tip-of-the-day/blob/master/LICENSE)
 
-Reduce the information overload by providing just a single unit of information per day. Get your daily knowledge dosis via RSS, HTML or JSON.
+Get your daily knowledge dose.
+
+For each category, a single tip is delivered every day. Subscribe via an HTML bookmark, RSS feed or JSON endpoint.
 
 Live at [tips.darekkay.com](https://tips.darekkay.com).
 
@@ -38,6 +40,8 @@ The `package.json` file contains other useful scripts, which you can execute usi
 The `master` branch is (manually) deployed to [tips.darekkay.com](https://tips.darekkay.com).
 
 ### Add more data sources
+
+All data used to generate daily tips is stored within the repository.
 
 1. Run `npm run generate` to generate a new data source boilerplate.
 2. Include your data source in `src/data-sources/<source>/data.json`. Using a `scraper` is recommended to keep the data up-to-date.

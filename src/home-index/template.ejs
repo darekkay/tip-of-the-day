@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="Get your daily knowledge dosis"/>
+  <meta name="description" content="Get your daily knowledge dose"/>
   <link rel="stylesheet" href="assets/css/base.css?v=1"/>
-  <link rel="stylesheet" href="assets/css/style.css?v=1"/>
+  <link rel="stylesheet" href="assets/css/style.css?v=3"/>
   <link rel="icon" href="./favicon.ico" sizes="16x16 32x32"/>
   <title>Tip of the Day</title>
 </head>
@@ -14,23 +14,32 @@
     <h1 class="headline">Tip of the Day</h1>
 
     <p class="tagline">
-      Get your daily knowledge dosis.
+      Get your daily knowledge dose.
+    </p>
+
+    <p class="text-center">
+        <img src="assets/img/diagram.png" width="459" height="104" alt=""/>
+    </p>
+
+    <p class="text-center">
+        For each category, a single tip is delivered every day.<br>
+        Subscribe via a browser bookmark, RSS feed or JSON endpoint.
     </p>
 
     <ul class="d-flex flex-wrap justify-content-center no-margin no-padding">
       <% sources.forEach(source => {%>
       <li class="card d-flex flex-column margin border">
-        <div class="font-weight-500 margin-bottom"><%= source.title %> (<%= source.language %>)</div>
+        <div class="font-weight-500 margin-bottom">
+            <a href="html/<%= source.slug %>.html"><%= source.title %></a>
+            (<%= source.language %>)
+        </div>
         <div class="margin-bottom"> <%= source.description %>
         </div>
         <div class="mt-auto text-right">
-          <a href="html/<%= source.slug %>.html" class="d-inline-block margin-left no-decoration">
-            <img src="assets/img/html.png" width="54" height="21" alt="HTML feed for <%= source.title %>"/>
-          </a>
-          <a href="rss/<%= source.slug %>.xml" class="d-inline-block margin-left no-decoration">
+          <a href="rss/<%= source.slug %>.xml" class="button d-inline-block margin-left no-decoration">
             <img src="assets/img/atom.png" width="54" height="21" alt="RSS feed for <%= source.title %>"/>
           </a>
-          <a href="json/<%= source.slug %>.json" class="d-inline-block margin-left no-decoration">
+          <a href="json/<%= source.slug %>.json" class="button d-inline-block margin-left no-decoration">
             <img src="assets/img/json.png" width="54" height="21" alt="JSON feed for <%= source.title %>"/>
           </a>
         </div>
