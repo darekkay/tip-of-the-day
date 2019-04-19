@@ -15,7 +15,8 @@ const generateHTML = ({ source, renderer, date }) => {
         content: rendered.content,
         title: source.title,
         name: rendered.title,
-        source: rendered.url
+        source: rendered.url,
+        license: source.license
       }
     })
   };

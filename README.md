@@ -10,6 +10,8 @@ Live at [tips.darekkay.com](https://tips.darekkay.com).
 
 ## Contribute
 
+Only include data if no copyright is validated.
+
 ### Setup
 
 Notice: You may use `npm` instead of `yarn`.
@@ -53,4 +55,4 @@ The `template.js` file does not enforce the way to write data source templates. 
 
 ## License
 
-This project and its contents are open source under the [MIT license](LICENSE).
+This project and its contents are open source under the [MIT license](LICENSE). The license of the individual data sources is specified in the according `data.json` files.
