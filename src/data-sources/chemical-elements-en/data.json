@@ -15,13 +15,9 @@
       "group": "1",
       "density": 0.08988,
       "discoveryAuthor": "Henry Cavendish",
-      "electronConfiguration": [
-        "1s"
-      ],
+      "electronConfiguration": ["1s"],
       "electronegativity": 2.2,
-      "electronsPerShell": [
-        1
-      ],
+      "electronsPerShell": [1],
       "elementGroup": "non-metal",
       "heatOfFusion": 0.117,
       "heatOfVaporization": 0.3904,
@@ -48,9 +44,7 @@
         "C": -268.928
       },
       "group": "18",
-      "electronsPerShell": [
-        2
-      ],
+      "electronsPerShell": [2],
       "elementGroup": "noble-gas",
       "meltingPoint": {
         "C": -272.2
@@ -72,10 +66,7 @@
         "C": 1330
       },
       "group": "1",
-      "electronsPerShell": [
-        2,
-        1
-      ],
+      "electronsPerShell": [2, 1],
       "elementGroup": "alkali-metal",
       "meltingPoint": {
         "C": 180.5
@@ -97,10 +88,7 @@
         "C": 2469
       },
       "group": "2",
-      "electronsPerShell": [
-        2,
-        2
-      ],
+      "electronsPerShell": [2, 2],
       "elementGroup": "alkaline-earth-metal",
       "meltingPoint": {
         "C": 1287
@@ -130,10 +118,7 @@
       "period": 2,
       "phase": "solid",
       "symbol": "B",
-      "electronsPerShell": [
-        2,
-        3
-      ],
+      "electronsPerShell": [2, 3],
       "discoveryDate": 1808,
       "context": "Boron is concentrated on Earth by the water-solubility of its more common naturally occurring compounds, the borate minerals. These are mined industrially as evaporites, such as borax and kernite. The largest known boron deposits are in Turkey, the largest producer of boron minerals.",
       "nameLatin": "Borium",
@@ -144,10 +129,7 @@
       "atomicNumber": 6,
       "ionizationEnergy": 11.2603,
       "group": "13",
-      "electronsPerShell": [
-        2,
-        4
-      ],
+      "electronsPerShell": [2, 4],
       "elementGroup": "non-metal",
       "meltingPoint": {
         "C": 2349
@@ -172,10 +154,7 @@
       "name": "Nitrogen",
       "period": 2,
       "symbol": "N",
-      "electronsPerShell": [
-        2,
-        5
-      ],
+      "electronsPerShell": [2, 5],
       "discoveryDate": 1772,
       "context": "Apart from its use in fertilisers and energy-stores, nitrogen is a constituent of organic compounds as diverse as Kevlar used in high-strength fabric and cyanoacrylate used in superglue. Nitrogen is a constituent of every major pharmacological drug class, including antibiotics.",
       "nameLatin": "Nitrogenium",
@@ -190,10 +169,7 @@
       "name": "Oxygen",
       "period": 2,
       "symbol": "O",
-      "electronsPerShell": [
-        2,
-        6
-      ],
+      "electronsPerShell": [2, 6],
       "discoveryDate": 1774,
       "context": "One hundred million tonnes of O2 are extracted from air for industrial uses annually by two primary methods. The most common method is fractional distillation of liquefied air, with N2 distilling as a vapor while O2 is left as a liquid.",
       "nameLatin": "Oxygenium",
@@ -208,10 +184,7 @@
       "name": "Fluorine",
       "period": 2,
       "symbol": "F",
-      "electronsPerShell": [
-        2,
-        7
-      ],
+      "electronsPerShell": [2, 7],
       "discoveryDate": 1886,
       "context": "Fluorocarbon gases are generally greenhouse gases with global-warming potentials 100 to 20,000 times that of carbon dioxide. Organofluorine compounds persist in the environment due to the strength of the carbon–fluorine bond. Fluorine has no known metabolic role in mammals; a few plants synthesize organofluorine poisons that deter herbivores.",
       "nameLatin": "Fluorum",
@@ -226,10 +199,7 @@
       "name": "Neon",
       "period": 2,
       "symbol": "Ne",
-      "electronsPerShell": [
-        2,
-        8
-      ],
+      "electronsPerShell": [2, 8],
       "discoveryDate": 1898,
       "context": "Neon gives a distinct reddish-orange glow when used in low-voltage neon glow lamps, high-voltage discharge tubes and neon advertising signs. The red emission line from neon also causes the well known red light of helium–neon lasers. Neon is used in some plasma tube and refrigerant applications but has few other commercial uses. It is commercially extracted by the fractional distillation of liquid air. Since air is the only source, it is considerably more expensive than helium.",
       "nameLatin": "Neon",
@@ -244,11 +214,7 @@
       "name": "Sodium",
       "period": 3,
       "symbol": "Na",
-      "electronsPerShell": [
-        2,
-        8,
-        1
-      ],
+      "electronsPerShell": [2, 8, 1],
       "discoveryDate": 1807,
       "context": "Sodium is an essential element for all animals and some plants. Sodium ions are the major cation in the extracellular fluid (ECF) and as such are the major contributor to the ECF osmotic pressure and ECF compartment volume. Loss of water from the ECF compartment increases the sodium concentration, a condition called hypernatremia. Isotonic loss of water and sodium from the ECF compartment decreases the size of that compartment in a condition called ECF hypovolemia.",
       "nameLatin": "Natrium",
@@ -263,11 +229,7 @@
       "name": "Magnesium",
       "period": 3,
       "symbol": "Mg",
-      "electronsPerShell": [
-        2,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 2],
       "discoveryDate": 1755,
       "context": "Magnesium is the eleventh most abundant element by mass in the human body and is essential to all cells and some 300 enzymes. Magnesium ions interact with polyphosphate compounds such as ATP, DNA, and RNA. Hundreds of enzymes require magnesium ions to function. Magnesium compounds are used medicinally as common laxatives, antacids (e.g., milk of magnesia), and to stabilize abnormal nerve excitation or blood vessel spasm in such conditions as eclampsia.",
       "nameLatin": "Magnesium",
@@ -282,11 +244,7 @@
       "name": "Aluminum",
       "period": 3,
       "symbol": "Al",
-      "electronsPerShell": [
-        2,
-        8,
-        3
-      ],
+      "electronsPerShell": [2, 8, 3],
       "discoveryDate": 1825,
       "context": "Aluminium is remarkable for the metal's low density and its ability to resist corrosion through the phenomenon of passivation. Aluminium and its alloys are vital to the aerospace industry and important in transportation and structures, such as building facades and window frames. The oxides and sulfates are the most useful compounds of aluminium.",
       "nameLatin": "Aluminium",
@@ -301,11 +259,7 @@
       "name": "Silicon",
       "period": 3,
       "symbol": "Si",
-      "electronsPerShell": [
-        2,
-        8,
-        4
-      ],
+      "electronsPerShell": [2, 8, 4],
       "discoveryDate": 1823,
       "context": "Most free silicon is used in the steel refining, aluminium-casting, and fine chemical industries (often to make fumed silica). Even more visibly, the relatively small portion of very highly purified silicon used in semiconductor electronics (< 10%) is essential to integrated circuits — most computers, cell phones, and modern technology depend on it. Silicon is the basis of the widely used synthetic polymers called silicones.",
       "nameLatin": "Silicium",
@@ -320,11 +274,7 @@
       "name": "Phosphorus",
       "period": 3,
       "symbol": "P",
-      "electronsPerShell": [
-        2,
-        8,
-        5
-      ],
+      "electronsPerShell": [2, 8, 5],
       "discoveryDate": 1669,
       "context": "The first form of elemental phosphorus to be produced (white phosphorus, in 1669) emits a faint glow when exposed to oxygen – hence the name, taken from Greek mythology, Φωσφόρος meaning \"light-bearer\" (Latin Lucifer), referring to the \"Morning Star\", the planet Venus (or Mercury).",
       "nameLatin": "Phosphorus",
@@ -339,11 +289,7 @@
       "name": "Sulfur",
       "period": 3,
       "symbol": "S",
-      "electronsPerShell": [
-        2,
-        8,
-        6
-      ],
+      "electronsPerShell": [2, 8, 6],
       "context": "Sulfur is an essential element for all life, but almost always in the form of organosulfur compounds or metal sulfides. Three amino acids (cysteine, cystine, and methionine) and two vitamins (biotin and thiamine) are organosulfur compounds.",
       "nameLatin": "Sulphurium",
       "nameDE": "Schwefel"
@@ -357,11 +303,7 @@
       "name": "Chlorine",
       "period": 3,
       "symbol": "Cl",
-      "electronsPerShell": [
-        2,
-        8,
-        7
-      ],
+      "electronsPerShell": [2, 8, 7],
       "discoveryDate": 1774,
       "context": "In the form of chloride ions, chlorine is necessary to all known species of life. Other types of chlorine compounds are rare in living organisms, and artificially produced chlorinated organics range from inert to toxic.",
       "nameLatin": "Chlorium",
@@ -376,11 +318,7 @@
       "name": "Argon",
       "period": 3,
       "symbol": "Ar",
-      "electronsPerShell": [
-        2,
-        8,
-        8
-      ],
+      "electronsPerShell": [2, 8, 8],
       "discoveryDate": 1894,
       "context": "The name \"argon\" is derived from the Greek word ἀργόν, neuter singular form of ἀργός meaning \"lazy\" or \"inactive\", as a reference to the fact that the element undergoes almost no chemical reactions.",
       "nameLatin": "Argon",
@@ -395,12 +333,7 @@
       "name": "Potassium",
       "period": 4,
       "symbol": "K",
-      "electronsPerShell": [
-        2,
-        8,
-        8,
-        1
-      ],
+      "electronsPerShell": [2, 8, 8, 1],
       "discoveryDate": 1807,
       "nameLatin": "Kalium",
       "nameDE": "Kalium"
@@ -414,12 +347,7 @@
       "name": "Calcium",
       "period": 4,
       "symbol": "Ca",
-      "electronsPerShell": [
-        2,
-        8,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 8, 2],
       "discoveryDate": 1808,
       "nameLatin": "Calcium",
       "nameDE": "Kalzium"
@@ -433,12 +361,7 @@
       "name": "Scandium",
       "period": 4,
       "symbol": "Sc",
-      "electronsPerShell": [
-        2,
-        8,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 9, 2],
       "discoveryDate": 1879,
       "nameLatin": "Scandium",
       "nameDE": "Skandium"
@@ -452,12 +375,7 @@
       "name": "Titanium",
       "period": 4,
       "symbol": "Ti",
-      "electronsPerShell": [
-        2,
-        8,
-        10,
-        2
-      ],
+      "electronsPerShell": [2, 8, 10, 2],
       "discoveryDate": 1791,
       "nameLatin": "Titanium",
       "nameDE": "Titan"
@@ -471,12 +389,7 @@
       "name": "Vanadium",
       "period": 4,
       "symbol": "V",
-      "electronsPerShell": [
-        2,
-        8,
-        11,
-        2
-      ],
+      "electronsPerShell": [2, 8, 11, 2],
       "discoveryDate": 1801,
       "nameLatin": "Vanadium",
       "nameDE": "Vanadium"
@@ -490,12 +403,7 @@
       "name": "Chromium",
       "period": 4,
       "symbol": "Cr",
-      "electronsPerShell": [
-        2,
-        8,
-        13,
-        1
-      ],
+      "electronsPerShell": [2, 8, 13, 1],
       "discoveryDate": 1798,
       "nameLatin": "Chromium",
       "nameDE": "Chrom"
@@ -509,12 +417,7 @@
       "name": "Manganese",
       "period": 4,
       "symbol": "Mn",
-      "electronsPerShell": [
-        2,
-        8,
-        13,
-        2
-      ],
+      "electronsPerShell": [2, 8, 13, 2],
       "discoveryDate": 1774,
       "nameLatin": "Manganum",
       "nameDE": "Mangan"
@@ -528,12 +431,7 @@
       "name": "Iron",
       "period": 4,
       "symbol": "Fe",
-      "electronsPerShell": [
-        2,
-        8,
-        14,
-        2
-      ],
+      "electronsPerShell": [2, 8, 14, 2],
       "discoveryDate": -2500,
       "nameLatin": "Ferrum",
       "nameDE": "Eisen"
@@ -547,12 +445,7 @@
       "name": "Cobalt",
       "period": 4,
       "symbol": "Co",
-      "electronsPerShell": [
-        2,
-        8,
-        15,
-        2
-      ],
+      "electronsPerShell": [2, 8, 15, 2],
       "discoveryDate": 1735,
       "nameLatin": "Cobaltum",
       "nameDE": "Kobalt"
@@ -566,12 +459,7 @@
       "name": "Nickel",
       "period": 4,
       "symbol": "Ni",
-      "electronsPerShell": [
-        2,
-        8,
-        16,
-        2
-      ],
+      "electronsPerShell": [2, 8, 16, 2],
       "discoveryDate": 1751,
       "nameLatin": "Niccolum",
       "nameDE": "Nickel"
@@ -585,12 +473,7 @@
       "name": "Copper",
       "period": 4,
       "symbol": "Cu",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        1
-      ],
+      "electronsPerShell": [2, 8, 18, 1],
       "discoveryDate": 1944,
       "nameLatin": "Cuprum",
       "nameDE": "Kupfer"
@@ -604,12 +487,7 @@
       "name": "Zinc",
       "period": 4,
       "symbol": "Zn",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 2],
       "discoveryDate": 1500,
       "nameLatin": "Zincum",
       "nameDE": "Zink"
@@ -623,12 +501,7 @@
       "name": "Gallium",
       "period": 4,
       "symbol": "Ga",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        3
-      ],
+      "electronsPerShell": [2, 8, 18, 3],
       "discoveryDate": 1875,
       "nameLatin": "Gallium",
       "nameDE": "Gallium"
@@ -642,12 +515,7 @@
       "name": "Germanium",
       "period": 4,
       "symbol": "Ge",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        4
-      ],
+      "electronsPerShell": [2, 8, 18, 4],
       "discoveryDate": 1886,
       "nameLatin": "Germanium",
       "nameDE": "Germanium"
@@ -661,12 +529,7 @@
       "name": "Arsenic",
       "period": 4,
       "symbol": "As",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        5
-      ],
+      "electronsPerShell": [2, 8, 18, 5],
       "discoveryDate": 1250,
       "nameLatin": "Arsenicum",
       "nameDE": "Arsen"
@@ -680,12 +543,7 @@
       "name": "Selenium",
       "period": 4,
       "symbol": "Se",
-      "electronsPerShell": [
-        2,
-        8,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 9, 2],
       "discoveryDate": 1817,
       "nameLatin": "Selenium",
       "nameDE": "Selen"
@@ -699,12 +557,7 @@
       "name": "Bromine",
       "period": 4,
       "symbol": "Br",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        7
-      ],
+      "electronsPerShell": [2, 8, 18, 7],
       "discoveryDate": 1826,
       "nameLatin": "Bromium",
       "nameDE": "Brom"
@@ -718,12 +571,7 @@
       "name": "Krypton",
       "period": 4,
       "symbol": "Kr",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        8
-      ],
+      "electronsPerShell": [2, 8, 18, 8],
       "discoveryDate": 1898,
       "nameLatin": "Krypton",
       "nameDE": "Krypton"
@@ -737,13 +585,7 @@
       "name": "Rubidium",
       "period": 5,
       "symbol": "Rb",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        8,
-        1
-      ],
+      "electronsPerShell": [2, 8, 18, 8, 1],
       "discoveryDate": 1861,
       "nameLatin": "Rubidium",
       "nameDE": "Rubidium"
@@ -757,13 +599,7 @@
       "name": "Strontium",
       "period": 5,
       "symbol": "Sr",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 8, 2],
       "discoveryDate": 1808,
       "nameLatin": "Strontium",
       "nameDE": "Strontium"
@@ -777,13 +613,7 @@
       "name": "Yttrium",
       "period": 5,
       "symbol": "Y",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 9, 2],
       "discoveryDate": 1794,
       "nameLatin": "Yttrium",
       "nameDE": "Yttrium"
@@ -797,13 +627,7 @@
       "name": "Zirconium",
       "period": 5,
       "symbol": "Zr",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        10,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 10, 2],
       "discoveryDate": 1789,
       "nameLatin": "Zirconium",
       "nameDE": "Zirkonium"
@@ -817,13 +641,7 @@
       "name": "Niobium",
       "period": 5,
       "symbol": "Nb",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        12,
-        1
-      ],
+      "electronsPerShell": [2, 8, 18, 12, 1],
       "discoveryDate": 1801,
       "nameLatin": "Niobium",
       "nameDE": "Niob"
@@ -837,13 +655,7 @@
       "name": "Molybdenum",
       "period": 5,
       "symbol": "Mo",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        13,
-        1
-      ],
+      "electronsPerShell": [2, 8, 18, 13, 1],
       "discoveryDate": 1781,
       "nameLatin": "Molybdenum",
       "nameDE": "Molybdän"
@@ -857,13 +669,7 @@
       "name": "Technetium",
       "period": 5,
       "symbol": "Tc",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        13,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 13, 2],
       "discoveryDate": 1937,
       "nameLatin": "Technetium",
       "nameDE": "Technetium"
@@ -877,13 +683,7 @@
       "name": "Ruthenium",
       "period": 5,
       "symbol": "Ru",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        15,
-        1
-      ],
+      "electronsPerShell": [2, 8, 18, 15, 1],
       "discoveryDate": 1808,
       "nameLatin": "Ruthenium",
       "nameDE": "Ruthenium"
@@ -897,13 +697,7 @@
       "name": "Rhodium",
       "period": 5,
       "symbol": "Rh",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        16,
-        1
-      ],
+      "electronsPerShell": [2, 8, 18, 16, 1],
       "discoveryDate": 1803,
       "nameLatin": "Rhodium",
       "nameDE": "Rhodium"
@@ -917,13 +711,7 @@
       "name": "Palladium",
       "period": 5,
       "symbol": "Pd",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        0
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 0],
       "discoveryDate": 1803,
       "nameLatin": "Palladium",
       "nameDE": "Palladium"
@@ -937,13 +725,7 @@
       "name": "Silver",
       "period": 5,
       "symbol": "Ag",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        1
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 1],
       "discoveryDate": -3000,
       "nameLatin": "Argentum",
       "nameDE": "Silber"
@@ -957,13 +739,7 @@
       "name": "Cadmium",
       "period": 5,
       "symbol": "Cd",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 2],
       "discoveryDate": 1817,
       "nameLatin": "Cadmium",
       "nameDE": "Kadmium"
@@ -977,13 +753,7 @@
       "name": "Indium",
       "period": 5,
       "symbol": "In",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        3
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 3],
       "discoveryDate": 1863,
       "nameLatin": "Indium",
       "nameDE": "Indium"
@@ -997,13 +767,7 @@
       "name": "Tin",
       "period": 5,
       "symbol": "Sn",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        4
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 4],
       "discoveryDate": -2100,
       "nameLatin": "Stannum",
       "nameDE": "Zinn"
@@ -1017,13 +781,7 @@
       "name": "Antimony",
       "period": 5,
       "symbol": "Sb",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        5
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 5],
       "discoveryDate": -1600,
       "nameLatin": "Stibium",
       "nameDE": "Antimon"
@@ -1037,13 +795,7 @@
       "name": "Tellurium",
       "period": 5,
       "symbol": "Te",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        6
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 6],
       "discoveryDate": 1783,
       "nameLatin": "Tellurium",
       "nameDE": "Tellur"
@@ -1057,13 +809,7 @@
       "name": "Iodine",
       "period": 5,
       "symbol": "I",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        7
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 7],
       "discoveryDate": 1811,
       "nameLatin": "Iodium",
       "nameDE": "Jod"
@@ -1077,13 +823,7 @@
       "name": "Xenon",
       "period": 5,
       "symbol": "Xe",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        8
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 8],
       "discoveryDate": 1898,
       "nameLatin": "Xenon",
       "nameDE": "Xenon"
@@ -1097,14 +837,7 @@
       "name": "Cesium",
       "period": 6,
       "symbol": "Cs",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        8,
-        1
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 8, 1],
       "discoveryDate": 1860,
       "nameLatin": "Caesium",
       "nameDE": "Zäsium"
@@ -1118,14 +851,7 @@
       "name": "Barium",
       "period": 6,
       "symbol": "Ba",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 8, 2],
       "discoveryDate": 1808,
       "nameLatin": "Barium",
       "nameDE": "Barium"
@@ -1139,14 +865,7 @@
       "name": "Lanthanum",
       "period": 6,
       "symbol": "La",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        18,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 18, 9, 2],
       "discoveryDate": 1839,
       "nameLatin": "Lanthanum",
       "nameDE": "Lanthan"
@@ -1160,14 +879,7 @@
       "name": "Cerium",
       "period": 6,
       "symbol": "Ce",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        19,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 19, 9, 2],
       "discoveryDate": 1803,
       "nameLatin": "Cerium",
       "nameDE": "Zer"
@@ -1181,14 +893,7 @@
       "name": "Praseodymium",
       "period": 6,
       "symbol": "Pr",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        21,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 21, 8, 2],
       "discoveryDate": 1885,
       "nameLatin": "Praseodymium",
       "nameDE": "Praseodym"
@@ -1202,14 +907,7 @@
       "name": "Neodymium",
       "period": 6,
       "symbol": "Nd",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        22,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 22, 8, 2],
       "discoveryDate": 1885,
       "nameLatin": "Neodymium",
       "nameDE": "Neodym"
@@ -1223,14 +921,7 @@
       "name": "Promethium",
       "period": 6,
       "symbol": "Pm",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        23,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 23, 8, 2],
       "discoveryDate": 1945,
       "nameLatin": "Promethium",
       "nameDE": "Promethium"
@@ -1244,14 +935,7 @@
       "name": "Samarium",
       "period": 6,
       "symbol": "Sm",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        24,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 24, 8, 2],
       "discoveryDate": 1879,
       "nameLatin": "Samarium",
       "nameDE": "Samarium"
@@ -1265,14 +949,7 @@
       "name": "Europium",
       "period": 6,
       "symbol": "Eu",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        25,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 25, 8, 2],
       "discoveryDate": 1901,
       "nameLatin": "Europium",
       "nameDE": "Europium"
@@ -1286,14 +963,7 @@
       "name": "Gadolinium",
       "period": 6,
       "symbol": "Gd",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        25,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 25, 9, 2],
       "discoveryDate": 1880,
       "nameLatin": "Gadolinium",
       "nameDE": "Gadolinium"
@@ -1307,14 +977,7 @@
       "name": "Terbium",
       "period": 6,
       "symbol": "Tb",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        27,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 27, 8, 2],
       "discoveryDate": 1843,
       "nameLatin": "Terbium",
       "nameDE": "Terbium"
@@ -1328,14 +991,7 @@
       "name": "Dysprosium",
       "period": 6,
       "symbol": "Dy",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        28,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 28, 8, 2],
       "discoveryDate": 1886,
       "nameLatin": "Dysprosium",
       "nameDE": "Dysprosium"
@@ -1349,14 +1005,7 @@
       "name": "Holmium",
       "period": 6,
       "symbol": "Ho",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        29,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 29, 8, 2],
       "discoveryDate": 1878,
       "nameLatin": "Holmium",
       "nameDE": "Holmium"
@@ -1370,14 +1019,7 @@
       "name": "Erbium",
       "period": 6,
       "symbol": "Er",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        30,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 30, 8, 2],
       "discoveryDate": 1842,
       "nameLatin": "Erbium",
       "nameDE": "Erbium"
@@ -1391,14 +1033,7 @@
       "name": "Thulium",
       "period": 6,
       "symbol": "Tm",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        31,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 31, 8, 2],
       "discoveryDate": 1879,
       "nameLatin": "Thulium",
       "nameDE": "Thulium"
@@ -1412,14 +1047,7 @@
       "name": "Ytterbium",
       "period": 6,
       "symbol": "Yb",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 8, 2],
       "discoveryDate": 1878,
       "nameLatin": "Ytterbium",
       "nameDE": "Ytterbium"
@@ -1433,14 +1061,7 @@
       "name": "Lutetium",
       "period": 6,
       "symbol": "Lu",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 9, 2],
       "discoveryDate": 1907,
       "nameLatin": "Lutetium",
       "nameDE": "Lutetium"
@@ -1454,14 +1075,7 @@
       "name": "Hafnium",
       "period": 6,
       "symbol": "Hf",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        10,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 10, 2],
       "discoveryDate": 1923,
       "nameLatin": "Hafnium",
       "nameDE": "Hafnium"
@@ -1475,14 +1089,7 @@
       "name": "Tantalum",
       "period": 6,
       "symbol": "Ta",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        11,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 11, 2],
       "discoveryDate": 1802,
       "nameLatin": "Tantalum",
       "nameDE": "Tantal"
@@ -1496,14 +1103,7 @@
       "name": "Tungsten",
       "period": 6,
       "symbol": "W",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        12,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 12, 2],
       "discoveryDate": 1783,
       "nameLatin": "Wolframium",
       "nameDE": "Wolfram"
@@ -1517,14 +1117,7 @@
       "name": "Rhenium",
       "period": 6,
       "symbol": "Re",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        13,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 13, 2],
       "discoveryDate": 1925,
       "nameLatin": "Rhenium",
       "nameDE": "Rhenium"
@@ -1538,14 +1131,7 @@
       "name": "Osmium",
       "period": 6,
       "symbol": "Os",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        14,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 14, 2],
       "discoveryDate": 1803,
       "nameLatin": "Osmium",
       "nameDE": "Osmium"
@@ -1559,14 +1145,7 @@
       "name": "Iridium",
       "period": 6,
       "symbol": "Ir",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        15,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 15, 2],
       "discoveryDate": 1803,
       "nameLatin": "Iridium",
       "nameDE": "Iridium"
@@ -1580,14 +1159,7 @@
       "name": "Platinum",
       "period": 6,
       "symbol": "Pt",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        17,
-        1
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 17, 1],
       "discoveryDate": 1700,
       "nameLatin": "Platinum",
       "nameDE": "Platin"
@@ -1601,14 +1173,7 @@
       "name": "Gold",
       "period": 6,
       "symbol": "Au",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        1
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 1],
       "discoveryDate": -3000,
       "nameLatin": "Aurum",
       "nameDE": "Gold"
@@ -1622,14 +1187,7 @@
       "name": "Mercury",
       "period": 6,
       "symbol": "Hg",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 2],
       "discoveryDate": -1500,
       "nameLatin": "Hydrargyrum",
       "nameDE": "Quecksilber"
@@ -1643,14 +1201,7 @@
       "name": "Thallium",
       "period": 6,
       "symbol": "Tl",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        3
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 3],
       "discoveryDate": 1861,
       "nameLatin": "Thallium",
       "nameDE": "Thallium"
@@ -1664,14 +1215,7 @@
       "name": "Lead",
       "period": 6,
       "symbol": "Pb",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        4
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 4],
       "discoveryDate": -1000,
       "nameLatin": "Plumbum",
       "nameDE": "Blei"
@@ -1685,14 +1229,7 @@
       "name": "Bismuth",
       "period": 6,
       "symbol": "Bi",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        5
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 5],
       "discoveryDate": 1500,
       "nameLatin": "Bisemutum",
       "nameDE": "Wismut"
@@ -1706,14 +1243,7 @@
       "name": "Polonium",
       "period": 6,
       "symbol": "Po",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        6
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 6],
       "discoveryDate": 1898,
       "nameLatin": "Polonium",
       "nameDE": "Polonium"
@@ -1727,14 +1257,7 @@
       "name": "Astatine",
       "period": 6,
       "symbol": "At",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        7
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 7],
       "discoveryDate": 1940,
       "nameLatin": "Astatium",
       "nameDE": "Astat"
@@ -1748,14 +1271,7 @@
       "name": "Radon",
       "period": 6,
       "symbol": "Rn",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        8
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 8],
       "discoveryDate": 1900,
       "nameLatin": "Radon",
       "nameDE": "Radon"
@@ -1769,15 +1285,7 @@
       "name": "Francium",
       "period": 7,
       "symbol": "Fr",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        8,
-        1
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 8, 1],
       "discoveryDate": 1939,
       "nameLatin": "Francium",
       "nameDE": "Franzium"
@@ -1791,15 +1299,7 @@
       "name": "Radium",
       "period": 7,
       "symbol": "Ra",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 8, 2],
       "discoveryDate": 1898,
       "nameLatin": "Radium",
       "nameDE": "Radium"
@@ -1813,15 +1313,7 @@
       "name": "Actinium",
       "period": 7,
       "symbol": "Ac",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 9, 2],
       "discoveryDate": 1899,
       "nameLatin": "Actinium",
       "nameDE": "Aktinium"
@@ -1835,15 +1327,7 @@
       "name": "Thorium",
       "period": 7,
       "symbol": "Th",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        18,
-        10,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 18, 10, 2],
       "discoveryDate": 1829,
       "nameLatin": "Thorium",
       "nameDE": "Thorium"
@@ -1857,15 +1341,7 @@
       "name": "Protactinium",
       "period": 7,
       "symbol": "Pa",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        20,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 20, 9, 2],
       "discoveryDate": 1917,
       "nameLatin": "Protactinium",
       "nameDE": "Protaktinium"
@@ -1879,15 +1355,7 @@
       "name": "Uranium",
       "period": 7,
       "symbol": "U",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        21,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 21, 9, 2],
       "discoveryDate": 1789,
       "nameLatin": "Uranium",
       "nameDE": "Uran"
@@ -1901,15 +1369,7 @@
       "name": "Neptunium",
       "period": 7,
       "symbol": "Np",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        22,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 22, 9, 2],
       "discoveryDate": 1940,
       "nameLatin": "Neptunium",
       "nameDE": "Neptunium"
@@ -1923,15 +1383,7 @@
       "name": "Plutonium",
       "period": 7,
       "symbol": "Pu",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        24,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 24, 8, 2],
       "discoveryDate": 1940,
       "nameLatin": "Plutonium",
       "nameDE": "Plutonium"
@@ -1945,15 +1397,7 @@
       "name": "Americium",
       "period": 7,
       "symbol": "Am",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        25,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 25, 8, 2],
       "discoveryDate": 1994,
       "nameLatin": "Americium",
       "nameDE": "Amerizium"
@@ -1967,15 +1411,7 @@
       "name": "Curium",
       "period": 7,
       "symbol": "Cm",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        25,
-        9,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 25, 9, 2],
       "discoveryDate": 1944,
       "nameLatin": "Curium",
       "nameDE": "Kurium"
@@ -1989,15 +1425,7 @@
       "name": "Berkelium",
       "period": 7,
       "symbol": "Bk",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        27,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 27, 8, 2],
       "discoveryDate": 1949,
       "nameLatin": "Berkelium",
       "nameDE": "Berkelium"
@@ -2011,15 +1439,7 @@
       "name": "Californium",
       "period": 7,
       "symbol": "Cf",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        28,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 28, 8, 2],
       "discoveryDate": 1950,
       "nameLatin": "Californium",
       "nameDE": "Kalifornium"
@@ -2033,15 +1453,7 @@
       "name": "Einsteinium",
       "period": 7,
       "symbol": "Es",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        29,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 29, 8, 2],
       "discoveryDate": 1952,
       "nameLatin": "Einsteinium",
       "nameDE": "Einsteinium"
@@ -2055,15 +1467,7 @@
       "name": "Fermium",
       "period": 7,
       "symbol": "Fm",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        30,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 30, 8, 2],
       "discoveryDate": 1952,
       "nameLatin": "Fermium",
       "nameDE": "Fermium"
@@ -2077,15 +1481,7 @@
       "name": "Mendelevium",
       "period": 7,
       "symbol": "Md",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        31,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 31, 8, 2],
       "discoveryDate": 1955,
       "nameLatin": "Mendelevium",
       "nameDE": "Mendelevium"
@@ -2099,15 +1495,7 @@
       "name": "Nobelium",
       "period": 7,
       "symbol": "No",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        8,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 8, 2],
       "discoveryDate": 1958,
       "nameLatin": "Nobelium",
       "nameDE": "Nobelium"
@@ -2121,15 +1509,7 @@
       "name": "Lawrencium",
       "period": 7,
       "symbol": "Lr",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        8,
-        3
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 8, 3],
       "discoveryDate": 1961,
       "nameLatin": "Lawrencium",
       "nameDE": "Lawrencium"
@@ -2143,15 +1523,7 @@
       "name": "Rutherfordium",
       "period": 7,
       "symbol": "Rf",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        10,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 10, 2],
       "nameLatin": "Rutherfordium",
       "nameDE": "Rutherfordium"
     },
@@ -2164,15 +1536,7 @@
       "name": "Dubnium",
       "period": 7,
       "symbol": "Db",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        11,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 11, 2],
       "nameLatin": "Dubnium",
       "nameDE": "Dubnium"
     },
@@ -2185,15 +1549,7 @@
       "name": "Seaborgium",
       "period": 7,
       "symbol": "Sg",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        12,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 12, 2],
       "nameLatin": "Seaborgium",
       "nameDE": "Seaborgium"
     },
@@ -2206,15 +1562,7 @@
       "name": "Bohrium",
       "period": 7,
       "symbol": "Bh",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        13,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 13, 2],
       "nameLatin": "Bohrium",
       "nameDE": "Bohrium"
     },
@@ -2227,15 +1575,7 @@
       "name": "Hassium",
       "period": 7,
       "symbol": "Hs",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        14,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 14, 2],
       "nameLatin": "Hassium",
       "nameDE": "Hassium"
     },
@@ -2248,15 +1588,7 @@
       "name": "Meitnerium",
       "period": 7,
       "symbol": "Mt",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        15,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 15, 2],
       "nameLatin": "Meitnerium",
       "nameDE": "Meitnerium"
     },
@@ -2269,15 +1601,7 @@
       "name": "Darmstadtium",
       "period": 7,
       "symbol": "Ds",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        16,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 16, 2],
       "nameLatin": "Darmstadtium",
       "nameDE": "Darmstadtium"
     },
@@ -2290,15 +1614,7 @@
       "name": "Roentgenium",
       "period": 7,
       "symbol": "Rg",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        17,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 17, 2],
       "nameLatin": "Roentgenium",
       "nameDE": "Röntgenium"
     },
@@ -2311,15 +1627,7 @@
       "name": "Copernicium",
       "period": 7,
       "symbol": "Cn",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        18,
-        2
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 18, 2],
       "nameLatin": "Copernicium",
       "nameDE": "Kopernicium"
     },
@@ -2332,15 +1640,7 @@
       "name": "Ununtrium",
       "period": 7,
       "symbol": "Uut",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        18,
-        3
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 18, 3],
       "nameLatin": "Nihonium",
       "nameDE": "Nihonium"
     },
@@ -2353,15 +1653,7 @@
       "name": "Flerovium",
       "period": 7,
       "symbol": "Fl",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        18,
-        4
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 18, 4],
       "discoveryDate": 1886,
       "nameLatin": "Flerovium",
       "nameDE": "Flerovium"
@@ -2375,15 +1667,7 @@
       "name": "Ununpentium",
       "period": 7,
       "symbol": "Uup",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        18,
-        5
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 18, 5],
       "nameLatin": "Moscovium",
       "nameDE": "Moscovium"
     },
@@ -2396,15 +1680,7 @@
       "name": "Livermorium",
       "period": 7,
       "symbol": "Lv",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        18,
-        6
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 18, 6],
       "nameLatin": "Livermorium",
       "nameDE": "Livermorium"
     },
@@ -2417,15 +1693,7 @@
       "name": "Ununseptium",
       "period": 7,
       "symbol": "Uus",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        18,
-        7
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 18, 7],
       "nameLatin": "Tennessine",
       "nameDE": "Tennessine"
     },
@@ -2438,15 +1706,7 @@
       "name": "Ununoctium",
       "period": 7,
       "symbol": "Uuo",
-      "electronsPerShell": [
-        2,
-        8,
-        18,
-        32,
-        32,
-        18,
-        8
-      ],
+      "electronsPerShell": [2, 8, 18, 32, 32, 18, 8],
       "nameLatin": "Oganesson",
       "nameDE": "Oganesson"
     }
