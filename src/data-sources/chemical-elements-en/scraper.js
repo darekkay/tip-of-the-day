@@ -16,7 +16,7 @@ const run = () =>
   ]).then(([{ data }, langLatin, langDE]) => ({
     title: "Chemical elements",
     id: "chemical-elements-en",
-    source: "",
+    source: "https://tips.darekkay.com",
     entries: _.zipWith(
       Object.values(data.default),
       langLatin.data.split("\n"),
