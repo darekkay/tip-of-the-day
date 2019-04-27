@@ -16,5 +16,12 @@
     "title": "Logical fallacies",
     "language": "en",
     "description": "Learn to identify flaws in reasoning."
+  },
+  {
+    "slug": "plants-de",
+    "title": "Pflanzen",
+    "language": "de",
+    "description": "Informationen zu verschiedenen Pflanzenarten.",
+    "hidden": true
   }
 ]

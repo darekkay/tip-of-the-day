@@ -7,8 +7,8 @@
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
     <title><%= title %></title>
-    <link rel="stylesheet" href="../assets/css/base.css?v=1">
-    <link rel="stylesheet" href="../assets/css/style.css?v=5">
+    <link rel="stylesheet" href="../assets/css/base.css?v=2">
+    <link rel="stylesheet" href="../assets/css/style.css?v=6">
     <link rel="icon" href="../favicon.ico" sizes="16x16 32x32"/>
   </head>
   <body>
@@ -25,6 +25,7 @@
       <% if (locals.source) { %>
         <a href="<%= source %>" target="_blank" rel="noopener">Source</a>
       <% } %>
+
       <% if (locals.license) { %>
           <div>
             The content is licenced under
@@ -34,6 +35,13 @@
           <div>Authors: <%= license.author %></div>
           <% } %>
       <% } %>
+
+      <% if (locals.copyright) { %>
+        <div>
+          &copy; <a href="<%= copyright.url %>" target="_blank" rel="noopener"><%= copyright.name %></a>
+        </div>
+      <% } %>
+
       <div>More tips at
       <a href="https://tips.darekkay.com" target="_blank" rel="noopener"
         >tips.darekkay.com</a

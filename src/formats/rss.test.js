@@ -22,6 +22,10 @@ describe("generate RSS", () => {
           title: `entry title ${index}`,
           content: `content ${index}`
         }))
+      },
+      entry: {
+        title: `entry title 1`,
+        content: `content 1`
       }
     }).content;
     return JSON.parse(parser.xml2json(feed, { compact: true }));

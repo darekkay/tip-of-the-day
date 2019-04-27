@@ -1,0 +1,10 @@
+{
+  "title": "Pflanze des Tages",
+  "id": "plants-de",
+  "source": "https://www.smagy.de",
+  "copyright": {
+    "name": "www.smagy.de",
+    "url": "https://www.smagy.de"
+  },
+  "entries": ["loewen", "brom", "hederich"]
+}

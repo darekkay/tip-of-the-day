@@ -8,7 +8,7 @@ const dataSources = require("../data-sources/index.json");
 
 const output = renderTemplate({
   path: __dirname,
-  item: { sources: dataSources }
+  item: { sources: dataSources.filter(source => !source.hidden) }
 });
 
 const buildIndex = callback =>
