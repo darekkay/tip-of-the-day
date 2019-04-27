@@ -1,11 +1,8 @@
-const { selectByDate } = require("../utils/select");
-
-const generateJSON = ({ source, date }) => {
-  const content = selectByDate(source.entries, date);
+const generateJSON = ({ entry }) => {
   return {
     type: "json",
     extension: "json",
-    content: JSON.stringify(content, null, 2)
+    content: JSON.stringify(entry, null, 2)
   };
 };
 

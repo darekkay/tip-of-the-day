@@ -1,8 +1,6 @@
-const { selectByDate } = require("../utils/select");
 const renderTemplate = require("../utils/ejs");
 
-const generateHTML = ({ source, renderer, date }) => {
-  const entry = selectByDate(source.entries, date);
+const generateHTML = ({ source, entry, renderer }) => {
   const rendered = renderer(entry);
 
   return {

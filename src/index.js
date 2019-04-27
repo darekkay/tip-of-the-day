@@ -6,6 +6,7 @@ const getRenderer = require("./render");
 const generateRSS = require("./formats/rss");
 const generateJSON = require("./formats/json");
 const generateHTML = require("./formats/html");
+const { selectByDate } = require("./utils/select");
 
 const dataSources = require("./data-sources/index.json");
 
@@ -26,15 +27,20 @@ const generateAllFeeds = date => {
 
   const transformFile = filename =>
     readDataSource(filename)
-      .then(dataSource => ({
-        source: JSON.parse(dataSource),
-        renderer: getRenderer(filename)
-      }))
-      .then(({ source, renderer }) =>
+      .then(dataSource => {
+        const source = JSON.parse(dataSource);
+        return {
+          date,
+          source,
+          entry: selectByDate(source.entries, date),
+          renderer: getRenderer(filename)
+        };
+      })
+      .then(props =>
         Promise.all([
-          Promise.resolve(generateRSS({ source, renderer, date })),
-          Promise.resolve(generateJSON({ source, renderer, date })),
-          Promise.resolve(generateHTML({ source, renderer, date }))
+          Promise.resolve(generateRSS(props)),
+          Promise.resolve(generateJSON(props)),
+          Promise.resolve(generateHTML(props))
         ])
       )
       .then(feeds =>

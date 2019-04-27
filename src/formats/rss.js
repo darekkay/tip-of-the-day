@@ -1,12 +1,9 @@
-const _ = require("lodash");
 const { Feed } = require("feed");
 
 const { hash } = require("../utils/hash");
-const { selectByDate } = require("../utils/select");
-
 const { baseUrl, author } = require("../config");
 
-const generateRSS = ({ source, renderer, date }) => {
+const generateRSS = ({ source, entry, renderer, date }) => {
   const feedUrl = id => `${baseUrl}/${id}.xml`;
   const feed = new Feed({
     title: source.title,
@@ -21,10 +18,6 @@ const generateRSS = ({ source, renderer, date }) => {
     author
   });
 
-  if (_.isEmpty(source.entries))
-    throw new Error(`Missing entries for source '${source.id}'`);
-
-  const entry = selectByDate(source.entries, date);
   const rendered = renderer(entry);
   feed.addItem({
     title: rendered.title,
