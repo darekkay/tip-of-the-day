@@ -1,3 +1,4 @@
+/* eslint-disable import/no-dynamic-require,global-require */
 const { ensureFile, writeFile, readFile } = require("fs-extra");
 const { join, basename } = require("path");
 const moment = require("moment");
@@ -25,6 +26,20 @@ const generateAllFeeds = date => {
   const outputFileName = (file, extension) =>
     `${basename(file, ".json")}.${extension}`;
 
+  const enhance = tip => {
+    // custom hook to enrich the data of the selected item
+    let enhancer = value => Promise.resolve(value);
+    try {
+      enhancer = require(`./data-sources/${tip.source.id}/enhancer.js`);
+    } catch (e) {
+      // No enhancer found - using identity as fallback
+    }
+    return enhancer(tip.entry).then(entry => ({
+      ...tip,
+      entry
+    }));
+  };
+
   const transformFile = filename =>
     readDataSource(filename)
       .then(dataSource => {
@@ -36,11 +51,12 @@ const generateAllFeeds = date => {
           renderer: getRenderer(filename)
         };
       })
-      .then(props =>
+      .then(enhance)
+      .then(tip =>
         Promise.all([
-          Promise.resolve(generateRSS(props)),
-          Promise.resolve(generateJSON(props)),
-          Promise.resolve(generateHTML(props))
+          Promise.resolve(generateRSS(tip)),
+          Promise.resolve(generateJSON(tip)),
+          Promise.resolve(generateHTML(tip))
         ])
       )
       .then(feeds =>
