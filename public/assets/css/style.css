@@ -1,7 +1,51 @@
+html, body {
+  height: 100%;
+}
+
 body {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+}
+
+main {
+  flex: 1;
+  width: 100%;
   max-width: 800px;
-  margin: 0 auto;
-  padding: 1rem 2.5rem 0;
+  margin: 4rem auto;
+  padding: 1rem 2.5rem;
+}
+
+header, footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2.5rem 1rem;
+}
+
+header h1 {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+footer {
+  flex-direction: column;
+  font-size: 1.6rem;
+}
+
+footer > * {
+  margin: 0.6rem;
+}
+
+.inverted {
+  background: #202020;
+  color: #fff;
+}
+
+.inverted a, .inverted a:hover, .inverted a:visited {
+  color: #ff9e07;
 }
 
 img {
@@ -9,33 +53,10 @@ img {
   height: auto;
 }
 
-.headline {
-  margin-bottom: 4rem;
-  text-align: center;
-}
-
 .tagline {
-  font-size: 2.2rem;
+  margin: 0 0 2rem 0;
+  font-size: 2.3rem;
   text-align: center;
-}
-
-footer {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-
-  margin-top: 5rem;
-  padding: 1rem 0;
-  height: auto;
-
-  font-size: 1.5rem;
-  text-align: center;
-  border-top: 1px solid #ccc;
-}
-
-footer > * {
-  margin-bottom: 0.75rem;
 }
 
 .github {
@@ -43,12 +64,13 @@ footer > * {
   align-items: center;
 }
 
-.icon-github {
-  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMEMzLjU4IDAgMCAzLjU4IDAgOGMwIDMuNTQgMi4yOSA2LjUzIDUuNDcgNy41OS40LjA3LjU1LS4xNy41NS0uMzggMC0uMTktLjAxLS44Mi0uMDEtMS40OS0yLjAxLjM3LTIuNTMtLjQ5LTIuNjktLjk0LS4wOS0uMjMtLjQ4LS45NC0uODItMS4xMy0uMjgtLjE1LS42OC0uNTItLjAxLS41My42My0uMDEgMS4wOC41OCAxLjIzLjgyLjcyIDEuMjEgMS44Ny44NyAyLjMzLjY2LjA3LS41Mi4yOC0uODcuNTEtMS4wNy0xLjc4LS4yLTMuNjQtLjg5LTMuNjQtMy45NSAwLS44Ny4zMS0xLjU5LjgyLTIuMTUtLjA4LS4yLS4zNi0xLjAyLjA4LTIuMTIgMCAwIC42Ny0uMjEgMi4yLjgyLjY0LS4xOCAxLjMyLS4yNyAyLS4yNy42OCAwIDEuMzYuMDkgMiAuMjcgMS41My0xLjA0IDIuMi0uODIgMi4yLS44Mi40NCAxLjEuMTYgMS45Mi4wOCAyLjEyLjUxLjU2LjgyIDEuMjcuODIgMi4xNSAwIDMuMDctMS44NyAzLjc1LTMuNjUgMy45NS4yOS4yNS41NC43My41NCAxLjQ4IDAgMS4wNy0uMDEgMS45My0uMDEgMi4yIDAgLjIxLjE1LjQ2LjU1LjM4QTguMDEzIDguMDEzIDAgMCAwIDE2IDhjMC00LjQyLTMuNTgtOC04LTh6Ii8+PC9zdmc+")
-    no-repeat;
-  margin-left: 0.5rem;
+.icon {
   height: 2rem;
   width: 2rem;
+}
+
+.icon-right {
+  margin-left: 0.5rem;
 }
 
 .card {

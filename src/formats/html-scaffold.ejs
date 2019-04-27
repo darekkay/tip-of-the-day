@@ -12,12 +12,16 @@
     <link rel="icon" href="../favicon.ico" sizes="16x16 32x32"/>
   </head>
   <body>
+    <header class="inverted">
+      <h1><%= title %></h1>
+    </header>
+
     <main>
       <h2><%= name %></h2>
       <%- content %>
     </main>
 
-    <footer>
+    <footer class="inverted">
       <% if (locals.source) { %>
         <a href="<%= source %>" target="_blank" rel="noopener">Source</a>
       <% } %>

@@ -44,7 +44,7 @@
     "build:index": "gulp build",
     "build:feeds": "node src/index.js",
     "ci": "npm run lint:check && npm run test",
-    "format": "prettier --write -- \"{src,public}/**/*.{js,jsx,tsx,json,css,scss,md}\"",
+    "format": "prettier --write -- \"{src,public}/**/*.{js,jsx,json,css,scss,md}\"",
     "generate": "plop --plopfile internals/generators/index.js",
     "lint:check": "eslint src/**/*.js",
     "lint:fix": "eslint --fix src/**/*.js",
