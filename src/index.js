@@ -2,6 +2,7 @@
 const { ensureFile, writeFile, readFile } = require("fs-extra");
 const { join, basename } = require("path");
 const moment = require("moment");
+const _ = require("lodash");
 
 const getRenderer = require("./render");
 const generateRSS = require("./formats/rss");
@@ -44,6 +45,8 @@ const generateAllFeeds = date => {
     readDataSource(filename)
       .then(dataSource => {
         const source = JSON.parse(dataSource);
+        if (_.isEmpty(source.entries))
+          throw new Error(`Missing entries for source '${source.id}'`);
         return {
           date,
           source,
