@@ -20,32 +20,32 @@
     </p>
 
     <p class="text-center">
-        <img src="assets/img/diagram.png" width="459" height="104" alt=""/>
+      <img src="assets/img/diagram.png" width="459" height="104" alt=""/>
     </p>
 
     <p class="text-center">
-        For each category, a single tip is delivered every day.<br>
-        Subscribe via a browser bookmark, RSS feed or JSON endpoint.
+      For each category, a single tip is delivered every day.<br>
+      Subscribe via a browser bookmark, RSS feed or JSON endpoint.
     </p>
 
     <ul class="d-flex flex-wrap justify-content-center no-margin no-padding">
-      <% sources.forEach(source => {%>
-      <li class="card d-flex flex-column margin border">
-        <div class="font-weight-500 margin-bottom">
+      <% sources.forEach(source => { %>
+        <li class="card d-flex flex-column margin border">
+          <div class="font-weight-500 margin-bottom">
             <a href="html/<%= source.slug %>.html"><%= source.title %></a>
             (<%= source.language %>)
-        </div>
-        <div class="margin-bottom"> <%= source.description %>
-        </div>
-        <div class="mt-auto text-right">
-          <a href="rss/<%= source.slug %>.xml" class="button d-inline-block margin-left no-decoration">
-            <img src="assets/img/atom.png" width="54" height="21" alt="RSS feed for <%= source.title %>"/>
-          </a>
-          <a href="json/<%= source.slug %>.json" class="button d-inline-block margin-left no-decoration">
-            <img src="assets/img/json.png" width="54" height="21" alt="JSON feed for <%= source.title %>"/>
-          </a>
-        </div>
-      </li>
+          </div>
+          <div class="margin-bottom"> <%= source.description %>
+          </div>
+          <div class="mt-auto text-right">
+            <a href="rss/<%= source.slug %>.xml" class="button d-inline-block margin-left no-decoration">
+              <img src="assets/img/atom.png" width="54" height="21" alt="RSS feed for <%= source.title %>"/>
+            </a>
+            <a href="json/<%= source.slug %>.json" class="button d-inline-block margin-left no-decoration">
+              <img src="assets/img/json.png" width="54" height="21" alt="JSON feed for <%= source.title %>"/>
+            </a>
+          </div>
+        </li>
       <% }); %>
     </ul>
   </main>
@@ -60,9 +60,9 @@
       <span>
         Fork me on
         <a
-          href="https://github.com/darekkay/tip-of-the-day"
-          target="_blank"
-          rel="noopener"
+                href="https://github.com/darekkay/tip-of-the-day"
+                target="_blank"
+                rel="noopener"
         >GitHub</a>
       </span>
       <svg aria-hidden="true" focusable="false" class="icon icon-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512">

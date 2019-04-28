@@ -1,52 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <title><%= title %></title>
-    <link rel="stylesheet" href="../assets/css/base.css?v=2">
-    <link rel="stylesheet" href="../assets/css/style.css?v=6">
-    <link rel="icon" href="../favicon.ico" sizes="16x16 32x32"/>
-  </head>
-  <body>
-    <header class="inverted">
-      <h1><%= title %></h1>
-    </header>
+<head>
+  <meta charset="utf-8"/>
+  <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+  <title><%= title %></title>
+  <link rel="stylesheet" href="../assets/css/base.css?v=2">
+  <link rel="stylesheet" href="../assets/css/style.css?v=6">
+  <link rel="icon" href="../favicon.ico" sizes="16x16 32x32"/>
+</head>
+<body>
+  <header class="inverted">
+    <h1><%= title %></h1>
+  </header>
 
-    <main>
-      <h2><%= name %></h2>
-      <%- content %>
-    </main>
+  <main>
+    <h2><%= name %></h2>
+    <%- content %>
+  </main>
 
-    <footer class="inverted">
-      <% if (locals.source) { %>
-        <a href="<%= source %>" target="_blank" rel="noopener">Source</a>
-      <% } %>
+  <footer class="inverted">
+    <% if (locals.source) { %>
+      <a href="<%= source %>" target="_blank" rel="noopener">Source</a>
+    <% } %>
 
-      <% if (locals.license) { %>
-          <div>
-            The content is licenced under
-            <a href="<%= license.url %>" target="_blank" rel="noopener"><%= license.name %></a>.
-          </div>
-          <% if (license.author) { %>
-          <div>Authors: <%= license.author %></div>
-          <% } %>
-      <% } %>
-
-      <% if (locals.copyright) { %>
-        <div>
-          &copy; <a href="<%= copyright.url %>" target="_blank" rel="noopener"><%= copyright.name %></a>
-        </div>
-      <% } %>
-
-      <div>More tips at
-      <a href="https://tips.darekkay.com" target="_blank" rel="noopener"
-        >tips.darekkay.com</a
-      >
+    <% if (locals.license) { %>
+      <div>
+        The content is licenced under
+        <a href="<%= license.url %>" target="_blank" rel="noopener"><%= license.name %></a>.
       </div>
-    </footer>
-  </body>
+      <% if (license.author) { %>
+        <div>Authors: <%= license.author %></div>
+      <% } %>
+    <% } %>
+
+    <% if (locals.copyright) { %>
+      <div>
+        &copy;
+        <a href="<%= copyright.url %>" target="_blank" rel="noopener"><%= copyright.name %></a>
+      </div>
+    <% } %>
+
+    <div>More tips at
+      <a href="https://tips.darekkay.com" target="_blank" rel="noopener"
+      >tips.darekkay.com</a
+      >
+    </div>
+  </footer>
+</body>
 </html>
