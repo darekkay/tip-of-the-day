@@ -126,6 +126,10 @@ img {
   font-weight: 500;
 }
 
+.text-footnote {
+  font-size: 1.4rem;
+}
+
 .no-decoration,
 .no-decoration:hover {
   text-decoration: none;
