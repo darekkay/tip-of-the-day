@@ -36,7 +36,7 @@ describe("generate RSS", () => {
       numberOfEntries: 1
     });
 
-    expect(feed.id._text).to.equal(`${config.baseUrl}/mock.xml`);
+    expect(feed.id._text).to.equal(`${config.baseUrl}/rss/mock.xml`);
     expect(feed.title._text).to.equal("feed title");
     expect(feed.author).to.be.not.empty;
     expect(feed.updated._text).to.equal("2018-01-02T03:04:05.000Z");

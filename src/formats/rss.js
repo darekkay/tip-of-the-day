@@ -4,7 +4,7 @@ const { hash } = require("../utils/hash");
 const { baseUrl, author } = require("../config");
 
 const generateRSS = ({ source, entry, renderer, date }) => {
-  const feedUrl = id => `${baseUrl}/${id}.xml`;
+  const feedUrl = id => `${baseUrl}/rss/${id}.xml`;
   const feed = new Feed({
     title: source.title,
 
