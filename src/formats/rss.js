@@ -24,7 +24,7 @@ const generateRSS = ({ source, entry, renderer, date }) => {
     content: rendered.content,
     id: hash(`${source.id}${date}`),
     date,
-    link: rendered.url || `${baseUrl}/html/${source.id}.html`
+    link: `${baseUrl}/html/${source.id}.html`
   });
   return {
     type: "rss",
