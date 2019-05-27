@@ -9,7 +9,7 @@ const buildIndex = require("./src/home-index/build");
 const files = {
   html: "public/**/*.html",
   css: "public/**/*.css",
-  static: ["public/**/*.png", "public/**/*.ico"],
+  static: ["public/**/*.png", "public/**/*.ico", "public/manifest.json"],
   build: "build"
 };
 
