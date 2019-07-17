@@ -7,9 +7,7 @@ const enhance = entry =>
   axios
     .get(
       encodeURI(
-        `https://www.smagy.de/service/plantInfo.php?in_data_type=1&in_data=${entry}&out_data=3&cust_id=${
-          config.api.smagy
-        }`
+        `https://www.smagy.de/service/plantInfo.php?in_data_type=1&in_data=${entry}&out_data=3&cust_id=${config.api.smagy}`
       )
     )
     .then(response => {
