@@ -48,6 +48,7 @@ All data used to generate daily tips is stored within the repository.
 1. Run `npm run generate` to generate a new data source boilerplate.
 2. Include your data source in `src/data-sources/<source>/data.json`. Using a `scraper` is recommended to keep the data up-to-date.
 3. Define how the data should be rendered in `src/data-sources/<source>/template.js`.
+4. Add the new data source to the `data-sources/index.json` file.
 
 ### Templating
 

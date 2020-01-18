@@ -21,3 +21,4 @@ const scrape = slug => {
 // scrape("chemical-elements-en");
 // scrape("countries-en");
 // scrape("logical-fallacies-en");
+// scrape("xkcd-en");

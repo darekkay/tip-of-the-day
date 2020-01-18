@@ -18,6 +18,12 @@
     "description": "Learn to identify flaws in reasoning."
   },
   {
+    "slug": "xkcd-en",
+    "title": "XKCD comics",
+    "language": "en",
+    "description": "A webcomic of romance, sarcasm, math, and language."
+  },
+  {
     "slug": "plants-de",
     "title": "Pflanzen",
     "language": "de",
