@@ -5,7 +5,7 @@ module.exports = plop => {
       {
         type: "input",
         name: "name",
-        message: "What should it be called?"
+        message: "What should it be called (slug)?"
       },
       {
         type: "input",

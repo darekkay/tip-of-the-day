@@ -24,6 +24,12 @@
     "description": "A webcomic of romance, sarcasm, math, and language."
   },
   {
+    "slug": "hacker-laws-en",
+    "title": "Hacker laws",
+    "language": "en",
+    "description": "Laws, Theories, Principles and Patterns for developers"
+  },
+  {
     "slug": "plants-de",
     "title": "Pflanzen",
     "language": "de",

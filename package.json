@@ -12,6 +12,7 @@
     "fs-extra": "8.1.0",
     "jsdom": "16.0.1",
     "lodash": "4.17.15",
+    "markdown-it": "^10.0.0",
     "moment": "2.24.0",
     "shuffle-seed": "1.1.6",
     "world-countries": "2.1.0"

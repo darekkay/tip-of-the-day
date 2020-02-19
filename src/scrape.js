@@ -2,7 +2,6 @@
 const { writeFile } = require("fs-extra");
 const { join } = require("path");
 
-// eslint-disable-next-line no-unused-vars
 const scrape = slug => {
   const scraper = require(`./data-sources/${slug}/scraper.js`);
   scraper
@@ -22,3 +21,4 @@ const scrape = slug => {
 // scrape("countries-en");
 // scrape("logical-fallacies-en");
 // scrape("xkcd-en");
+// scrape("hacker-laws-en");
