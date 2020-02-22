@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Darek Kay <hello@darekkay.com> (https://darekkay.com/)",
   "dependencies": {
+    "@darekkay/styles": "1.0.0",
     "@umpirsky/currency-list": "git+https://git@github.com/umpirsky/currency-list.git",
     "axios": "0.19.2",
     "country-json": "1.1.0",
@@ -32,7 +33,9 @@
     "gulp-load-plugins": "2.0.2",
     "gulp-plumber": "1.2.1",
     "gulp-rename": "2.0.0",
+    "gulp-sass": "4.0.2",
     "mocha": "7.0.1",
+    "node-sass": "4.13.1",
     "plop": "2.5.3",
     "prettier": "1.19.1",
     "xml-js": "1.6.11"

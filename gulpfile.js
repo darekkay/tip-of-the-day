@@ -8,7 +8,10 @@ const buildIndex = require("./src/home-index/build");
 
 const files = {
   html: "public/**/*.html",
-  css: "public/**/*.css",
+  scss: {
+    src: "scss/index.scss",
+    dest: "build/assets"
+  },
   static: ["public/**/*.png", "public/**/*.ico", "public/manifest.json"],
   build: "build"
 };
@@ -39,8 +42,8 @@ const buildHTML = () =>
 
 const buildCSS = () =>
   gulp
-    .src(files.css)
-    .pipe(plugins.plumber())
+    .src(files.scss.src)
+    .pipe(plugins.sass().on("error", plugins.sass.logError))
     .pipe(
       plugins.cleanCss({
         level: {
@@ -50,8 +53,12 @@ const buildCSS = () =>
         }
       })
     )
-    .pipe(gulp.dest(files.build))
-    .on("error", console.error);
+    .pipe(
+      plugins.rename({
+        basename: "styles"
+      })
+    )
+    .pipe(gulp.dest(files.scss.dest));
 
 const buildStatic = () =>
   gulp

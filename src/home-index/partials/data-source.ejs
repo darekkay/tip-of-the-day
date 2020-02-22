@@ -1,14 +1,14 @@
-<li class="card d-flex flex-column margin border">
+<li class="card flex flex-col margin border">
   <div class="font-weight-500 margin-bottom">
     <a href="html/<%= source.slug %>.html"><%= source.title %></a>
   </div>
   <div class="margin-bottom"> <%= source.description %>
   </div>
   <div class="mt-auto text-right">
-    <a href="rss/<%= source.slug %>.xml" class="button d-inline-block margin-left no-decoration">
+    <a href="rss/<%= source.slug %>.xml" class="button inline-block margin-left no-decoration">
       <img src="assets/img/atom.png" width="54" height="21" alt="RSS feed for <%= source.title %>"/>
     </a>
-    <a href="json/<%= source.slug %>.json" class="button d-inline-block margin-left no-decoration">
+    <a href="json/<%= source.slug %>.json" class="button inline-block margin-left no-decoration">
       <img src="assets/img/json.png" width="54" height="21" alt="JSON feed for <%= source.title %>"/>
     </a>
   </div>
