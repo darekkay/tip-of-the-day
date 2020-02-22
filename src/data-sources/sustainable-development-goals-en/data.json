@@ -1,0 +1,1197 @@
+{
+  "title": "Sustainable Development Goals",
+  "id": "sustainable-development-goals-en",
+  "source": "https://www.globalgoals.org/",
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "author": "United Nations"
+  },
+  "entries": [
+    {
+      "title": "No Poverty",
+      "slug": "no-poverty",
+      "number": 1,
+      "backgroundColor": "#e5243b",
+      "image": "<svg viewBox=\"0 0 1000 460\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M413 438.7v14l-.2.4v.7c.2 3.5 3 6.3 6.6 6.3H585c3.5 0 6.4-3 6.4-6.7v-16C684.4 407 753.8 331.6 769 240c.3-.3.3-.5.3-.6v-1c0-3.7-3-6.6-6.6-6.6H237c-3.8 0-6.8 3-6.8 6.6l.4 3C246.6 334 318 409.7 413 439M591 7c-2 3-53 76.2 1.2 135.3 24.8 27.2 22.6 51 15.6 67.3h34.7c7-24 4-54-24-84.6-40-43.6.4-102.5 1-103.4 5-6.6 2.5-15.2-5.5-19.2-7.8-4-18-2-22.8 4.8m-87.8 202.6H538c7-24 4.2-53.8-24-84.6-40-43.6.5-102.5 1-103.4 5-6.7 2.3-15.4-5.5-19.4-8-4-18-2-22.8 4.8-2.2 3-53 76.2 1 135.3 25 27.2 22.7 51 15.7 67.3M382 7.2c-2.2 3-53 76.2 1.2 135.3 24.8 27.2 22.6 51 15.6 67.3h34.7c7-24 4-53.8-24-84.6-40-43.6.4-102.5 1-103.4 4.7-6.7 2.2-15.4-5.6-19.4-8-4-18.5-2-23 4.8\"></path></svg>\r\n",
+      "introduction": "End poverty in all its forms everywhere.",
+      "manifest": "Eradicating poverty is not a task of charity, it is an act of justice and the key to unlocking an enormous human potential. Still, nearly half of the world’s population lives in poverty, and lack of food and clean water is killing thousands every single day of the year. Together, we can feed the hungry, wipe out disease and give everyone in the world a chance to prosper and live a productive and rich life. ",
+      "targets": [
+        {
+          "title": "Eradicate Extreme Poverty",
+          "body": "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F51f2aa71-64e4-4b19-82dc-a1348ce82741_goal_1-1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Reduce Poverty by at Least 50%",
+          "body": "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F739ab9c0-5912-4775-ba0c-a23d644e126a_goal_1-2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Implement Social Protection Systems",
+          "body": "Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F4bde7759-9454-4e11-a225-3aa0d32c54db_goal_1-3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Equal Rights to Ownership, Basic Services, Technology and Economic Resources",
+          "body": "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fa391b32c-dd4f-4984-8ddb-eca309cb6205_goal_1-4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Build Resilience to Environmental, Economic and Social Disasters",
+          "body": "By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F43645f9b-cecd-4551-b0ca-fff850f6e251_goal_1-5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Mobilize Resources to Implement Policies to End Poverty",
+          "body": "Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fb9b42dcd-2065-43b5-beeb-0b057dae85d3_goal_1-a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Create pro-poor and gender-sensitive policy frameworks",
+          "body": "Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F90df1f90-273b-42df-aec2-8f1a6cffd9c2_goal_1-b_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 1 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Donate what you don’t use. Local charities will give your gently used clothes, books and furniture a new life.",
+        "Support campaigns collecting items for victims of emergencies. Donate your clothes, food supplies etc. to support those in need.",
+        "Poverty still persists in every country. Over 8% of the world population lives in extreme poverty. Lend your voice to the fight against extreme poverty.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Zero hunger",
+      "slug": "zero-hunger",
+      "number": 2,
+      "backgroundColor": "#dda63a",
+      "image": "<svg viewBox=\"0 0 1000 470\"><g fill=\"currentColor\" fill-rule=\"evenodd\"><path d=\"M836 249c0-28.2-18.2-51-45.5-51-13.7 0-30.2 15-39 24.2-9-9.2-24.5-24.2-38.2-24.2-27.3 0-46.5 22.8-46.5 51 0 14 5.6 26.8 14.5 36l70 70.2 70-70.2c9-9.2 14.6-22 14.6-36\"></path><path d=\"M537.4 470c-.2 0-.4 0-.7-.2-5.3-.3-9.7-4.2-10.6-9.5L490.6 253l-54 100c-2.3 4.3-7.3 6.7-12 5.8-5-1-8.8-4.8-9.5-9.7l-23-160-41.8 94c-1.8 4.3-6 7-10.5 7H177c-6.5 0-11.7-5.2-11.7-11.6 0-6.3 5.2-11.5 11.6-11.5H332l55-123.8c2.2-4.7 7-7.4 12.2-6.7 5 .7 9 4.7 9.8 9.7l23.6 165 53.2-98.6c2.4-4.3 7.2-6.7 12-6 5 1 8.7 4.7 9.5 9.6l33 192L660.7 9c1.4-4.5 5.4-7.8 10-8.2 5-.3 9.3 2.3 11.4 6.5l63.3 131c2.8 5.8.4 12.7-5.3 15.5-5.7 2.7-12.6.3-15.4-5.4L674.2 44 548.4 461.7c-1.4 5-6 8.2-11 8.2\"></path></g></svg>\r\n",
+      "introduction": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture.",
+      "manifest": "Hunger is the leading cause of death in the world. Our planet has provided us with tremendous resources, but unequal access and inefficient handling leaves millions of people malnourished. If we promote sustainable agriculture with modern technologies and fair distribution systems, we can sustain the whole world’s population and make sure that nobody will ever suffer from hunger again.",
+      "targets": [
+        {
+          "title": "Universal Access to Safe and Nutritious Food",
+          "body": "By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fc464ed5e-ed97-4a47-a95a-4d298144eabb_goal_2.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "End All Forms of Malnutrition",
+          "body": "By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fc947ece7-cadb-4970-9afd-a0ab5b8123f9_goal_2.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Double the Productivity and Incomes of Small-Scale Food Producers",
+          "body": "By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F7684cc54-8a54-4e20-ba41-faa98cd15158_goal_2.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Sustainable Food Production and Resilient Agricultural Practices",
+          "body": "By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F1c29895c-f9d5-4b5c-a955-334e311567ab_goal_2.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Maintain the Genetic Diversity in Food Production",
+          "body": "By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Ff8d2c2ca-e74e-4704-91c4-2302a0525ac5_goal_2.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Invest in Rural Infrastructure, Agricultural Research, Technology and Gene Banks",
+          "body": "Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fa2ae7b6c-aaf0-4fb7-8d5f-fbffe02d9b0b_goal_2.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Prevent Agricultural Trade Restrictions, Market Distortions and Export Subsidies",
+          "body": "Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F8599bc08-6953-4791-8a1f-02424e71f5c5_goal_2.b_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Ensure Stable Food Commodity Markets and Timely Access to Information",
+          "body": "Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F4c24c4b4-e537-476f-a5c4-3795eb3444d7_goal_2.c_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 2 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Buy local and in-season food. Try to grow some of your own food.",
+        "Don’t waste food. Freeze fresh produce and leftovers if you don’t have the chance to eat them before they go bad.",
+        "Buy Funny Fruit—many fruits and vegetables are thrown out because their size, shape, or color are not “right”. Buying these perfectly good funny fruit, utilizes food that might otherwise go to waste.",
+        "Consume less meat and become vegetarian for one day a week. The meat production industry has a huge impact on the environment.",
+        "Take action with the World’s Largest Lesson on Goal 2.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Good Health and Well-being",
+      "slug": "good-health-and-well-being",
+      "number": 3,
+      "backgroundColor": "#4c9f38",
+      "image": "<svg viewBox=\"0 0 1000 458\"><g fill=\"currentColor\" fill-rule=\"evenodd\"><path d=\"M443.4 134.2L264 30.6v335l179.4 54V134.3m19.6.7v285l180.6-54.4v-335L463 135M784.4 22.2C784.4 10.4 775 1 763.2 1S742 10.3 742 22v23h42.4V22.2m-37 337.5H742l21.2 74.2 21.2-74.5H779h5.4v-298H742v298h5.3\"></path><path d=\"M682.2 45L663 29.8v345L463.6 439h-20.3L245 383.8v-354L225.8 45v352.2l216.7 60h22l200-63.5 17.7-5.2V45\"></path></g></svg>\r\n",
+      "introduction": "Ensure healthy lives and promote well-being for all at all ages.",
+      "manifest": "Over the last 15 years, the number of childhood deaths has been cut in half. This proves that it is possible to win the fight against almost every disease. Still, we are spending an astonishing amount of money and resources on treating illnesses that are surprisingly easy to prevent. The new goal for worldwide Good Health promotes healthy lifestyles, preventive measures and modern, efficient healthcare for everyone.",
+      "targets": [
+        {
+          "title": "Reduce Maternal Mortality",
+          "body": "By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F1806909f-8923-44e9-8fd8-7927779576af_goal_3.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "End All Preventable Deaths Under 5 Years of Age",
+          "body": "By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‑5 mortality to at least as low as 25 per 1,000 live births.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F11cad40e-189f-4a80-931f-82510bf33f73_goal_3.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Fight Communicable Diseases",
+          "body": "By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F2a4266cd-b4c0-42fd-b075-46380748690a_goal_3.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Reduce Mortality from Non-Communicable Diseases and Promote Mental Health",
+          "body": "By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F79b1e83f-f8aa-4b93-ac08-f6dff3f918a5_goal_3.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Prevent and Treat Substance Abuse",
+          "body": "Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F2352c92c-3375-4046-8e66-65391265f194_goal_3.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Reduce Road Injuries and Deaths",
+          "body": "By 2020, halve the number of global deaths and injuries from road traffic accidents.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F309df569-2d2a-4221-915b-92fc2bb766b7_goal_3.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Universal Access to Sexual and Reproductive Care, Family Planning and Education",
+          "body": "By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fb1945b0e-4b85-45c4-acb9-192abe8cde8a_goal_3.7_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Achieve Universal Health Coverage",
+          "body": "Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F382df26d-e2cc-4543-b5be-ee3f6c2ed5f8_goal_3.8_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Reduce Illnesses and Death from Hazardous Chemicals and Pollution",
+          "body": "By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fd18ce389-1e33-4fbe-a23f-186c452cf9db_goal_3.9_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Implement the WHO Framework Convention on Tobacco Control",
+          "body": "Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries, as appropriate.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fc118ca01-fa33-491d-a214-e23bfb585e4d_goal_3.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Support Research, Development and Universal Access to Affordable Vaccines and Medicines",
+          "body": "Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F7446a062-a331-4ea3-be2c-9e7fdcb1b290_goal_3.b_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Increase Health Financing and Support Health Workforce in Developing Countries",
+          "body": "Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries, especially in least developed countries and small island developing States.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F194fd611-662f-40d5-ab7e-2990f8e7b45b_goal_3.c_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Improve Early Warning Systems for Global Health Risks",
+          "body": "Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F1e35287b-8462-4728-a5e2-bdfe0325d710_goal_3.d_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 3 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Vaccinate yourself and your kids. Protecting your family from disease also aids public health.",
+        "Place yourself on the organ and tissue donors’ registry in your country.",
+        "Donate your blood. Safe blood saves lives!",
+        "Walk! It’s good for the mind, body, and the environment.",
+        "Volunteer at a hospital. You can support its operations and increase the hospital’s human capacity and productivity.",
+        "Take care of your mental health. Meditate, talk to friends and family, and seek professional help.",
+        "Help rural or emergency areas with equal access to medicine. Not all of the people have equal access to medicine, especially in rural areas. Run a campaign to donate medicine that will be passed to rural or emergency areas.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Quality Education",
+      "slug": "quality-education",
+      "number": 4,
+      "backgroundColor": "#c5192d",
+      "image": "<svg viewBox=\"0 0 1000 533\"><g fill=\"currentColor\" fill-rule=\"evenodd\"><path d=\"M498.3 347.6c-66 0-120-53.7-120-119.8 0-66 54-119.8 120-119.8S618 161.8 618 227.8s-53.7 119.8-119.8 119.8M728.4.4H604c-.8 0-1.5.7-1.5 1.6v41.3c0 1 .7 1.6 1.5 1.6h49.5l-55 54.8C571 78 536.2 65 498.4 65c-89.8 0-162.8 73-162.8 162.8 0 82.7 62 151 141.7 161.4v47.6h-49c-1 0-1.6.7-1.6 1.6v44.2c0 1 .7 1.6 1.6 1.6h49v47c0 .8.7 1.5 1.6 1.5H523c1 0 1.7-.7 1.7-1.6v-46.8h49c.8 0 1.5-.7 1.5-1.5v-44.3c0-1-.7-1.6-1.5-1.6h-49v-48.4C602 375.7 661 308.6 661 227.8c0-34.8-11-67-29.7-93.6l54-54.2v46.2c0 1 .8 1.6 1.7 1.6h41.3c1 0 1.6-.7 1.6-1.5V2c0-1-.8-1.6-1.7-1.6\"></path><path d=\"M571.4 178.7H426c-.8 0-1.5.6-1.5 1.4v35.2c0 1 .7 1.5 1.6 1.5h145.5c1 0 1.6-.7 1.6-1.5V180c0-.8-.6-1.4-1.5-1.4m0 62.8H426c-.8 0-1.5.7-1.5 1.5v35c0 1 .7 1.5 1.6 1.5h145.5c1 0 1.6-.7 1.6-1.4v-35c0-1-.6-1.6-1.5-1.6\"></path></g></svg>\r\n",
+      "introduction": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.",
+      "manifest": "Education liberates the intellect, unlocks the imagination and is fundamental for self-respect. It is the key to prosperity and opens a world of opportunities, making it possible for each of us to contribute to a progressive, healthy society. Learning benefits every human being and should be available to all. ",
+      "targets": [
+        {
+          "title": "Free Primary and Secondary Education",
+          "body": "By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fb8f666cb-30be-4dd5-8771-94fac8d9872b_goal_4.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Equal Access to Quality Pre-Primary Education",
+          "body": "By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F8bf194f8-87a6-4161-931f-7f4091eb246e_goal_4.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Equal Access to Affordable Technical, Vocational and Higher Education",
+          "body": "By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F00ebb6cc-3902-46e6-b335-5213e6b0b06d_goal_4.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Increase the Number of People with Relevant Skills for Financial Success",
+          "body": "By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fa99f0803-ff88-4c57-a7af-4480e0e06cdd_goal_4.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Eliminate All Discrimination in Education",
+          "body": "By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F42069873-7331-4d32-9ae0-f86af6ebe63c_goal_4.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Universal Literacy and Numeracy",
+          "body": "By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F325cb279-f105-40bd-b3ef-da17fce5d3b6_goal_4.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Education for Sustainable Development and Global Citizenship",
+          "body": "By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development",
+          "pictogram": "https://images.prismic.io/globalgoals%2F737867a2-1db6-4fb1-80ab-cbdefb768e20_goal_4.7_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Build and Upgrade Inclusive and Safe Schools",
+          "body": "Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F96d0bf4c-5d45-4c3d-8fff-e1df9c100f28_goal_4.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Expand Higher Education Scholarships for Developing Countries",
+          "body": "By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F1870159b-9f7a-4be8-a1fb-26f6e65fd9a7_goal_4.b_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Increase the supply of qualified teachers In Developing Countries",
+          "body": "By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F5c6c9052-c3dd-4cbe-8ea6-715d96f2f9a4_goal_4.c_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 4 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Donate your used books. The easiest way to give access to knowledge is to donate your used books to someone.",
+        "Promote and take free online courses. In a digital world, there are more opportunities to get access to education than just go to university.",
+        "Visit your local school and ask what school supplies they need. Start a school supply drive in your community.",
+        "Mentor young people. You can provide tutoring and homework assistance, teach a language or deliver a lesson on the Global Goals.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Gender Equality",
+      "slug": "gender-equality",
+      "number": 5,
+      "backgroundColor": "#ff3a21",
+      "image": "<svg viewBox=\"0 0 1000 510\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M659.2 79c-10-4.3-22.3-2.8-34.3 2-45 18.3-76 25-123 10-30-9.3-58-28.8-91-17-22 8-42.6 15.5-67 15.3L330 16h339.4l-10.2 63zm-115 217.5s-16.6 17-43.4 15c-27 2-43.3-15-43.3-15-27.2-27-17.5-61-8-78.4 5.8-10.3 47.5-73 51-78.3v-.5h.3v.4c3.6 5.3 45.5 68 51.3 79 10 17.4 19.8 51.2-8 78.3zm140-295c-.7-1-2-1.5-3.2-1.5H318.2c-1.2 0-2.4.5-3.2 1.4-.8 1-1 2.3-1 3.5l61 368c.3 2 2 3.4 4.2 3.4H454l5 60h-31.4L501 510l73-73h-31.5l5-60H624c2.2 0 4-1.6 4.2-3.7L685.2 5c.3-1.4 0-2.6-1-3.6z\"></path></svg>\r\n",
+      "introduction": "Achieve gender equality and empower all women and girls.",
+      "manifest": "Gender bias is undermining our social fabric and devalues all of us. It is not just a human rights issue; it is a tremendous waste of the world’s human potential. By denying women equal rights, we deny half the population a chance to live life at its fullest. Political, economic and social equality for women will benefit all the world’s citizens. Together we can eradicate prejudice and work for equal rights and respect for all.",
+      "targets": [
+        {
+          "title": "End Discrimination Against Women and Girls",
+          "body": "End all forms of discrimination against all women and girls everywhere.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fe68ea05d-e65b-4d9e-be75-7736a92d2a8d_goal_5.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "End All Violence Against and Exploitation of Women and Girls",
+          "body": "Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fe57cd460-b26d-4a18-918c-a500de39dc3f_goal_5.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Eliminate Forced Marriages and Genital Mutilation",
+          "body": "Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F880d6cc9-8541-4a48-a325-00d3a1471cdc_goal_5.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Value Unpaid Care and Promote Shared Domestic Responsibilities",
+          "body": "Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F3fcbe3ed-149c-4849-839e-a59005f8a9d2_goal_5.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Ensure Full Participation in Leadership and Decision-Making",
+          "body": "Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F13673d52-7871-4e1c-b5cd-476654788df9_goal_5.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Universal Access to Reproductive Health and Rights",
+          "body": "Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F1ea204de-d64f-493d-8ca6-a0cce1c0a9a1_goal_5.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Equal Rights to Economic Resources, Property Ownership and Financial Services",
+          "body": "Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F16d4fee9-5025-4a72-9eb8-69e96abc35ec_goal_5.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Empowerment of Women through Technology",
+          "body": "Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fbfaf0ccd-9cfa-444c-979e-0f97a7611275_goal_5.b_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Adopt and Strengthen Policies and Enforceable Legislation for Gender Equality",
+          "body": "Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fe194b112-7d03-42a3-8e2b-e4e1f317f50f_goal_5.c_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Women earn 10 to 30 per cent less than men for the same work. Pay inequality persists everywhere. Voice your support for equal pay for equal work.",
+        "Find a Goal 5 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Be aware of gender stereotypes. Recognize them, avoid them and educate others about them.",
+        "Stand up against harassment. Whenever you see or become aware of harassment, whether in the workplace, streets, home or the online space, raise your voice against it.",
+        "Find female mentors/leaders. Ensure that some of your role models or mentors are women. There’s a lot you can learn from women in positions of authority.",
+        "Share the workload at home. Sharing domestic responsibilities ensures the work burden doesn’t fall only on one person and instills the value of gender equality and essential life skills in children.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Clean Water and Sanitation",
+      "slug": "clean-water-and-sanitation",
+      "number": 6,
+      "backgroundColor": "#26bde2",
+      "image": "<svg viewBox=\"0 0 1000 511\"><g fill=\"currentColor\" fill-rule=\"evenodd\"><path d=\"M500.4 332c-42 0-76.2-34-76.2-76 0-34.3 22.5-63.2 53.5-73v28.5c-16 8.2-27.2 25-27.2 44.4 0 27.5 22.3 49.8 50 49.8 27.5 0 49.8-22.3 49.8-50 0-19.3-11.2-36-27.4-44.4V183c31 9.7 53.6 38.7 53.6 73 0 42-34 76-76.2 76zm-11-163.6c0-5 5-10.3 11-10.3s11 5.5 11 10.4v50.3c0 5-5 10.2-11 10.2s-11-5.4-11-10.3v-50.3zm11-58c-81 0-146.6 65.7-146.6 146.6 0 81 65.6 146.6 146.6 146.6S647 338 647 257s-65.7-146.5-146.6-146.5zM332 255.8c0-6.7-5.8-12-11-12h-64.3c-5.4 0-11.4 5.3-11.4 12 0 6.6 6 12 11.4 12H321c5.2 0 11-5.4 11-12M755.5 255.8c0-6.7-6-12-11.3-12H680c-5.4 0-11.3 5.3-11.3 12 0 6.6 6 12 11.3 12h64.2c5.4 0 11.3-5.4 11.3-12M500.4 87.5c6.7 0 12-6 12-11.2V12c0-5.3-5.3-11.3-12-11.3-6.6 0-12 6-12 11.4v64.3c0 5.3 5.4 11.2 12 11.2M500.4 510.8c6.7 0 12-5.8 12-11.2v-64.2c0-5.4-5.3-11.3-12-11.3-6.6 0-12 6-12 11.4v64.2c0 5.4 5.4 11.2 12 11.2M354.4 172.2c3.3-5.8.8-13.4-3.8-16L295 124c-4.8-2.6-12.7-1-16 5-3.3 5.6-.8 13.3 4 16l55.6 32c4.7 2.5 12.5.8 15.8-5M721.8 382.5c3.3-5.8.8-13.4-3.8-16l-55.7-32c-4.7-2.6-12.5-1-15.8 5-3.3 5.6-1 13.3 3.8 16l55.7 31.8c4.7 2.7 12.5 1 15.8-4.8M584 109.8c5.8 3.2 13.4.8 16-3.8l32-55.8c2.6-4.7 1-12.5-5-15.8-5.7-3.3-13.3-.8-16 4L579 94c-2.6 4.6-.8 12.4 5 15.8M373.7 477.2c5.8 3.3 13.4.8 16-3.8l32-55.7c2.6-4.7 1-12.6-5-16-5.6-3.2-13.3-.7-16 4l-32 55.7c-2.5 4.7-.8 12.5 5 15.8M416.5 110c5.8-3.4 7.5-11.2 4.8-16l-32-55.5c-2.7-4.7-10.3-7.2-16-3.8-5.8 3.3-7.5 11-4.8 15.8l32 55.6c2.6 4.8 10.3 7.2 16 4M627.6 477c5.7-3.4 7.5-11.2 4.8-16l-32-55.5c-2.7-4.7-10.3-7.2-16-4-6 3.5-7.6 11.3-5 16l32 55.6c2.8 4.8 10.4 7.2 16.2 4M646.3 172c3.3 5.7 11 7.4 15.7 4.7l55.7-32c4.7-2.7 7-10.3 3.8-16-3.3-5.8-11-7.6-15.8-5l-55.7 32c-4.6 2.8-7 10.4-3.7 16.2M279.3 383c3.3 5.7 11 7.4 15.8 4.8l55.7-32c4.7-2.7 7.2-10.4 3.8-16-3.3-6-11-7.6-15.8-5L283 367c-4.6 2.7-7 10.4-3.7 16.2\"></path></g></svg>\r\n",
+      "introduction": "Ensure availability and sustainable management of water and sanitation for all.",
+      "manifest": "One in three people live without sanitation. This is causing  unnecessary disease and death. Although huge strides have been made with access to clean drinking water, lack of sanitation is undermining these advances. If we provide affordable equipment and education in hygiene practices, we can stop this senseless suffering and loss of life.",
+      "targets": [
+        {
+          "title": "Safe and Affordable Drinking Water",
+          "body": "By 2030, achieve universal and equitable access to safe and affordable drinking water for all.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fd50d609e-266d-4297-a89c-8d91302670d5_goal_6.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "End Open Defecation and Provide Access to Sanitation and Hygiene",
+          "body": "By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fc0859998-99f8-46db-ae7a-e20050e1f2a6_goal_6.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Improve Water Quality, Wastewater Treatment and Safe Reuse",
+          "body": "By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fbf00f938-046c-41a5-95b1-df597942c7a6_goal_6.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Increase Water-Use Efficiency and Ensure Freshwater Supplies",
+          "body": "By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F9f3c02f5-bd50-486a-8897-8282c199946b_goal_6.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Implement Integrated Water Resources Management",
+          "body": "By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F673c361b-6f50-48b6-ac82-3798f556c90b_goal_6.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Protect and Restore Water-Related Ecosystems",
+          "body": "By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F5201748a-514b-4b12-b6df-a95e3b5ded4c_goal_6.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Expand Water and Sanitation Support to Developing Countries",
+          "body": "By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F379ebc32-444a-4348-8b43-39d9024de144_goal_6.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Support Local Engagement in Water and Sanitation Management",
+          "body": "Support and strengthen the participation of local communities in improving water and sanitation management.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F81e1b132-ec02-4f87-81f0-d8070ee1e073_goal_6.b_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 6 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "4 billion people lack access to basic sanitation services. Lend your voice to talk about the lack of toilets in many communities around the world!",
+        "Run a campaign on hygiene. Raise awareness about the hygiene issues in your community through social media, school/university campaign or even a campaign in the neighborhood you live in.",
+        "Don't overuse water. Make sure to close a tap when washing dishes, take short showers - Bathtubs require gallons more water than a 5-10 minute shower. Consider getting a water meter to be aware of your water usage.",
+        "Organize a clean up project for rivers and oceans. Engage your whole community to clean up a local river, seaside or an ocean.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Affordable and Clean Energy",
+      "slug": "affordable-and-clean-energy",
+      "number": 7,
+      "backgroundColor": "#fcc30b",
+      "image": "<svg viewBox=\"0 0 1000 509\"><g fill=\"currentColor\" fill-rule=\"evenodd\"><path d=\"M694.8 121L593 217.7c-3.7 3.8-5.7 6.6-5.7 14.5v271c0 3.2 2.6 5.8 5.8 5.8h105c3.6 0 6-2.7 6-5.8V123.4c0-3.2-2.3-9-9-2.4M402 247l-102 96.5c-3.8 3.8-5.8 6.6-5.8 14.5v145.2c0 3 2.6 5.7 5.8 5.7h105c3.2 0 5.8-3 5.8-6V249.3c0-3.2-2.5-9-9-2.5\"></path><path d=\"M741 3.7c0-.8-.3-1.6-1-2.2-.4-.5-1-.8-1.8-.8h-1.4L659 18.4h-1.4c-.6.2-1 .5-1.5 1-1 1-1 3 0 4l1 1L675 42 498.4 218.6 417 137c-1-1-2.5-1-3.4 0l-22 22L261 289.7c-1 1-1 2.4 0 3.3l22 22c1 1 2.3 1 3.2 0l129-128.8 59 59c0 .2 0 .3.2.4l22 22c1 1 2.5 1 3.4 0l200-200L719 86c1 1 3 1 4 0 .7-.6 1-1.3 1-2l17-79.4v-1\"></path><path d=\"M549 264l-49.3 49.5c-1 .8-2.3.7-3 0L452 267.8c-8.2-8.2-10-1.6-10 1.6V503c0 3.2 2.7 5.8 6 5.8h105c3 0 5.7-2.6 5.7-5.8V265.8c0-3.3-2.6-9-9.8-2\"></path></g></svg>\r\n",
+      "introduction": "Ensure access to affordable, reliable, sustainable and modern energy for all.",
+      "manifest": "Renewable energy solutions are becoming cheaper, more reliable and more efficient every day. Our current reliance on fossil fuels is unsustainable and harmful to the planet, which is why we have to change the way we produce and consume energy. Implementing these new energy solutions as fast as possible is essential to counter climate change, one of the biggest threats to our own survival.",
+      "targets": [
+        {
+          "title": "Universal Access to Modern Energy",
+          "body": "By 2030, ensure universal access to affordable, reliable and modern energy services.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F16f414a2-c981-4811-95bf-39c9fc274d3d_goal_7.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Increase Global Percentage of Renewable Energy",
+          "body": "By 2030, increase substantially the share of renewable energy in the global energy mix.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fc171e4a5-0457-4580-8e02-1dcacbc6c60e_goal_7.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Double the Improvement in Energy Efficiency",
+          "body": "By 2030, double the global rate of improvement in energy efficiency.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F4aeaebc2-353b-48e3-ac0a-dcff1fd81d38_goal_7.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Access to Research, Technology and Investments in Clean Energy ",
+          "body": "By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F246b5509-1090-43ee-84d8-cfe3487ec90b_goal_7.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Expand and Upgrade Energy Services for Developing Countries",
+          "body": "By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States and landlocked developing countries, in accordance with their respective programmes of support.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fdaae5e74-2456-4d77-9e79-fa5c3fa78d23_goal_7.b_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 7 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Switch off your appliances at the socket. Turn off the lights when you’re not using them.",
+        "Turn off your air conditioning, especially for sleeping – open a window or use a fan.",
+        "Buy rechargeable electronics. Don’t buy or use one-use batteries.",
+        "Don’t use multiple devices at the same time. Be mindful about this and only several devices when absolutely necessary.",
+        "Use solar energy sources. Install solar panels in your home for your heating and electricity. Use solar technology – radio, charger, lights etc…",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Decent Work and Economic Growth",
+      "slug": "decent-work-and-economic-growth",
+      "number": 8,
+      "backgroundColor": "#a21942",
+      "image": "<svg viewBox=\"0 0 1000 513\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M737.6 429.2L631 490.8V367.6L737.5 306v123.2zM385 490.8V377l98.7 57-98.6 56.8zm-16 0l-107-61.6V306l107 61.6v123.2zM483.6 150L385 207V93l98.7 57zm131 57L516 150l98.6-57v114zM516 292l106.7-61.6L729.5 292l-106.7 61.6L516.2 292zm-24.3-14L393 221l98.7-57v114zm114.8-57L508 278V164l98.6 57zM491.8 420l-98.6-57 98.6-57v113.8zm258-135l-119-68.7V79c0-2.8-1.4-5.5-4-7L504 1c-2.5-1.4-5.6-1.4-8 0L373 72c-2.5 1.5-4 4.2-4 7v137.3L250 285c-2.4 1.4-4 4-4 7v142c0 2.8 1.6 5.5 4 7l123 71c1.2.6 2.6 1 4 1s2.8-.4 4-1l119-68.7L618.7 512c1.2.6 2.6 1 4 1s2.8-.4 4-1l123-71c2.5-1.5 4-4.2 4-7V292c0-3-1.5-5.6-4-7z\"></path></svg>\r\n",
+      "introduction": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.",
+      "manifest": "Economic growth should be a positive force for the whole planet. This is why we must make sure that financial progress creates decent and fulfilling jobs while not harming the environment. We must protect labour rights and once and for all put a stop to modern slavery and child labour. If we promote job creation with expanded access to banking and financial services, we can make sure that everybody gets the benefits of entrepreneurship and innovation.",
+      "targets": [
+        {
+          "title": "Sustainable Economic Growth",
+          "body": "Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Ff963d103-92f0-4bfa-885d-3e23e5bf1684_goal_8.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Diversify, Innovate and Upgrade for Economic Productivity",
+          "body": "Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F1420179b-0f92-481b-a24e-a99a78381e97_goal_8.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Policies to Support Job Creation and Growing Enterprises",
+          "body": "Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F564a91b3-bd9b-45df-a799-869fa06c9c44_goal_8.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Improve Resource Efficiency in Consumption and Production",
+          "body": "Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10‑Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F5f8a3433-9035-4699-80df-b973ddb53428_goal_8.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Full Employment and Decent Work with Equal Pay",
+          "body": "By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Ff430ded5-09f0-4ee7-9a3c-5990fe5ddd3d_goal_8.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Youth Employment, Education and Training",
+          "body": "By 2020, substantially reduce the proportion of youth not in employment, education or training.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F2596c2c5-ee26-4d95-9d35-c5241d7aff19_goal_8.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "End Modern Slavery, Trafficking and Child Labour",
+          "body": "Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F0b0df8f5-76df-4e25-86f6-a218de411255_goal_8.7_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Protect Labour Rights and Promote Safe Working Environments",
+          "body": "Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F3719f48f-e6eb-42c9-a33c-a397927a87a2_goal_8.8_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Beneficial and Sustainable Tourism",
+          "body": "By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F3f20e14d-702e-4e28-bcac-8dcd92b14fc3_goal_8.9_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Universal Access to Banking, Insurance and Financial Services",
+          "body": "Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F552b1880-6f8b-474f-8cca-471597337886_goal_8.10_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Increase Aid for Trade Support",
+          "body": "Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-related Technical Assistance to Least Developed Countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fc1484037-8b5e-43ee-8b69-e418c6906df7_goal_8.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Develop a Global Youth Employment Strategy",
+          "body": "By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F184dde58-6398-40ab-b172-09ad04f0ae14_goal_8.b_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 8 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Organize a mentoring program. Invite people with experience in a certain field to create a mentoring group that will help young people better prepare for their future jobs.",
+        "Be a conscious consumer – if something is cheap it is likely to be hurting people or the planet in some way.",
+        "Know your rights at work. In order to access justice, knowing what you are entitled to will go a long way.",
+        "Read about workers in other countries and business practices. Talk to your colleagues about these issues.",
+        "Buy from local producers. Support local economic growth by choosing to buy from local producers and businesses.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Industry, Innovation and Infrastructure",
+      "slug": "industry-innovation-and-infrastructure",
+      "number": 9,
+      "backgroundColor": "#fd6925",
+      "image": "<svg viewBox=\"0 0 1000 547\"><g fill=\"currentcolor\" fill-rule=\"evenodd\"><path d=\"M595 304H403l-2 2v58l2 2h192l2-2v-58l-2-2m0-123H403c-1 0-2 1-2 3v57c0 2 1 3 2 3h192c1 0 2-1 2-3v-57c0-2-1-3-2-3m-3-87L500 2h-2l-92 92c-1 1 0 3 1 3h184c2 0 2-2 1-3m87 273l92-92v-2l-92-92c-1-1-3-1-3 1v184c0 1 2 2 3 1m-273 86l92 92h2l92-92c1-1 1-2-1-2H407c-1 0-2 1-1 2m-86-272l-93 92v2l93 92c1 1 2 0 2-1V182c0-2-1-2-2-1\"></path></g></svg>\r\n",
+      "introduction": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.",
+      "manifest": "A functioning and resilient infrastructure is the foundation of every successful community. To meet future challenges, our industries and infrastructure must be upgraded. For this, we need to promote innovative sustainable technologies and ensure equal and universal access to information and financial markets. This will bring prosperity, create jobs and make sure that we build stable and prosperous societies across the globe. ",
+      "targets": [
+        {
+          "title": "Develop Sustainable, Resilient and Inclusive Infrastructures",
+          "body": "Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F18c33d69-8efa-409d-8ead-fccd44ffd9d6_goal_9.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Inclusive and Sustainable Industrialization",
+          "body": "Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F3b173a14-8b6a-408e-8041-85e0806f9f12_goal_9.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Increase Access to Financial Services and Markets",
+          "body": "Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F54fb6c07-0bc0-4f3d-bcbe-687171ec4afa_goal_9.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Upgrade All Industries and Infrastructures for Sustainability",
+          "body": "By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fc3a085a7-35e6-425a-a0ba-7e4cd60e0a3c_goal_9.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Enhance Research and Upgrade Industrial Technologies ",
+          "body": "Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fd0ad3da0-3df3-4973-af74-b75c281d2f80_goal_9.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Facilitate Sustainable Infrastructure Development for Developing Countries",
+          "body": "Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fb9a3c49d-0fa6-416d-931e-01c9a456cccd_goal_9.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Support Domestic Technology Development and Industrial Diversification",
+          "body": "Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F87de7b9e-77b0-4bfc-bc70-b6efed969dbc_goal_9.b_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Universal Access to Information and Communications Technology",
+          "body": "Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F9d6c0205-db1b-452b-9d47-445be181bef7_goal_9.c_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 9 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Does your company invest in clean and resilient infrastructure? It’s the only way to keep workers safe and protect the environment.",
+        "Create a hotspot map. There are a lot of public spaces with free WiFi access. By mapping them out in your neighborhood and spreading awareness through social media, flyers or announcements you can help more people access the internet.",
+        "Organize or participate in a Think Tank contest. You can foster your and your colleagues' entrepreneurial spirit by organizing a local idea contest and inviting companies or startups to mentor the winners.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Reduced Inequalities",
+      "slug": "reduced-inequalities",
+      "number": 10,
+      "backgroundColor": "#dd1367",
+      "image": "<svg viewBox=\"0 0 1000 508\"><g fill=\"currentColor\" fill-rule=\"evenodd\"><path d=\"M165 367.3h150.5c2 0 3.6-1.7 3.6-3.7 0-1-.2-1.8-.8-2.4l-.2-.3-75-97-.6-.7c-.7-.7-1.6-1.2-2.7-1.2-1 0-1.8.5-2.4 1l-.5.6-.7.8-73 95.8-1 1.3c-.4.6-.7 1.3-.7 2 0 2 1.7 3.8 3.7 3.8M315 381H164.3c-2 0-3.7 1.6-3.7 3.6v118c0 2 1.6 3.7 3.7 3.7h48.5V432c0-2 1.6-3.6 3.7-3.6h45c2 0 3.7 1.6 3.7 3.7v74.3H315c2 0 3.7-1.7 3.7-3.7v-118c0-2-1.7-3.6-3.7-3.6M822.4 398.4c0 2-1.6 3.5-3.6 3.5h-44.6c-2 0-3.7-1.7-3.7-3.6v-27c0-2 1.7-3.7 3.7-3.7h44.6c2 0 3.6 1.6 3.6 3.6v27zm0 50c0 2-1.6 3.6-3.6 3.6h-44.6c-2 0-3.7-1.6-3.7-3.6v-27c0-2 1.7-3.6 3.7-3.6h44.6c2 0 3.6 1.6 3.6 3.5v27zm-68-50c0 2-1.7 3.5-3.8 3.5H706c-2 0-3.6-1.7-3.6-3.6v-27c0-2 1.7-3.7 3.7-3.7h44.6c2 0 3.7 1.6 3.7 3.6v27zm0 50c0 2-1.7 3.6-3.8 3.6H706c-2 0-3.6-1.6-3.6-3.6v-27c0-2 1.7-3.6 3.7-3.6h44.6c2 0 3.7 1.6 3.7 3.5v27zm81.5-98.3H686.6c-2 0-3.6 1.6-3.6 3.6v150.7c0 2 1.7 3.5 3.7 3.5H836c2 0 3.6-1.6 3.6-3.5V353.6c0-2-1.7-3.5-3.7-3.5zM468 107.5c0 1-1 2-2 2h-33.5c-1 0-2-1-2-2V70.2c0-1 1-2 2-2H466c1 0 2 1 2 2v37.3zm0 85.5c0 1-1 2-2 2h-33.5c-1 0-2-1-2-2v-37.2c0-1 1-2 2-2H466c1 0 2 1 2 2V193zm0 85.6c0 1-1 2-2 2h-33.5c-1 0-2-1-2-2v-37.3c0-1 1-2 2-2H466c1 0 2 1 2 2v37.3zm0 85.5c0 1.2-1 2-2 2h-33.5c-1 0-2-.8-2-2v-37c0-1.2 1-2 2-2H466c1 0 2 .8 2 2v37zm0 85.7c0 1-1 2-2 2h-33.5c-1 0-2-1-2-2v-37.3c0-1 1-2 2-2H466c1 0 2 1 2 2v37.3zm-65.7-342.2c0 1-1 2-2 2H367c-1 0-2-1-2-2V70.2c0-1 1-2 2-2h33.4c1 0 2 1 2 2v37.3zm0 85.5c0 1-1 2-2 2H367c-1 0-2-1-2-2v-37.2c0-1 1-2 2-2h33.4c1 0 2 1 2 2V193zm0 85.6c0 1-1 2-2 2H367c-1 0-2-1-2-2v-37.3c0-1 1-2 2-2h33.4c1 0 2 1 2 2v37.3zm0 85.5c0 1.2-1 2-2 2H367c-1 0-2-.8-2-2v-37c0-1.2 1-2 2-2h33.4c1 0 2 .8 2 2v37zm0 85.7c0 1-1 2-2 2H367c-1 0-2-1-2-2v-37.3c0-1 1-2 2-2h33.4c1 0 2 1 2 2v37.3zM489 .4H343.3c-2 0-3.6 1.6-3.6 3.6v499c0 2 1.6 3.5 3.6 3.5h146c2 0 3.5-1.6 3.5-3.6V4c0-2-1.6-3.6-3.6-3.6zM839.4 335c0 1.6-1.3 3-3 3H686.2c-1.6 0-3-1.4-3-3v-30c0-1.8 1.4-3 3-3h150.2c1.7 0 3 1.2 3 3v30M649 247c0 2-1.7 3.7-3.7 3.7h-43.5c-2 0-3.6-1.6-3.6-3.6v-27c0-2 1.6-3.7 3.6-3.7h43.5c2 0 3.6 1.6 3.6 3.6v27zm0 50.4c0 2-1.7 3.6-3.7 3.6h-43.5c-2 0-3.6-1.6-3.6-3.6v-27.2c0-2 1.6-3.6 3.6-3.6h43.5c2 0 3.6 1.6 3.6 3.6v27.2zm0 50.4c0 2-1.7 3.5-3.7 3.5h-43.5c-2 0-3.6-1.6-3.6-3.5v-27.3c0-2 1.6-3.6 3.6-3.6h43.5c2 0 3.6 1.5 3.6 3.5v27.3zm0 50.3c0 2-1.7 3.6-3.7 3.6h-43.5c-2 0-3.6-1.6-3.6-3.5V371c0-2 1.6-3.5 3.6-3.5h43.5c2 0 3.6 1.5 3.6 3.5V398zm0 50.4c0 2-1.7 3.6-3.7 3.6h-43.5c-2 0-3.6-1.6-3.6-3.6v-27.2c0-2 1.6-3.6 3.6-3.6h43.5c2 0 3.6 1.6 3.6 3.6v27.2zm-66.5-211v60c0 2-1.6 3.6-3.6 3.6h-43.6c-2 0-3.6-1.6-3.6-3.5V290c0-.6 0-1 .3-1.4l.3-.4c0-.2.2-.4.3-.5 0-.2.3-.4.4-.6 5.6-7.8 30.7-38.8 41.2-51.7l1-1.3c1-1 2-1.5 3.3-1.5 2 0 3.6 1.5 4 3.4v1.5zm0 110.4c0 2-1.7 3.5-3.7 3.5h-43.5c-2 0-3.6-1.6-3.6-3.5v-27.3c0-2 1.6-3.6 3.6-3.6h43.5c2 0 3.6 1.5 3.6 3.5v27.3zm0 50.3c0 2-1.7 3.6-3.7 3.6h-43.5c-2 0-3.6-1.6-3.6-3.5V371c0-2 1.6-3.5 3.6-3.5h43.5c2 0 3.6 1.5 3.6 3.5V398zm0 50.4c0 2-1.7 3.6-3.7 3.6h-43.5c-2 0-3.6-1.6-3.6-3.6v-27.2c0-2 1.6-3.6 3.6-3.6h43.5c2 0 3.6 1.6 3.6 3.6v27.2zm22.6-255l1-1.2c10-12.6 26.5-33 34.5-42.8l1-1.3c.8-.8 2-1.4 3.3-1.4 2 0 3.6 1.4 4 3.3v46c0 2.2-1.8 4-4 4h-.2-36-.2-.2c-2.2 0-4-1.8-4-4 0-1 .4-1.8 1-2.5zm60.5-98.7c-.5-1.7-2-2.8-3.7-2.8-.8 0-1.5.2-2 .6h-.4l-1.2 1.7-143.5 182-.6 1c-.7.6-1 1.6-1.2 2.7v223.7c0 2 1.6 3.5 3.6 3.5h146c1.8 0 3.4-1.6 3.4-3.5V96c0-.4 0-1-.3-1.3z\"></path></g></svg>\r\n",
+      "introduction": "Reduce inequality within and among countries.",
+      "manifest": "Too much of the world’s wealth is held by a very small group of people. This often leads to financial and social discrimination. In order for nations to flourish, equality and prosperity must be available to everyone - regardless of gender, race, religious beliefs or economic status. When every individual is self sufficient, the entire world prospers. ",
+      "targets": [
+        {
+          "title": "Reduce Income Inequalities",
+          "body": "By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F7efb79aa-9590-4de4-99b7-f7316473477b_goal_10.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Universal Social, Economic and Political Inclusion",
+          "body": "By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fb4c135a0-1a0e-4ef5-9d10-cee29f3fa3be_goal_10.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Ensure Equal Opportunities and End Discrimination",
+          "body": "Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Ffccfd9e4-1361-4179-865f-c854672f5269_goal_10.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Adopt Fiscal and Social Policies that Promotes Equality",
+          "body": "Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F73e3f769-a418-40d5-83d9-25f8f6921016_goal_10.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Improved Regulation of Global Financial Markets and Institutions",
+          "body": "Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F20cf0fbe-b259-4333-b4b0-b568583b4168_goal_10.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Enhanced Representation for Developing Countries in Financial Institutions",
+          "body": "Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F8ea794f0-836a-433a-962a-2e3e919453e5_goal_10.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Responsible and Well-Managed Migration Policies",
+          "body": "Facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Ff7e1511d-430d-41b3-9a3b-30e98b844dd8_goal_10.7_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Special and Differential Treatment for Developing Countries",
+          "body": "Implement the principle of special and differential treatment for developing countries, in particular least developed countries, in accordance with World Trade Organization agreements.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fe3eb0b9a-b288-4f4e-ba9f-470a9d57a1f7_goal_10.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Encourage Development Assistance and Investment in Least Developed Countries",
+          "body": "Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programmes.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F2c61b2f0-3cfb-44e1-86b6-d104fc7d59ff_goal_10.b_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Reduce Transaction Costs for Migrant Remittances",
+          "body": "By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fca849938-c36a-435c-93de-f86d6fe90ad7_goal_10.c_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 10 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Does everyone at your place of work have access to healthcare? Find out what your rights are to work. Fight against inequality.",
+        "Raise your voice against any type of discrimination. Everyone is equal regardless of their gender, race, sexual orientation, social background and physical abilities.",
+        "Run a voting registration campaign. One of the issues contributing to rising inequalities is caused by the lack of representation of minorities and underprivileged groups in government. You can run a voting registration education in these groups to raise their engagement and representation in institutions of power.",
+        "Visit local shelters, orphanages or minority community centers and organize a conversation space to discuss the importance of these rights or volunteer there regularly.",
+        "Support migrants and refugees in your communities. Volunteer in a local refugee camp. Gather or donate the appliances, food, clothes needed.",
+        "Favor companies that are inclusive. Check the lists of the companies that are inclusive for different minorities through employment there or their products.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Sustainable Cities and Communities",
+      "slug": "sustainable-cities-and-communities",
+      "number": 11,
+      "backgroundColor": "#fd9d24",
+      "image": "<svg viewBox=\"0 0 1000 344\"><g fill=\"currentColor\" fill-rule=\"evenodd\"><path d=\"M778.72 35.68C737.94 3.48 689.02 0 669.9 0c-10.1 0-19.43.9-26.26 2.53l-2.7.62c-25.82 6.1-69.05 16.3-119.38 78.77l-1.47 1.83c-.84 1.2-1.27 2.46-1.27 3.78 0 1.14.28 2.24.88 3.3l1.15 1.9c8.3 13.88 15.22 25.95 20.7 36.2 1.97 3.8 7.22 5.04 10.77 1.5.34-.46.7-.94.94-1.32C596.73 69 630.8 61 653.34 55.7l2.8-.66c3.1-.75 8.13-1.18 13.8-1.18 10.48 0 46.9 1.75 75.33 24.2 25.28 19.95 38.1 51.82 38.1 94.74 0 71.9-34.8 99.96-64 110.84-11.12 4.16-23.13 6.27-35.66 6.27-30.06 0-53.2-12.04-53.5-12.2l-2.1-1.02c-25.1-10.9-62.6-33.63-98.04-104.8C457.4 25.92 396.36 12.1 355.94 2.93l-2.13-.47C350.73 1.77 342 .13 327.77.13c-23.4 0-68.42 4.6-107 35.4C194.4 56.55 163 97.37 163 172.48c0 45.77 9.42 76 33.6 107.8 4.53 6.2 46.65 60.58 127.5 60.58 11.97 0 24.4-1.22 36.9-3.62 14.77-2.83 37.56-10.12 63-28.78l21.25 19.17c2.37 2.17 6.5 1.94 8.62-.4 1.04-1.1 1.6-2.58 1.54-4.04l16.45-101.3v-1.17c0-1.73-.77-3.37-1.97-4.4-1.08-1.04-2.47-1.58-4.26-1.58h-.03L366.96 242l-1.87.3c-1.25.28-2.34.92-3.14 1.83-1.1 1.23-1.7 2.8-1.6 4.46.1 1.63.82 3.14 2.02 4.2l20.43 18.48c-10.73 6.58-21.46 10.94-31.9 12.97-8.9 1.7-17.7 2.56-26.16 2.56-55.87 0-83.36-36.67-84.5-38.22l-.55-.76c-17-22.32-22.75-41.33-22.75-75.34 0-43.05 12.6-74.95 37.45-94.8 27.66-22.06 63.24-23.77 73.5-23.77 5.6 0 10.7.43 13.96 1.18l2.18.5c32.27 7.3 76.45 17.3 137.7 140.33 32.35 64.96 72.92 107.45 123.92 129.85 5.93 3.03 37.55 18.1 78.1 18.1 18.92 0 37.25-3.24 54.5-9.65 29.78-11.12 99.07-49.1 99.07-161.42 0-75.06-31.87-115.98-58.6-137.1\"></path></g></svg>\r\n",
+      "introduction": "Make cities and human settlements inclusive, safe, resilient and sustainable.",
+      "manifest": "The world’s population is constantly increasing. To accommodate everyone, we need to build modern, sustainable cities. For all of us to survive and prosper, we need new, intelligent urban planning that creates safe, affordable and resilient cities with green and culturally inspiring living conditions. ",
+      "targets": [
+        {
+          "title": "Safe and Affordable Housing",
+          "body": "By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F941d2b7e-42c3-4c31-8cc2-35df31b0bdc9_goal_11.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Affordable and Sustainable Transport Systems",
+          "body": "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the  needs of those in vulnerable situations, women, children, persons with disabilities and older persons.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F968e671e-e8db-4066-ac0e-592f954befc0_goal_11.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Inclusive and Sustainable Urbanization",
+          "body": "By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fbba42c54-6fc4-4880-b6c0-350cee10b371_goal_11.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Protect the World’s Cultural and Natural Heritage",
+          "body": "Strengthen efforts to protect and safeguard the world’s cultural and natural heritage.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fe2c7c5dc-973d-48d4-aa46-606fc9e24961_goal_11.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Reduce the Adverse Effects of Natural Disasters",
+          "body": "By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fd8fb37a8-d0d1-4d47-9331-b3ea8ffd0bde_goal_11.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Reduce the Environmental Impact of Cities",
+          "body": "By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F450d135e-d656-4b2d-a03b-a9b38d44d54a_goal_11.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Provide Access to Safe and Inclusive Green and Public Spaces",
+          "body": "By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fa734a3ab-0cb8-4252-8479-318b3446a0c3_goal_11.7_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Strong National and Regional Development Planning",
+          "body": "Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Faa80b46a-115d-4ccb-a300-4d93939ae514_goal_11.a_rgb_ng+2.svg?auto=compress,format"
+        },
+        {
+          "title": "Implement Policies for Inclusion, Resource Efficiency and Disaster Risk Reduction",
+          "body": "By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030, holistic disaster risk management at all levels.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F16137836-93e8-4f11-b2f2-3b31e1e8ed48_goal_11.b_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Support Least Developed Countries in Sustainable and Resilient Building",
+          "body": "Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fce48e113-79ee-4dfe-b441-242468c7e009_goal_11.c_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 11 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Support a project in slums for safe housing. You can volunteer in slums to help with building houses, fixing existing ones, setting up public or green spaces.",
+        "Shop, eat and drink locally. Supporting neighbourhood businesses keeps people employed and circulates money back into your community.",
+        "Take advantage of your right to elect the leaders in your local community.",
+        "Commute in a sustainable way – bike, walk or take public transport. Save the car trips for when you’ve got a big group.",
+        "Take care of public spaces. Start yourself and inspire others to contribute to better public spaces - water the greenery, trim and plant trees, renovate sports areas and playgrounds, organize a cleanup.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Responsible Consumption and Production",
+      "slug": "responsible-consumption-and-production",
+      "number": 12,
+      "backgroundColor": "#bf8b2e",
+      "image": "<svg viewBox=\"0 0 1000 377\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M651.4 221c-4.2-1.2-21.5-25-7.8-41 2.3-2.5-4.6-10-2.7-10.3 7.4-.5 11.3 4 13.3 10.8l.3 9c0 10.8-1 21.3-3.2 31.5M609 299c-1.5-.6-3-1-4.8-2-8.4-4.2-7.4 2.6-11.5 1-4.2-1.4 4.6-11-7.8-3-12.5 8.2-9-1.2-14.5-15-5.5-13.6 6.2-29.3 16-33 13.3-4.7 21.7-5.7 28-7.3 18.5-4.6 22.4-15.6 25.8-9l1.8 3.7c1.2 2 2.4 6 2.5 10-8 20.7-20 39.2-35.4 54.5m-108.8 44.8c-15 0-29.6-2.2-43.3-6.2-2-1.6-3.3-4.3-2-7.6 4.8-12.4 19-17.3 30.2-18.4 25-2.4 58 16.3 63.2 13.3 5.2-3.2 15.8-17 31.3-16.3 10.6.4 10.5 2.2 14 3.5-26 19.8-58.3 31.6-93.5 31.6m-21-100.6c-2 3.5-8 29.4-11.8 26.4-4-3 1.6-30 2.7-32.2 6.2-11 19.4-10.6 9.2 5.8m63-30.6c-3 2.7-10.8 1.7-14.7-1.4-4-3 2.5-8 4.8-8.2 5.2-.4 13 6.8 10 9.6m68 .2c-1.6-.6-3-2.2-4.3-6-1.3-3.7 2-6 5-4.4 3.2 1.6 7.3 6.3 7.3 9 0 2.4-6.2 2-8 1.4m6.7 4.8c5-.4 13 6.7 10 9.5-3.2 2.8-11 1.8-14.8-1.2-4-3 2.4-8 4.8-8.2M451.4 279c-3 12-6.5 16.2-9.5 20-3 3.6-14 8.4-21 8-7.2-.6-8-19.3-8-29 0-3.3-4.8 6.6-7.3-13.5-1.6-12.8-9.8 1.4-10.4-7.2-.6-8.5-4.7-6.8-9-12.2-4.3-5.2-9.7.6-15.7 3.3-6 2.7-3.5 4-12 1.4-.3 0-.4 0-.6-.2-7.8-18.4-12-38.7-12-60 0-5.3.2-10.4.6-15.4l1-1.4c8.2-9.6 8-12 8-12l9-3s14.4 2.2 25.3 6.3c8.8 3.2 23 10.8 31 7.5 6-2.5 10.7-5.7 10-10.6-.5-6.3-5.4-7.8-11.3-3.6-2.2 1.5-6.8-9.3-10.5-8.8-3.6.6 4.5 12.8 1.4 13.3-3 .4-9.3-12.8-10.3-15-1-2-6-7.5-10.2-3.4-9 8.7-23.8 8-26.7 10.4-9 6.7-11.5-2.3-11.3-7.7l1.2-3.8c3-3.2 13.5-4.3 17.2-2 4 2.8 6.8-.6 8.4-2.2 1.6-1.6 1-4 0-6.3-1-2 2-3.7 4-4.2 2-.6 9-5.4 11.8-7 2.7-1.6 17-3.3 23.4 0 6.4 3 12.3.4 15.4-3.3 4-4.6 9-8.2 11.2-9.3 2.2-1-5.5-8.3-12-.4-6.3 8-9.5 8.6-12.5 8.6s-20.7-4.5-23-10c-2-5.7 5.6-10 12.2-13 6.6-3.2 24.6-3.2 29.2-4.2 9.3-2 21.3-6.8 27.3-2.7 6 4-25 11-15 16.7 3.8 2 20.2-9.5 26-12.4 13-7-13-9.2-9.6-23 4-15.8-32-9.7-50-8.4C441 44 469.7 35 500.3 35c72.8 0 133.8 50.5 150 118.4.2 3.3-.3 5.7-.7 7-1.4 5.7-12 10.4-18 1.5-1.6-2.4-8.2-8.6-8 2 .2 10.8 10.4 12 .5 18.3-9.8 6.4-11.6 5-16.2 6.5-4.5 1.6-9 12.6-7.8 18.5 1 6 15 22 4.7 21.3-2.5-.2-21-12.8-24-21-3.2-8.4-6.7-16.7-9.2-23.2-2.5-6.4-9-8-14.5-4.2-5.5 3.7 1.5 7.5-2.4 15.5-4 8-6.8 15.2-12.6 8.6-15-17.3-37-8.8-40.4-28-1.8-10.4-10.8-9.4-18.3-15.3-7.5-6-11.7-9-13-4.8-1 3.7 23.6 23.3 25.4 28.3 2.6 7.5-7.4 14-14.8 15.8-7.4 1.8-10.6-4-17.8-11.6-7.2-7.5-10.3-12.8-10.8-7-.7 8.6 6.8 21 14 25.7 6.4 4 13.4 5.7 11.4 12.2-2 6.4 0 2.8-7 9.7-7 7-8.4 9.2-8 18.8.6 9.7-2 10.3-3.4 18.3-1.5 8-5 1-8 12.8m-83-170l1-1c2.7-3 8.2-3.8 12-4.4 4-.6 9 1.3 9.6 4 .7 2.4-9.6 7-11.5 8.8-5.3 5-13.7 15-18.5 16-1.6.4-3 0-4-.4 3.2-8 7-15.7 11.5-23m8-15.7c2-3 8.5-11.3 9.3-12.4 1.7-2.3 5-2.7 7.5-3 2.3-.6 5.5.7 6 2.5.3 1.8-1 8.6-2.2 9.8-3.2 3.4-11.6 8-16.3 7.4-3.6-.6-5-3.3-4.3-4.4M867 184.5C840.7 147.5 721.5 0 500 0 278.4 0 159.3 147.5 133 184.5l-3 4c.8 1.3 1.8 2.6 3 4.2 26.3 37 145.4 184.5 367 184.5 221.5 0 340.7-147.5 367-184.5 1.2-1.6 2-3 3-4l-3-4.2\"></path></svg>\r\n",
+      "introduction": "Ensure sustainable consumption and production patterns.",
+      "manifest": "Our planet has provided us with an abundance of natural resources. But we have not utilized them responsibly and currently consume far beyond what our planet can provide. We must learn how to use and produce in sustainable ways that will reverse the harm that we have inflicted on the planet. ",
+      "targets": [
+        {
+          "title": "Implement the 10-Year Sustainable Consumption and Production Framework",
+          "body": "Implement the 10‑Year Framework of Programmes on Sustainable Consumption and Production Patterns, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fb8665aae-6c5c-4d85-bd2b-937c59fb2941_goal_12.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Sustainable Management and Use of Natural Resources",
+          "body": "By 2030, achieve the sustainable management and efficient use of natural resources.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F14e300ff-0baa-4ddf-94ca-62d96318c30e_goal_12.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Halve Global Per Capita Food Waste",
+          "body": "By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fe65edea9-402d-41bd-badb-004912a22b71_goal_12.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Responsible Management of Chemicals and Waste",
+          "body": "By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F290d4038-dbfe-4d9d-9749-17eda57110d2_goal_12.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Substantially Reduce Waste Generation",
+          "body": "By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F10ca8ff2-b0ff-4f78-bb48-95c376269bb0_goal_12.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Encourage Companies to Adopt Sustainable Practices and Sustainability Reporting",
+          "body": "Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F7e056e41-73f3-42dd-9ca0-485e8f5a5fcc_goal_12.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Sustainable Public Procurement Practices ",
+          "body": "Promote public procurement practices that are sustainable, in accordance with national policies and priorities.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fe8210deb-632f-4174-9754-a84ac4409cc6_goal_12.7_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Universal Understanding of Sustainable Lifestyles",
+          "body": "By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fe3cf7b7c-0155-49e9-9348-f1707e97e221_goal_12.8_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Support Developing Countries' Scientific and Technological Capacity for Sustainable Consumption and Production",
+          "body": "Support developing countries to strengthen their scientific and technological capacity to move towards more sustainable patterns of consumption and production.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fde26155d-be5f-4e11-97c8-246805e79111_goal_12.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Develop and Implement Tools to Monitor Sustainable Tourism",
+          "body": "Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F0e5017ea-9daa-4149-991f-24c59178acac_goal_12-b_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Remove Market Distortions that Encourage Wasteful Consumption",
+          "body": "Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances, including by restructuring taxation and phasing out those harmful subsidies, where they exist, to reflect their environmental impacts, taking fully into account the specific needs and conditions of developing countries and minimizing the possible adverse impacts on their development in a manner that protects the poor and the affected communities.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fa811b0a8-5256-4eac-bbfd-8fb70bd4ff6f_goal_12.c_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 12 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Shop, eat and drink locally. Supporting neighbourhood businesses keeps people employed and circulates money back into your community.",
+        "Be conscious of packaging – the less the better!",
+        "Buy second-hand whenever you can.",
+        "Do some research and buy from companies you know have sustainable practices and don’t harm the environment.",
+        "Download and use food sharing applications. You can download apps to donate your leftover food and decrease the amount of food waste you produce.",
+        "Choose reusable products. Use an eco-bag for shopping, a reusable water bottle or a cup to reduce your plastic waste.",
+        "Advocate for corporate responsibility. Join petitions and campaigns calling out businesses with unsustainable practices.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Climate Action",
+      "slug": "climate-action",
+      "number": 13,
+      "backgroundColor": "#3f7e44",
+      "image": "<svg viewBox=\"0 0 1000 460\"><g fill=\"currentColor\" fill-rule=\"evenodd\"><path d=\"M625.3 349C607 349 592 334.3 592 316c0-18.3 15-33.2 33.3-33.2 18.4 0 33.3 15 33.3 33.2 0 18.4-15 33.3-33.3 33.3m144.5-15.4c-12.6-17-94-120.6-208-120.6-98.8 0-204.7 89.7-204.7 89.7s-39.7-81.4-121-89.2H234c-1.8 0-3.4 1.7-3.2 3 .3 1.6 1.3 3 1.3 3 10.6 17.5 37.3 67 37.3 116.5 0 49.7-27 99.3-37.3 116.7l-.7 1c-.3.6-.5 1-.5 1.8 0 1.7 1.4 3 3 3.2h1c.2 0 .5 0 .8-.2C317.2 451 357 369.3 357 369.3S463 459 562 459c114 0 195.2-103.6 207.8-120.6.3-.4.6-.8 1-1V336v-1.2l-1-1.2M233.4 18.2l-.6-.2c-1.8 0-3.3 1.5-3.3 3.3V44c0 1 .4 1.8 1 2.4 55 47.8 107 3 119-9l1-.8c.5-.3 1-.6 1.8-.6s1.6.4 2.2 1h.2c62 59.4 127.3 11.3 140.8 0l1.4-1.2c.2-.2.7-.2 1-.2.6 0 1 0 1.4.2l1.3 1.2c13.6 11.3 78.7 59.4 141 0 .6-.6 1.4-1 2.2-1 .6 0 1.2.3 1.7.6.4.2.7.6 1 1 12 11.8 64 56.6 119 8.8.7-.6 1-1.4 1-2.4V21.3c0-1.8-1.4-3.3-3.2-3.3-.2 0-.4 0-.7.2l-1.6.8c-17 8.5-69.4 28.7-117-16.4l-1.5-1.3c-.4-.2-.8-.3-1.4-.3h-1c-.7.4-1.2 1-1.6 1.4-14.2 10.8-79.4 55-137.4.8l-.8-.8c-.7-.5-1.5-1-2.4-1-.8 0-1.6.5-2.2 1l-1 .8c-58 54-123 10-137.3-.8-.4-.5-1-1-1.6-1.3h-1c-.6 0-1 0-1.5.3L352 2.6c-47.5 45-100 25-117 16.4l-1.6-.8M349.6 120c.3-.3.5-.6 1-.8.4-.4 1-.6 1.7-.6.8 0 1.6.3 2.2 1h.2c62 59.2 127.3 11.2 140.8 0l1.4-1.3 1-.2c.6 0 1 .2 1.4.3l1.3 1.3c13.6 11.2 78.7 59.2 141 0 .6-.7 1.4-1 2.2-1 .6 0 1.2.2 1.7.6.4.2.7.5 1 1 12 11.7 64 56.5 119 8.7.7-.7 1-1.5 1-2.4v-22.8c0-1.8-1.4-3.2-3.2-3.2h-.7l-1.6 1c-17 8.4-69.5 28.5-117-16.5l-1.5-1.2c-.4-.2-.8-.3-1.4-.3-.3 0-.6 0-1 .2-.7.2-1.2.7-1.6 1.3-14.2 10.8-79.4 55-137.4.8l-1-1c-.5-.5-1.3-.8-2.2-.8-.8 0-1.6.3-2.2 1l-1 .8c-58 54-123 10-137.3-.8-.4-.6-1-1-1.6-1.3l-1-.2c-.6 0-1 0-1.5.3L352 85c-47.5 45-100 25-117 16.5l-1.6-.8h-.6c-1.8 0-3.3 1.3-3.3 3v23c0 .8.4 1.6 1 2.2 55 47.7 107 3 119-9\"></path></g></svg>\r\n",
+      "introduction": "Take urgent action to combat climate change and its impacts.",
+      "manifest": "Climate change is a real and undeniable threat to our entire civilization. The effects are already visible and will be catastrophic unless we act now. Through education, innovation and adherence to our climate commitments, we can make the necessary changes to protect the planet. These changes also provide huge opportunities to modernize our infrastructure which will create new jobs and promote greater prosperity across the globe.",
+      "targets": [
+        {
+          "title": "Strengthen resilience and Adaptive Capacity to Climate Related Disasters",
+          "body": "Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F8f2d59b3-fbb1-4c33-9bfd-333b15b6cf9d_goal_13.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Integrate Climate Change Measures into Policies and Planning",
+          "body": "Integrate climate change measures into national policies, strategies and planning.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F3064e359-22b2-4c62-a1cd-42af73b35d7b_goal_13.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Build Knowledge and Capacity to Meet Climate Change",
+          "body": "Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fd664347b-eba1-4fef-96e6-48d3207d7bd4_goal_13.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Implement the UN Framework Convention on Climate Change",
+          "body": "Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on Climate Change to a goal of mobilizing jointly $100 billion annually by 2020 from all sources to address the needs of developing countries in the context of meaningful mitigation actions and transparency on implementation and fully operationalize the Green Climate Fund through its capitalization as soon as possible.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fcc609565-1a99-402d-92d5-2e4582944ac3_goal_13.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Mechanisms to Raise Capacity for Planning and Management",
+          "body": "Promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries and small island developing States, including focusing on women, youth and local and marginalized communities.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F50dafa53-0e94-4d88-954b-852fe34448ac_goal_13.b_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 13 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Recycle paper, glass, plastic, metal and old electronics.",
+        "Compost. Composting food scraps can reduce climate impact while also recycling nutrients.",
+        "Choose reusable products. Use an eco-bag for shopping and a reusable water bottle or a cup to reduce your plastic waste.",
+        "Buy eco-friendly products. Read the packaging to see if products are produced in an eco-friendly way.",
+        "Bike, walk or take public transport. Save the car trips for when you’ve got a big group.",
+        "Consume less meat and become vegetarian for one day a week. The meat production industry has a huge impact on the environment.",
+        "Reduce your use of paper. Avoid printing and substitute it with electronic devices or carriers. Don’t shop for pets! Visit your local animal shelter and adopt an animal there.",
+        "Offset your carbon emissions. You can calculate your carbon footprint and purchase climate credits from Climate Neutral Now.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Life Below Water",
+      "slug": "life-below-water",
+      "number": 14,
+      "backgroundColor": "#0a97d9",
+      "image": "<svg viewBox=\"0 0 1000 481\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M420 279c1.3 0 2.3 1 2.3 2.3V354c0 1.4-1 2.4-2.2 2.4h-29.3c-1.2 0-2.2-1-2.2-2.3v-72.6c0-1.2 1-2.2 2.2-2.2H420m323.7 108.4H258c-1 0-2 1-2 2.3v29.5c0 1.2 1 2.2 2 2.2h485.7c1.2 0 2.2-1 2.2-2.2V390c0-1.3-1-2.4-2.4-2.4m0 59H258c-1 0-2 1-2 2.2v29.8c0 1.2 1 2.2 2 2.2h485.7c1.2 0 2.2-1 2.2-2.2v-29.8c0-1.2-1-2.2-2.4-2.2m-92.3-248c-6-4.8-22.3-16-42-16-14 0-27.2 5.7-39 16.7-.8.8-1.3 1.8-1.3 3v2.7c0 1.3.4 2.5 1.4 3.3 1 .8 2 1 3.4.8h1c.8-.4 1.7-1 2.3-1.6 2.8-1.7 9.8-4 19.7-4 10.3 0 30.5 2.7 50 21l.5.3c1.2 1.2 2.7 1.8 4.3 1.8 1.5 0 3-.7 4-1.7l.5-.4c19.7-18.3 39.8-21 50-21 10 0 17 2.3 19.6 4 .7.7 1.6 1.2 2.7 1.6.5 0 1.8.3 3 0 1.7-.5 3-2 3-4v-2.3c0-1-.5-2.2-1.3-3-12-11.3-25-17-39.5-17-19.5 0-35.7 11-42 15.8M621.2 5c-1 .5-1.8 1.4-2 2.5l-.6 1.7c-.4 1.2-.2 2.6.6 3.6.7 1 1.8 1.6 3 1.6h.6c1 0 1.6 0 2.4-.5.4-.3 1.3-.6 3-.6 2 0 21.6.7 34.6 22.7l.2.4c.7 1.3 1.8 2.2 3 2.5h1.6c1 0 1.8 0 2.5-.5h.5c7-3.7 14.4-5.5 21.6-5.5 12.4 0 20.4 5 22.3 7.2.4.7 1 1.3 1.6 1.8l1.5.8h1.2c.7 0 1.3 0 2-.4 1-.5 1.7-1.4 2-2.5l.4-1.6v-1.2c0-.7 0-1.5-.4-2-9.4-16.4-23-20-33-20-7.2 0-13.6 2-17.4 3.4C668 12.6 656.6.3 639.6.3c-6 0-12 1.5-18.2 4.6M518.6 79.6V82c.2 1.2 1 2.4 2 3 1 .8 2.2 1 3.3.6 0 0 .3 0 .5-.2 1-.3 1.6-1 2-1.5 2.2-1.7 8.8-4.4 18.6-4.4 9.6 0 24 2.5 38.5 14.5l.4.4c1 1 2.3 1.4 3.6 1.4h.4c1.6-.2 3-1 4-2l.2-.3c16.2-17 33.6-19.6 42.6-19.6 6.4 0 11 1.3 12.6 2.3.7.6 1.5 1 2.6 1.3.3 0 1 .2 1.7 0h1c1.8-.7 3-2.4 2.8-4.3v-2c-.2-1-.7-2-1.5-2.8-9.7-8-20-12.2-31-12.2-17.2 0-30.8 10-36.5 15-5-3.5-17.7-10.7-32.4-10.7-12.7 0-24.3 5.3-34.2 16-.8.7-1.2 2-1 3m-246 39c0-29 23.6-52.6 52.7-52.6 1 0 2.2 0 3.3.2 2.8-36.8 33.5-65.8 71-65.8 39.3 0 71.2 32 71.2 71.2 0 11-2.6 21.6-7.2 31 35.7 8 62.4 39.7 62.4 77.7 0 44-35.7 79.6-79.6 79.6l-106.3-.8c-31 0-56.3-25.2-56.3-56.4 0-15 5.8-28.6 15.3-38.7-15.8-9-26.5-26-26.5-45.5\"></path></svg>\r\n",
+      "introduction": "Conserve and sustainably use the oceans, seas and marine resources for sustainable development.",
+      "manifest": "Healthy oceans and seas are essential to our existence. They cover 70 percent of our planet and we rely on them for food, energy and water. Yet, we have managed to do tremendous damage to these precious resources. We must protect them by eliminating pollution and overfishing and immediately start to responsibly manage and protect all marine life around the world.",
+      "targets": [
+        {
+          "title": "Reduce Marine Pollution",
+          "body": "By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F5a8a02fb-62fa-4fc0-a7e5-3d5fd58b053e_goal_14.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Protect and Restore Ecosystems",
+          "body": "By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F9c88e330-dc61-4c15-b0d1-3be5766b89ee_goal_14.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Reduce Ocean Acidification",
+          "body": "Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F69f698bd-4fd4-409d-9058-fa9c4233cfdf_goal_14.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Sustainable Fishing",
+          "body": "By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F2dbe7975-00ef-4ce4-abe5-b3768ef1128e_goal_14.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Conserve Coastal and Marine Areas",
+          "body": "By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F636df7a3-ede0-49f2-8078-bc9bcdfa9f1b_goal_14.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "End Subsidies Contributing to Overfishing",
+          "body": "By 2020, prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies, recognizing that appropriate and effective special and differential treatment for developing and least developed countries should be an integral part of the World Trade Organization fisheries subsidies negotiation.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fdc8974a9-9d76-469b-b35a-c91b7a40a2be_goal_14.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Increase the Economic Benefits from Sustainable Use of Marine Resources",
+          "body": "By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F4b91e51f-463a-4788-98f7-9a15ea5a6630_goal_14.7_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Increase Scientific Knowledge, Research and Technology for Ocean Health",
+          "body": "Increase scientific knowledge, develop research capacity and transfer marine technology, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of Marine Technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fb1c27283-774d-4f7c-a00d-3c5ef7183d86_goal_14.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Support Small Scale Fishers",
+          "body": "Provide access for small-scale artisanal fishers to marine resources and markets.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F97e10c54-8c89-4a7c-9055-c44b8f0c8c88_goal_14.b_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Implement and Enforce International Sea Law",
+          "body": "Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in the United Nations Convention on the Law of the Sea, which provides the legal framework for the conservation and sustainable use of oceans and their resources, as recalled in paragraph 158 of “The future we want”.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fad68f451-ae1a-4711-8e6a-0f53211cd991_goal_14.c_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 14 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Never buy bottled water – boil, filter, chlorine, rainwater, do what you can.",
+        "Reduce waste - much of the waste that we produce on land ends up in the oceans. Stop using plastic bags: Usage and wrong disposal of plastic is a major cause of marine pollution.",
+        "Run a campaign on the effects of plastic use on the seas and oceans.",
+        "Organize a cleanup project for rivers and oceans. Engage your whole community to clean up a local river, seaside or an ocean.",
+        "Buy local and certified fish.  You can support small-scale producers by shopping in local markets and shops.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Life on Land",
+      "slug": "life-on-land",
+      "number": 15,
+      "backgroundColor": "#56c02b",
+      "image": "<svg viewBox=\"0 0 1000 552\"><g fill=\"currentColor\" fill-rule=\"evenodd\"><path d=\"M701 5s-11.6 15.3-8.3 30.2C696 50.2 713 59 713 59s11.7-15.3 8.3-30.2C718 13.8 701 5 701 5M682 92.4S693.8 77 690.4 62C687 47.3 670 38.5 670 38.5s-11.5 15.3-8.2 30.2c3.4 15 20.4 23.8 20.4 23.8M729.6 76s12.2 12.2 26 11c14-1.2 24.2-15.5 24.2-15.5s-12.2-12.2-26-11c-14 1.2-24.3 15.5-24.3 15.5m20-65.6C738 22 739.6 42 739.6 42s20 1.8 31.2-9.6S780.5.7 780.5.7s-20-1.7-31.2 9.7m-24.8 111c13.8 1.7 26.8-10.2 26.8-10.2s-9.4-14.5-23.2-16c-14-1.7-27 10.2-27 10.2s9.5 14.5 23.3 16m12.4 240H633.5c-8 0-14.6 6.5-14.6 14.6 0 8 6.6 14.6 14.6 14.6H737c8 0 14.5-6.5 14.5-14.6 0-8-6.5-14.6-14.6-14.6m0 161H633.5c-8 0-14.6 6.5-14.6 14.6 0 8 6.6 14.6 14.6 14.6H737c8 0 14.5-6.5 14.5-14.6 0-8-6.5-14.6-14.6-14.6M272.5 326c-2.4-.8-4.8-1.4-7.2-2 0 0 2.7 1 7.2 2\"></path><path d=\"M440 389c6.7.3 13.5 0 20.4-.4v54L440 442v-53zM733 401h-95.6c-4.6 0-8.3 3.8-8.3 8.3v29l-62.4 7-91.2-2V387c12-1.6 24.3-4 36.3-7.4 87.8-24.8 107-97.4 105-147.7-1.8-51 14.5-71 38-79.8 6.8-2.6 13.5-4.2 19.6-5.2.2 12.5 2.8 27 8.4 44.6 2 0 4.2-.3 6.3-.5-6-17.7-8.4-32.4-8.6-45 12.2-1.4 20.8-.6 20.8-.6s-8.2-4.4-19.8-14c4-24.3 18.4-39.2 33.3-54.4 8.2-8.4 16.7-17 23.3-27.3l-5.2-3.3c-6.2 9.8-14.5 18.2-22.5 26.3-14.5 14.8-29 30-34 54-4.8-4.2-10-9.2-15-15-21.7-24.4-49.6-6.5-89.4 30.5-39.8 37-90 38.2-138.7-11.7-64.5-66-120.7-65.6-159.3-62 26.4 11.3 35.6 36 49 98.6 14 65.8 49.3 95.5 97.6 99.6-26.8 9.5-28.2 24.6-64 49.5-28.2 19.5-67.7 13.3-83.7 9.7 29.3 9.2 64 40 95.3 50.7 18 6.3 37.2 10.2 56.8 11.7v53.5L261.5 438v37.2l305.2-7 62.5 7V504c0 4.6 4 8.4 8.5 8.4H733c4.7 0 8.4-3.8 8.4-8.4v-95c0-4.4-3.7-8.2-8.3-8.2zM252.6 469c0 8-5.5 14.3-12.2 14.3H233c-6.8 0-12.3-6.4-12.3-14.3v-25.7c0-7.8 5.4-14.2 12.2-14.2h7.2c6.7 0 12.2 6.5 12.2 14.3V469\"></path></g></svg>\r\n",
+      "introduction": "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.",
+      "manifest": "A flourishing life on land is the foundation for our life on this planet. We are all part of the planet’s ecosystem and we have caused severe damage to it through deforestation, loss of natural habitats and land degradation. Promoting a sustainable use of our ecosystems and preserving biodiversity is not a cause. It is the key to our own survival.",
+      "targets": [
+        {
+          "title": "Conserve and Restore Terrestrial and Freshwater Ecosystems",
+          "body": "By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F5d08ea5a-c0b5-49a4-993d-40bd2f3d46f9_goal_15.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "End Deforestation and Restore Degraded Forests",
+          "body": "By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F2d7c3a6c-410f-4559-9653-b0f67d6b8184_goal_15.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "End Desertification and Restore Degraded Land",
+          "body": "By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F8cbc14b6-8735-4284-9ce1-4061f804b644_goal_15.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Ensure Conservation of Mountain Ecosystems",
+          "body": "By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fc4c086bd-06c7-495f-a743-4ebd0f228ee1_goal_15.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Protect Biodiversity and Natural Habitats",
+          "body": "Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F675a6237-f33f-42b2-9e76-21fd53e22e93_goal_15.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Access to Genetic Resources and Fair Sharing of the Benefits",
+          "body": "Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F321848c4-1853-4f19-a996-0f81cb002458_goal_15.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Eliminate Poaching and Trafficking of Protected Species",
+          "body": "Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fd44e67bd-fb66-4283-8b80-8f0fd1b06438_goal_15.7_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Prevent Invasive Alien Species on Land and in Water Ecosystems",
+          "body": "By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fd7811258-202d-46a4-84b6-5bb4b11fab59_goal_15.8_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Integrate Ecosystem and Biodiversity in Governmental Planning",
+          "body": "By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F4873dc0f-0980-46f0-8186-a4a6b3d9e693_goal_15.9_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Increase Financial Resources to Conserve and Sustainably Use Ecosystem and Biodiversity",
+          "body": "Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F4994ddd6-6ba4-43d6-936f-2eb42519ea58_goal_15.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Finance and Incentivize Sustainable Forest Management",
+          "body": "Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fe7fb9602-9f4c-4e29-b551-b5f1e6a5566d_goal_15.b_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Combat Global Poaching and Trafficking",
+          "body": "Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F016f5cce-91a0-4be7-895a-50b5bf583de4_goal_15.c_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 15 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Reduce your use of paper. Avoid printing and substitute it with electronic devices or carriers.",
+        "Don’t shop for pets! Visit your local animal shelter and adopt an animal there.",
+        "Don’t buy products tested on animals: Check the labels on the products you buy.",
+        "Recycle paper, glass, plastic, metal and old electronics.",
+        "Compost. Composting food scraps can reduce climate impact while also recycling nutrients.",
+        "Clean your local parks and forests. Organise your own or join an existing clean-up event to sustain the ecosystem of your local green space.",
+        "Don't use pesticides. To protect and sustain the quality of soil, don’t use chemicals while growing plants.",
+        "Volunteer with street animal organizations or shelters: Help to sustain diversity and save lives of animal species by volunteering in organizations helping these pets as well as endangered species.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Peace, Justice and Strong Institutions",
+      "slug": "peace-justice-and-strong-institutions",
+      "number": 16,
+      "backgroundColor": "#00689d",
+      "image": "<svg viewBox=\"0 0 1000 486\"><g fill=\"currentColor\" fill-rule=\"evenodd\"><path d=\"M588.7 225.7c25.7-23.8 41.8-57.8 41.8-95.5 0-5.6-.4-11-1-16.6 52 5.6 92.8 49.8 92.8 103.4 0 30.5-13.2 57.8-34.2 77-19.5-37-56.2-63-99.3-68.3M677.2 355c0 57.3-46.7 104-104 104-18.7 0-36.2-5-51.4-13.7 22.2-23.3 35.8-54.8 35.8-89.5 0-8.5-.8-16.8-2.4-25 18.7 10.5 40.2 16.4 63 16.4 20.4 0 39.7-4.7 57-13 1.2 6.7 2 13.7 2 20.8m-354 .8c0-7.4 1-14.6 2.4-21.5 17.2 8.3 36.4 13 56.6 13 23 0 44.3-6 63-16.3-1.5 7.8-2.3 15.8-2.3 24 0 35 14 67 36.7 90.6-15.4 9-33.2 14.2-52.3 14.2-57.4 0-104-46.6-104-104M278 217c0-53.6 40.8-97.8 93-103.4-.8 5.5-1.2 11-1.2 16.6 0 38 16.4 72.4 42.6 96.3-43.3 5-80 31-100 67.6-21-19-34.4-46.4-34.4-77m222-190.8c42.7 0 79.3 25.8 95.4 62.6-42.3 7.4-77.6 35.4-95.4 73.2-17.6-37.8-53-65.8-95.3-73.2C421 52 457.5 26.2 500 26.2M525 262.8c14.4-7.5 30.8-12 48-12 41 0 76.4 24 93.4 58.3-14.4 7.7-30.8 12-48 12-41 0-76.4-23.8-93.4-58.2m-50 .7c-17 34-52 57.5-92.8 57.5-17.2 0-33.4-4.3-47.7-11.7 17-34 52.2-57.5 93-57.5 17 0 33.3 4.3 47.6 11.7m-77.4-149.3c50 7.5 88.7 50.7 88.7 102.8 0 5.5-.6 10.8-1.4 16-50.2-7.5-88.8-50.6-88.8-102.8 0-5.4.6-10.7 1.4-16m103 315.3c-19.3-19-31.5-45.3-31.5-74.5 0-28.8 12-55 30.8-73.7 19.4 19 31.6 45.3 31.6 74.5 0 28.8-11.7 54.8-30.7 73.7m103.6-299.3c0 52.2-38.6 95.3-88.7 102.8-.8-5.2-1.4-10.5-1.4-16 0-52 38.6-95.3 88.7-102.7.7 5.2 1.3 10.5 1.3 16M748.5 217c0-70.2-56-127.6-125.5-130-18-50.7-66-87-122.8-87-56.6 0-104.8 36.3-122.8 87C307.8 89.3 252 146.7 252 217c0 41.7 19.7 78.8 50.3 102.7-3.4 11.5-5.2 23.6-5.2 36 0 72 58.5 130.3 130.4 130.3 27.2 0 52.5-8.4 73.5-22.8 20.6 14 45.4 22 72 22 72 0 130.4-58.4 130.4-130.2 0-12.3-1.8-24.2-5-35.5 30.5-23.8 50-61 50-102.5\"></path></g></svg>\r\n",
+      "introduction": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels.",
+      "manifest": "Compassion and a strong moral compass is essential to every democratic society. Yet, persecution, injustice and abuse still runs rampant and is tearing at the very fabric of civilization. We must ensure that we have strong institutions, global standards of justice, and a commitment to peace everywhere.",
+      "targets": [
+        {
+          "title": "Reduce Violence Everywhere",
+          "body": "Significantly reduce all forms of violence and related death rates everywhere.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fe90bc073-aade-4e1a-b5e3-8653ff841eaa_goal_16.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Protect Children from Abuse, Exploitation, Trafficking and Violence",
+          "body": "End abuse, exploitation, trafficking and all forms of violence against and torture of children.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fc665e32d-4e1d-455a-b89c-dafcfd57dcc4_goal_16.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote the Rule of Law And Ensure Equal Access to Justice",
+          "body": "Promote the rule of law at the national and international levels and ensure equal access to justice for all.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fa07b7ed7-310d-4b06-aafe-31eb74838431_goal_16.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Combat Organized Crime and Illicit Financial and Arms Flows",
+          "body": "By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F605fbebf-baa2-492c-892d-abe9a130f19e_goal_16.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Substantially Reduce Corruption and Bribery",
+          "body": "Substantially reduce corruption and bribery in all their forms.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Ff884b6d4-93f2-4ff1-af65-9e6e4bd3dbf0_goal_16.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Develop Effective, Accountable and Transparent Institutions",
+          "body": "Develop effective, accountable and transparent institutions at all levels.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fdc38a5bc-35e2-472d-9e89-5700df17ef90_goal_16.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Ensure Responsive, Inclusive and Representative Decision-Making",
+          "body": "Ensure responsive, inclusive, participatory and representative decision-making at all levels.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F55fee800-3ab2-4b5d-a588-20d28c78f8b7_goal_16.7_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Strengthen the Participation in Global Governance",
+          "body": "Broaden and strengthen the participation of developing countries in the institutions of global governance.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fd6bae25f-78d1-4c2b-8d13-956c08aa3d55_goal_16.8_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Provide Universal Legal Identity",
+          "body": "By 2030, provide legal identity for all, including birth registration.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fb52d8b06-84a7-4ad1-a109-640eab0402e8_goal_16.9_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Ensure Public Access to Information and Protect Fundamental Freedoms",
+          "body": "Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F09e690f3-6c33-41b1-8a25-54cde74d6f1c_goal_16.10_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Strengthen National Institutions to Prevent Violence and Combat Terrorism and Crime",
+          "body": "Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F0d0b91c3-32a1-4a95-9a27-dc8f0cded70f_goal_16.a_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote and Enforce Non-Discriminatory Laws and Policies",
+          "body": "Promote and enforce non-discriminatory laws and policies for sustainable development.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F93dd3fb2-5a87-45a3-8099-58f6e76d3a7c_goal_16.b_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 16 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Speak up! Ask your local and national authorities to engage in initiatives that don’t harm people or the planet.",
+        "Know your rights at work. In order to access justice, knowing what you are entitled to will go a long way.",
+        "Vote! Take advantage of your right to elect the leaders in your country and local community.",
+        "Run for a public post.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    },
+    {
+      "title": "Partnerships for the Goals",
+      "slug": "partnerships-for-the-goals",
+      "number": 17,
+      "backgroundColor": "#19486a",
+      "introduction": "Strengthen the means of implementation and revitalize the global partnership for sustainable development.",
+      "manifest": "The Global Goals can only be met if we work together. International investments and support is needed to ensure innovative technological development, fair trade and market access, especially for developing countries. To build a better world, we need to be supportive, empathetic, inventive, passionate, and above all, cooperative. ",
+      "targets": [
+        {
+          "title": "Mobilize Resources to Improve Domestic Revenue Collection ",
+          "body": "Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F1abd1919-0b52-4ab1-be09-c554888c98c0_goal_17.1_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Implement All Development Assistance Commitments",
+          "body": "Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fe611da1a-63cf-4211-b919-bfe859442a94_goal_17.2_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Mobilize Financial Resources for Developing Countries",
+          "body": "Mobilize additional financial resources for developing countries from multiple sources.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F7febeab9-31d1-4fde-8dd4-2a5f5fbeb4ba_goal_17.3_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Assist Developing Countries in Attaining Debt Sustainability",
+          "body": "Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fbfe97d1e-e52d-4f1a-8c20-aa08922fbcd5_goal_17.4_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Invest in Least Developed Countries",
+          "body": "Adopt and implement investment promotion regimes for least developed countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F3e5d1f79-96ad-4e85-b6ae-6f6ccbffb32d_goal_17.5_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Knowledge Sharing and Cooperation for Access to Science, Technology and Innovation",
+          "body": "Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F42698721-44c4-4e24-b0f7-6c697d903036_goal_17.6_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote Sustainable Technologies to Developing Countries",
+          "body": "Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F25684055-6356-486e-a8f7-424bb819fb61_goal_17.7_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Strengthen the Science, Technology and Innovation Capacity for Least Developed Countries",
+          "body": "Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fb94d0286-c4eb-4e0a-9f07-5a6f66b13770_goal_17.8_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Enhance SDG Capacity in Developing Countries             ",
+          "body": "Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the Sustainable Development Goals, including through North-South, South-South and triangular cooperation.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F6c1c0289-3a33-4121-a1bc-59f84df9e1c9_goal_17.9_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Promote a Universal Trading System under the WTO",
+          "body": "Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F06a1afbb-b8c2-4b83-846c-2c61afa00a90_goal_17.10_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Increase the Exports of Developing Countries",
+          "body": "Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fccf368ce-2e39-48a8-becd-4e8e6ff4ff77_goal_17.11_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Remove Trade Barriers for Least Developed Countries",
+          "body": "Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F2ad80573-2187-40fb-a3e4-6cd04cc25bcd_goal_17.12_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Enhance Global Macroeconomic Stability",
+          "body": "Enhance global macroeconomic stability, including through policy coordination and policy coherence.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fcff7c0e8-41a0-4841-97ec-f6f3a888e859_goal_17.13_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Enhance Policy Coherence for Sustainable Development",
+          "body": "Enhance policy coherence for sustainable development.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F9d3c49ac-03cc-401d-bd69-d53416e96a8b_goal_17.14_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Respect National Leadership to Implement Policies for the Sustainable Development Goals",
+          "body": "Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F885dcb67-83e4-4845-81b5-665e09abf7a5_goal_17.15_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Enhance the Global Partnership for Sustainable Development",
+          "body": "Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals in all countries, in particular developing countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F5d821cb3-9939-48f2-9d5a-36758d5e1e02_goal_17.16_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Encourage Effective Partnerships",
+          "body": "Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F91919462-17b9-4caf-853a-7df5d82dd66d_goal_17.17_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Enhance Availability of Reliable Data",
+          "body": "By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts.",
+          "pictogram": "https://images.prismic.io/globalgoals%2Fa5f65a1f-abdc-47f5-b684-e84803b727c1_goal_17.18_rgb_ng.svg?auto=compress,format"
+        },
+        {
+          "title": "Further Develop Measurements of Progress",
+          "body": "By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries.",
+          "pictogram": "https://images.prismic.io/globalgoals%2F06e11c87-5f50-4718-89bd-2b5c1064cb2e_goal_17.19_rgb_ng.svg?auto=compress,format"
+        }
+      ],
+      "tips": [
+        "Find a Goal 117 charity you want to support. Any donation, big or small, can make a difference! See the \"Get Involved\" section above.",
+        "Work or volunteer in NGOs that are working towards the Global Goals. You can contribute through various projects to achieving the Goals by 2030.",
+        "Support export by buying products from developing countries. Pay attention to the Fair Trade label on products which helps to indicate products from local producers in developing countries.",
+        "Stay informed. Follow your local news and stay in touch with the Global Goals online or on social media at @TheGlobalGoals."
+      ]
+    }
+  ]
+}

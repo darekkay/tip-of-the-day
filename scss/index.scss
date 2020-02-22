@@ -61,6 +61,11 @@
   margin-top: auto;
 }
 
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .no-margin {
   margin: 0;
 }
@@ -75,4 +80,17 @@
 
 .border {
   border: 1px solid #ddd;
+}
+
+.w-auto {
+  width: auto;
+}
+
+.h-auto {
+  height: auto;
+}
+
+.svg-full svg {
+  width: 100%;
+  height: 100%;
 }

@@ -1,0 +1,20 @@
+<p><strong>Goal <%= number %>: <%= introduction %></strong></p>
+
+<p class="flex justify-center items-center mx-auto w-auto h-auto svg-full" style="max-width: 300px; max-height: 200px; padding: 2rem; color: white; background-color: <%= backgroundColor %>">
+  <%- image %>
+</p>
+
+<p><%= manifest %></p>
+<h3>Targets</h3>
+<ul>
+  <% for(var i = 0; i < targets.length; i++) { %>
+    <li><%= targets[i].title %></li>
+  <% } %>
+</ul>
+
+<h3>Tips</h3>
+<ul>
+  <% for(var j = 0; j < tips.length; j++) { %>
+    <li><%= tips[j] %></li>
+  <% } %>
+</ul>
