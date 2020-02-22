@@ -17,6 +17,7 @@ const generateHTML = ({ source, entry, renderer }) => {
         name: rendered.title,
         source: rendered.url,
         rssUrl: `${baseUrl}/rss/${source.id}.xml`,
+        jsonUrl: `${baseUrl}/json/${source.id}.json`,
         license: source.license,
         copyright: source.copyright
       }
