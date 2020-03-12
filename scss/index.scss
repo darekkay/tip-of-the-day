@@ -15,7 +15,7 @@
   border-radius: 5px;
   max-width: 350px;
   width: 100%;
-  background-color: #f5f7fb;
+  background-color: $gray-cool-3;
 }
 
 .button img {
@@ -23,7 +23,7 @@
 }
 
 .button img:hover {
-  border-color: #222;
+  border-color: $gray-80;
 }
 
 /* Functional CSS utilities */
@@ -79,7 +79,7 @@
 }
 
 .border {
-  border: 1px solid #ddd;
+  border: 1px solid $gray-cool-10;
 }
 
 .w-auto {
