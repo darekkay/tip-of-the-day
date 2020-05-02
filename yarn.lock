@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@darekkay/styles@1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@darekkay/styles/-/styles-1.0.3.tgz#fa1980b764c796c4a4cca540d9e54c5797bbbe53"
-  integrity sha512-Mu3NE4k2uGIpQL5lMACnQjlbIHmRsAR4MajBXtX1+Y8jJOdDNvad0Zg6S/tFGHiYDJw+jPcM3pYuuFrudkI6wA==
+"@darekkay/styles@1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@darekkay/styles/-/styles-1.0.6.tgz#03a3e6f0782b913e01c95bcf6c808b4cf8479e0b"
+  integrity sha512-MpKEY435L7ojNBkTXFE2l8vAxArK+dW/8VA/hzxmPmE7Wdbr49IE4XvkLQXiwXpx5ID/qbEfbvbceaETQqL/3Q==
 
 "@nodelib/fs.scandir@2.1.1":
   version "2.1.1"
