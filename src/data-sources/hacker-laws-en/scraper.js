@@ -3,6 +3,8 @@ const markdown = require("markdown-it")({
   html: true // enable HTML tags in source
 });
 
+const decodeHTML = html => html.replace("&amp;", "&");
+
 const extractEntries = data => {
   // render content as HTML
   let html = markdown.render(data);
@@ -32,7 +34,7 @@ const extractEntries = data => {
     const headlineEndTag = "</h3>";
     const headlineEndIndex = entry.indexOf(headlineEndTag);
     return {
-      title: entry.substring(0, headlineEndIndex),
+      title: decodeHTML(entry.substring(0, headlineEndIndex)),
       content: entry.substring(headlineEndIndex + headlineEndTag.length)
     };
   });
