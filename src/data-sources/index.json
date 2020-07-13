@@ -27,13 +27,19 @@
     "slug": "hacker-laws-en",
     "title": "Hacker laws",
     "language": "en",
-    "description": "Laws, Theories, Principles and Patterns for developers"
+    "description": "Laws, Theories, Principles and Patterns for developers."
+  },
+  {
+    "slug": "untools-en",
+    "title": "Untools",
+    "language": "en",
+    "description": "Thinking tools to help you solve problems, make decisions and understand systems."
   },
   {
     "slug": "sustainable-development-goals-en",
     "title": "Sustainable Development Goals",
     "language": "en",
-    "description": "The UN global goals for sustainable development"
+    "description": "The UN global goals for sustainable development."
   },
   {
     "slug": "plants-de",

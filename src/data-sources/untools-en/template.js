@@ -1,8 +1,8 @@
 const renderItemContent = require("../../utils/ejs");
 
 const renderItem = data => ({
-  title: data.title,
-  // url: `https://example.com/${data.id}`,
+  title: `${data.title} (${data.category.toLowerCase()})`,
+  url: `https://untools.co/${data.id}`,
   content: renderItemContent({ path: __dirname, item: data })
 });
 
