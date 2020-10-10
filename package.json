@@ -1,6 +1,6 @@
 {
   "name": "tip-of-the-day",
-  "description": "Get your daily knowledge dose.",
+  "description": "Get your daily knowledge dose",
   "version": "1.0.0",
   "author": "Darek Kay <hello@darekkay.com> (https://darekkay.com/)",
   "dependencies": {
@@ -40,13 +40,27 @@
     "prettier": "1.19.1",
     "xml-js": "1.6.11"
   },
+  "engines": {
+    "node": ">=12.0.0"
+  },
   "homepage": "https://tips.darekkay.com",
+  "keywords": [
+    "daily tip",
+    "feed",
+    "news",
+    "rss",
+    "tips"
+  ],
   "license": "MIT",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darekkay/tip-of-the-day.git"
+  },
   "scripts": {
     "build": "npm run build:index && npm run build:feeds",
-    "build:index": "gulp build",
     "build:feeds": "node src/index.js",
+    "build:index": "gulp build",
     "ci": "npm run lint:check && npm run test",
     "format": "prettier --write -- \"{src,public}/**/*.{js,jsx,json,css,scss,md}\"",
     "generate": "plop --plopfile internals/generators/index.js",
