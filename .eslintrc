@@ -1,21 +1,7 @@
 {
-  "extends": [
-    "airbnb-base",
-    "prettier"
-  ],
-  "env": {
-    "node": true,
-    "es6": true,
-    "mocha": true
-  },
-  "plugins": [
-    "prettier"
-  ],
-  "root": true,
+  "extends": ["@darekkay/eslint-config/nodejs"],
   "rules": {
-    "prettier/prettier": "error",
-    "linebreak-style": "off",
-    "no-console": "off",
-    "radix": "off"
+    "no-console": "off", // TODO: use logger
+    "node/no-unpublished-require": "off" // this module is not published on npm
   }
 }

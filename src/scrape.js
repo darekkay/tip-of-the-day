@@ -1,4 +1,3 @@
-/* eslint-disable import/no-dynamic-require,global-require */
 const { writeFile } = require("fs-extra");
 const { join } = require("path");
 

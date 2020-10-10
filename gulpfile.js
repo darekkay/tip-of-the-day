@@ -1,8 +1,7 @@
-/* eslint-disable no-console */
-
 const gulp = require("gulp");
 const plugins = require("gulp-load-plugins")();
 const del = require("del");
+const logger = require("@darekkay/logger");
 
 const buildIndex = require("./src/home-index/build");
 
@@ -38,7 +37,7 @@ const buildHTML = () =>
       })
     )
     .pipe(gulp.dest(files.build))
-    .on("error", console.error);
+    .on("error", logger.error);
 
 const buildCSS = () =>
   gulp
@@ -61,10 +60,7 @@ const buildCSS = () =>
     .pipe(gulp.dest(files.scss.dest));
 
 const buildStatic = () =>
-  gulp
-    .src(files.static)
-    .pipe(gulp.dest(files.build))
-    .on("error", console.error);
+  gulp.src(files.static).pipe(gulp.dest(files.build)).on("error", logger.error);
 
 const build = gulp.series(
   clean,
@@ -78,7 +74,7 @@ const watch = () => {
   gulp.watch(files.static, buildStatic);
 };
 
-exports.build = build;
-exports.watch = watch;
+module.exports.build = build;
+module.exports.watch = watch;
 
-exports.default = gulp.series(build, watch);
+module.exports.default = gulp.series(build, watch);

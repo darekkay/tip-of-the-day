@@ -3,7 +3,7 @@ let localConfig;
 try {
   // eslint-disable-next-line
   localConfig = require("./config.local");
-} catch (err) {
+} catch {
   localConfig = { api: {} };
 }
 

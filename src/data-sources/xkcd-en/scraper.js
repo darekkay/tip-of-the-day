@@ -42,7 +42,10 @@ const run = () =>
         author: "Randall Munroe",
       },
       entries: results
-        .reduce((acc, result) => [...acc, scrapeContent(result.data)], [])
+        .reduce(
+          (accumulator, result) => [...accumulator, scrapeContent(result.data)],
+          []
+        )
         .filter((result) => result !== null),
     };
   });

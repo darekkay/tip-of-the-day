@@ -12,13 +12,13 @@ const flagByAbbreviation = (abbreviation) => {
 
   if (country === undefined) {
     console.info(`No country found for ${abbreviation}`);
-    return undefined;
+    return null;
   }
 
   const flag = flags.find((element) => element.country === country.country);
   if (flag === undefined) {
     console.info(`No flag found for ${abbreviation} (${country.country})`);
-    return undefined;
+    return null;
   }
 
   return flag.flag_base64;

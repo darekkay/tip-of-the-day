@@ -1,4 +1,3 @@
-/* eslint-disable import/no-dynamic-require,global-require */
 const { ensureFile, writeFile, readFile } = require("fs-extra");
 const { join, basename } = require("path");
 const moment = require("moment");
@@ -32,7 +31,7 @@ const generateAllFeeds = (date) => {
     let enhancer = (value) => Promise.resolve(value);
     try {
       enhancer = require(`./data-sources/${tip.source.id}/enhancer.js`);
-    } catch (e) {
+    } catch {
       // No enhancer found - using identity as fallback
     }
     return enhancer(tip.entry).then((entry) => ({

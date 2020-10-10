@@ -19,13 +19,14 @@
     "world-countries": "2.1.0"
   },
   "devDependencies": {
+    "@darekkay/eslint-config": "2.1.2",
     "chai": "4.2.0",
     "del": "5.1.0",
-    "eslint": "6.8.0",
-    "eslint-config-airbnb-base": "14.0.0",
-    "eslint-config-prettier": "6.10.0",
-    "eslint-plugin-import": "2.20.0",
-    "eslint-plugin-prettier": "3.1.2",
+    "eslint": "7.11.0",
+    "eslint-config-prettier": "6.12.0",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-prettier": "3.1.4",
+    "eslint-plugin-unicorn": "22.0.0",
     "gulp": "4.0.2",
     "gulp-babel": "8.0.0",
     "gulp-clean-css": "4.2.0",
@@ -64,8 +65,8 @@
     "ci": "npm run lint:check && npm run test",
     "format": "prettier --write .",
     "generate": "plop --plopfile internals/generators/index.js",
-    "lint:check": "eslint src/**/*.js",
-    "lint:fix": "eslint --fix src/**/*.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
     "test": "mocha \"./src/**/*.test.js\""
   }
 }
