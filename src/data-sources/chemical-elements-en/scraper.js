@@ -1,7 +1,7 @@
 const axios = require("axios");
 const _ = require("lodash");
 
-const getLanguage = lang =>
+const getLanguage = (lang) =>
   axios.get(
     `https://raw.githubusercontent.com/briandfoy/perl6-chemistry-elements/master/lib/Chemistry/Languages/${lang}.txt`
   );
@@ -12,7 +12,7 @@ const run = () =>
       "https://raw.githubusercontent.com/pulsardev/mendelable/master/src/assets/data/mendelable.json"
     ),
     getLanguage("pigLatin"),
-    getLanguage("de")
+    getLanguage("de"),
   ]).then(([{ data }, langLatin, langDE]) => ({
     title: "Chemical elements",
     id: "chemical-elements-en",
@@ -24,11 +24,11 @@ const run = () =>
       (item, nameLatin, nameDE) => ({
         ...item,
         nameLatin,
-        nameDE
+        nameDE,
       })
-    )
+    ),
   }));
 
 module.exports = {
-  run
+  run,
 };

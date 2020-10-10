@@ -6,11 +6,11 @@ describe("generate JSON", () => {
   it("return just a single entry", () => {
     const entry = {
       title: "entry title",
-      content: "content"
+      content: "content",
     };
 
     const feed = generateJSON({
-      entry
+      entry,
     }).content;
 
     expect(feed).to.equal(JSON.stringify(entry, null, 2));

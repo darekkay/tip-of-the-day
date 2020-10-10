@@ -3,9 +3,9 @@ const _ = require("lodash");
 const jsdom = require("jsdom");
 
 // locally saved/scraped files
-const getPage = id => axios.get(`http://localhost:8080/${id}/index.html`);
+const getPage = (id) => axios.get(`http://localhost:8080/${id}/index.html`);
 
-const scrapeContent = html => {
+const scrapeContent = (html) => {
   const dom = new jsdom.JSDOM(html);
   const image = dom.window.document.querySelector("#comic img");
   const metaContent = dom.window.document.querySelector(
@@ -22,16 +22,16 @@ const scrapeContent = html => {
     id: pageUrl.substring(17, pageUrl.length - 1),
     title: image.alt,
     imageUrl: image.src,
-    description: image.title
+    description: image.title,
   };
 };
 
 const run = () =>
   Promise.all(
     _.range(0, 2256)
-      .filter(id => id !== 404 && id !== 1663)
-      .map(id => getPage(id))
-  ).then(results => {
+      .filter((id) => id !== 404 && id !== 1663)
+      .map((id) => getPage(id))
+  ).then((results) => {
     return {
       title: "XKCD",
       id: "xkcd-en",
@@ -39,14 +39,14 @@ const run = () =>
       license: {
         name: "CC BY-NC 2.5",
         url: "https://creativecommons.org/licenses/by-nc/2.5/",
-        author: "Randall Munroe"
+        author: "Randall Munroe",
       },
       entries: results
         .reduce((acc, result) => [...acc, scrapeContent(result.data)], [])
-        .filter(result => result !== null)
+        .filter((result) => result !== null),
     };
   });
 
 module.exports = {
-  run
+  run,
 };

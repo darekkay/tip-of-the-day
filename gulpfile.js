@@ -10,15 +10,15 @@ const files = {
   html: "public/**/*.html",
   scss: {
     src: "scss/index.scss",
-    dest: "build/assets"
+    dest: "build/assets",
   },
   static: ["public/**/*.png", "public/**/*.ico", "public/manifest.json"],
-  build: "build"
+  build: "build",
 };
 
 const clean = () => del([`${files.build}/*`]);
 
-const buildDataSources = callback => buildIndex(callback);
+const buildDataSources = (callback) => buildIndex(callback);
 
 const buildHTML = () =>
   gulp
@@ -34,7 +34,7 @@ const buildHTML = () =>
         removeComments: true,
         removeScriptTypeAttributes: true,
         removeStyleLinkTypeAttributes: true,
-        useShortDoctype: true
+        useShortDoctype: true,
       })
     )
     .pipe(gulp.dest(files.build))
@@ -48,14 +48,14 @@ const buildCSS = () =>
       plugins.cleanCss({
         level: {
           2: {
-            all: true
-          }
-        }
+            all: true,
+          },
+        },
       })
     )
     .pipe(
       plugins.rename({
-        basename: "styles"
+        basename: "styles",
       })
     )
     .pipe(gulp.dest(files.scss.dest));

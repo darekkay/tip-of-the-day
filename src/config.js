@@ -18,6 +18,6 @@ module.exports = {
   author: {
     name: "Darek Kay",
     email: "hello@darekkay.com",
-    link: "https://darekkay.com"
-  }
+    link: "https://darekkay.com",
+  },
 };

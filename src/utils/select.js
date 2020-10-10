@@ -8,5 +8,5 @@ const selectByDate = (tips, date) => {
 };
 
 module.exports = {
-  selectByDate
+  selectByDate,
 };

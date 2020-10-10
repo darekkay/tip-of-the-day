@@ -4,7 +4,7 @@ const { hash } = require("../utils/hash");
 const { baseUrl, author } = require("../config");
 
 const generateRSS = ({ source, entry, renderer, date }) => {
-  const feedUrl = id => `${baseUrl}/rss/${id}.xml`;
+  const feedUrl = (id) => `${baseUrl}/rss/${id}.xml`;
   const feed = new Feed({
     title: source.title,
 
@@ -13,9 +13,9 @@ const generateRSS = ({ source, entry, renderer, date }) => {
     generator: baseUrl,
     updated: date,
     feedLinks: {
-      atom: feedUrl(source.id)
+      atom: feedUrl(source.id),
     },
-    author
+    author,
   });
 
   const rendered = renderer(entry);
@@ -24,12 +24,12 @@ const generateRSS = ({ source, entry, renderer, date }) => {
     content: rendered.content,
     id: hash(`${source.id}${date}`),
     date,
-    link: `${baseUrl}/html/${source.id}.html`
+    link: `${baseUrl}/html/${source.id}.html`,
   });
   return {
     type: "rss",
     extension: "xml",
-    content: feed.atom1()
+    content: feed.atom1(),
   };
 };
 

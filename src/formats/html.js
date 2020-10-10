@@ -19,9 +19,9 @@ const generateHTML = ({ source, entry, renderer }) => {
         rssUrl: `${baseUrl}/rss/${source.id}.xml`,
         jsonUrl: `${baseUrl}/json/${source.id}.json`,
         license: source.license,
-        copyright: source.copyright
-      }
-    })
+        copyright: source.copyright,
+      },
+    }),
   };
 };
 

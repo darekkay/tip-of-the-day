@@ -2,11 +2,11 @@
 const { writeFile } = require("fs-extra");
 const { join } = require("path");
 
-const scrape = slug => {
+const scrape = (slug) => {
   const scraper = require(`./data-sources/${slug}/scraper.js`);
   scraper
     .run()
-    .then(content =>
+    .then((content) =>
       writeFile(
         join(__dirname, "data-sources", slug, "data.json"),
         JSON.stringify(content, null, 2)

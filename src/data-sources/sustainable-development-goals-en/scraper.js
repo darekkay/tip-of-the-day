@@ -21,18 +21,18 @@ const backgroundColors = {
   14: "#0a97d9",
   15: "#56c02b",
   16: "#00689d",
-  17: "#19486a"
+  17: "#19486a",
 };
 
-const images = _.range(1, 18).map(number =>
+const images = _.range(1, 18).map((number) =>
   readFileSync(join(__dirname, "svg", `goal-${number}.svg`), "utf-8")
 );
 
-const extractEntries = data => {
+const extractEntries = (data) => {
   return _.orderBy(
-    data.results.map(result => result.data),
-    entry => entry.number
-  ).map(result => ({
+    data.results.map((result) => result.data),
+    (entry) => entry.number
+  ).map((result) => ({
     title: result.title[0].text,
     slug: result.slug,
     number: result.number,
@@ -40,12 +40,12 @@ const extractEntries = data => {
     image: images[result.number],
     introduction: result.introduction[0].text,
     manifest: result.manifest[0].text,
-    targets: result.targets.map(target => ({
+    targets: result.targets.map((target) => ({
       title: target.title[0].text,
       body: target.body[0].text,
-      pictogram: target.pictogram.url
+      pictogram: target.pictogram.url,
     })),
-    tips: result.tips.map(tip => tip.text[0].text)
+    tips: result.tips.map((tip) => tip.text[0].text),
   }));
 };
 
@@ -54,18 +54,18 @@ const run = () =>
     .get(
       "https://globalgoals.cdn.prismic.io/api/v2/documents/search?ref=XkUcUxAAACcAVT_P&q=%5B%5Bat(document.type%2C%22goal%22)%5D%5D"
     )
-    .then(response => ({
+    .then((response) => ({
       title: "Sustainable Development Goals",
       id: "sustainable-development-goals-en",
       source: "https://www.globalgoals.org/",
       license: {
         name: "CC BY 4.0",
         url: "https://creativecommons.org/licenses/by/4.0/",
-        author: "United Nations"
+        author: "United Nations",
       },
-      entries: extractEntries(response.data)
+      entries: extractEntries(response.data),
     }));
 
 module.exports = {
-  run
+  run,
 };

@@ -18,22 +18,22 @@ describe("generate RSS", () => {
       source: {
         id: "mock",
         title: "feed title",
-        entries: _.range(1, numberOfEntries + 1).map(index => ({
+        entries: _.range(1, numberOfEntries + 1).map((index) => ({
           title: `entry title ${index}`,
-          content: `content ${index}`
-        }))
+          content: `content ${index}`,
+        })),
       },
       entry: {
         title: `entry title 1`,
-        content: `content 1`
-      }
+        content: `content 1`,
+      },
     }).content;
     return JSON.parse(parser.xml2json(feed, { compact: true }));
   };
 
   it("sets general feed properties", () => {
     const { feed } = generateAsJSON({
-      numberOfEntries: 1
+      numberOfEntries: 1,
     });
 
     expect(feed.id._text).to.equal(`${config.baseUrl}/rss/mock.xml`);
@@ -47,7 +47,7 @@ describe("generate RSS", () => {
   it("throws an error if the source contains no entries", () => {
     const feed = () =>
       generateAsJSON({
-        numberOfEntries: 0
+        numberOfEntries: 0,
       });
     expect(feed).to.throw;
   });

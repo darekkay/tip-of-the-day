@@ -8,10 +8,10 @@ const dataSources = require("../data-sources/index.json");
 
 const output = renderTemplate({
   path: __dirname,
-  item: { sources: dataSources.filter(source => !source.hidden) }
+  item: { sources: dataSources.filter((source) => !source.hidden) },
 });
 
-const buildIndex = callback =>
+const buildIndex = (callback) =>
   writeFile(join(__dirname, "..", "..", "public", "index.html"), output).then(
     callback()
   );

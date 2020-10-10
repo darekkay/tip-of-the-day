@@ -15,12 +15,8 @@ describe("daysArray", () => {
   it("returns the last 3 days", () => {
     expect(daysArray(lastDateValue, 3)).to.deep.equal([
       lastDateValue,
-      moment(lastDateValue)
-        .subtract(1, "days")
-        .toDate(),
-      moment(lastDateValue)
-        .subtract(2, "days")
-        .toDate()
+      moment(lastDateValue).subtract(1, "days").toDate(),
+      moment(lastDateValue).subtract(2, "days").toDate(),
     ]);
   });
 

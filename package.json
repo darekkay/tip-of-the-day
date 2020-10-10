@@ -37,7 +37,7 @@
     "mocha": "7.0.1",
     "node-sass": "4.13.1",
     "plop": "2.5.3",
-    "prettier": "1.19.1",
+    "prettier": "2.1.2",
     "xml-js": "1.6.11"
   },
   "engines": {
@@ -62,7 +62,7 @@
     "build:feeds": "node src/index.js",
     "build:index": "gulp build",
     "ci": "npm run lint:check && npm run test",
-    "format": "prettier --write -- \"{src,public}/**/*.{js,jsx,json,css,scss,md}\"",
+    "format": "prettier --write .",
     "generate": "plop --plopfile internals/generators/index.js",
     "lint:check": "eslint src/**/*.js",
     "lint:fix": "eslint --fix src/**/*.js",
