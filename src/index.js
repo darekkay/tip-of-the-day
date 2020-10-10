@@ -2,6 +2,7 @@ const { ensureFile, writeFile, readFile } = require("fs-extra");
 const { join, basename } = require("path");
 const moment = require("moment");
 const _ = require("lodash");
+const logger = require("@darekkay/logger");
 
 const getRenderer = require("./render");
 const generateRSS = require("./formats/rss");
@@ -72,10 +73,10 @@ const generateAllFeeds = (date) => {
           )
         )
       )
-      .then(() => console.log(`Generated feed for ${filename}`));
+      .then(() => logger.info(`Generated feed for ${filename}`));
 
   Promise.all(dataSources.map((source) => transformFile(source.slug))).catch(
-    console.error
+    logger.error
   );
 };
 

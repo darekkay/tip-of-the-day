@@ -1,5 +1,6 @@
 const _ = require("lodash");
 
+const logger = require("@darekkay/logger");
 const countries = require("world-countries");
 const currencies = require("@umpirsky/currency-list/data/en/currency.json");
 const abbreviations = require("country-json/src/country-by-abbreviation");
@@ -11,13 +12,13 @@ const flagByAbbreviation = (abbreviation) => {
   );
 
   if (country === undefined) {
-    console.info(`No country found for ${abbreviation}`);
+    logger.warn(`No country found for ${abbreviation}`);
     return null;
   }
 
   const flag = flags.find((element) => element.country === country.country);
   if (flag === undefined) {
-    console.info(`No flag found for ${abbreviation} (${country.country})`);
+    logger.warn(`No flag found for ${abbreviation} (${country.country})`);
     return null;
   }
 

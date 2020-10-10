@@ -116,6 +116,15 @@
   dependencies:
     eslint-config-prettier "6.11.0"
 
+"@darekkay/logger@1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@darekkay/logger/-/logger-1.0.2.tgz#8981f9cfb7b3bb6a27563148eecc1ccdb778f336"
+  integrity sha512-ojA4gw1DjdtbzJTFPkJzi+S8pgpGOe2JHtSF3ktM3ZMN12hfBTB/RKqhh4KFMb+hrvW9aXSmOCHz7XBCNC7S7w==
+  dependencies:
+    kleur "4.0.2"
+    log-symbols "4.0.0"
+    loglevel "1.6.8"
+
 "@darekkay/styles@1.0.6":
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/@darekkay/styles/-/styles-1.0.6.tgz#03a3e6f0782b913e01c95bcf6c808b4cf8479e0b"
@@ -3164,6 +3173,11 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.2.tgz#01146b36a6218e64e58f3a8d66de5d7fc6f6d051"
   integrity sha512-s5kLOcnH0XqDO+FvuaLX8DDjZ18CGFk7VygH40QoKPUQhW4e2rvM0rwUq0t8IQDOwYSeLK01U90OjzBTme2QqA==
 
+kleur@4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/kleur/-/kleur-4.0.2.tgz#57b36cc5235601f824c33e6e45db10cd5493dbf5"
+  integrity sha512-FGCCxczbrZuF5CtMeO0xfnjhzkVZSXfcWK90IPLucDWZwskrpYN7pmRIgvd8muU0mrPrzy4A2RBGuwCjLHI+nw==
+
 last-run@^1.1.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/last-run/-/last-run-1.1.1.tgz#45b96942c17b1c79c772198259ba943bebf8ca5b"
@@ -3311,6 +3325,18 @@ log-symbols@2.2.0, log-symbols@^2.2.0:
   integrity sha512-VeIAFslyIerEJLXHziedo2basKbMKtTw3vfn5IzG0XTjhAVEJyNHnL2p7vc+wBDSdQuUpNw3M2u6xb9QsAY5Eg==
   dependencies:
     chalk "^2.0.1"
+
+log-symbols@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/log-symbols/-/log-symbols-4.0.0.tgz#69b3cc46d20f448eccdb75ea1fa733d9e821c920"
+  integrity sha512-FN8JBzLx6CzeMrB0tg6pqlGU1wCrXW+ZXGH481kfsBqer0hToTIiHdjH4Mq8xJUbvATujKCvaREGWpGUionraA==
+  dependencies:
+    chalk "^4.0.0"
+
+loglevel@1.6.8:
+  version "1.6.8"
+  resolved "https://registry.yarnpkg.com/loglevel/-/loglevel-1.6.8.tgz#8a25fb75d092230ecd4457270d80b54e28011171"
+  integrity sha512-bsU7+gc9AJ2SqpzxwU3+1fedl8zAntbtC5XYlt3s2j1hJcn2PsXSmgN8TaLG/J1/2mod4+cE/3vNL70/c1RNCA==
 
 loud-rejection@^1.0.0:
   version "1.6.0"

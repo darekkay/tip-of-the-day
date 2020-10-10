@@ -1,6 +1,8 @@
 const { writeFile } = require("fs-extra");
 const { join } = require("path");
 
+const logger = require("@darekkay/logger");
+
 const scrape = (slug) => {
   const scraper = require(`./data-sources/${slug}/scraper.js`);
   scraper
@@ -11,7 +13,7 @@ const scrape = (slug) => {
         JSON.stringify(content, null, 2)
       )
     )
-    .then(() => console.info(`Scraping ${slug} finished.`));
+    .then(() => logger.info(`Scraping ${slug} finished.`));
 };
 
 // Run scraper manually (maybe move this to npm scripts):

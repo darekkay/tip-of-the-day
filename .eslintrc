@@ -1,7 +1,6 @@
 {
   "extends": ["@darekkay/eslint-config/nodejs"],
   "rules": {
-    "no-console": "off", // TODO: use logger
     "node/no-unpublished-require": "off" // this module is not published on npm
   }
 }

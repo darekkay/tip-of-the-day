@@ -1,6 +1,7 @@
 const axios = require("axios");
 const _ = require("lodash");
 const jsdom = require("jsdom");
+const logger = require("@darekkay/logger");
 
 // locally saved/scraped files
 const getPage = (id) => axios.get(`http://localhost:8080/${id}/index.html`);
@@ -13,7 +14,7 @@ const scrapeContent = (html) => {
   );
 
   if (image === null || metaContent === null) {
-    console.error(`Could not parse page`);
+    logger.error(`Could not parse page`);
     return null;
   }
 

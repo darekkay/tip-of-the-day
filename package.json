@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Darek Kay <hello@darekkay.com> (https://darekkay.com/)",
   "dependencies": {
+    "@darekkay/logger": "1.0.2",
     "@darekkay/styles": "1.0.6",
     "@umpirsky/currency-list": "git+https://git@github.com/umpirsky/currency-list.git",
     "axios": "0.19.2",
