@@ -63,7 +63,7 @@
     "build": "npm run build:index && npm run build:feeds",
     "build:feeds": "node src/index.js",
     "build:index": "gulp build",
-    "ci": "npm run lint:check && npm run test",
+    "ci": "npm run lint && npm run test",
     "format": "prettier --write .",
     "generate": "plop --plopfile internals/generators/index.js",
     "lint": "eslint .",
