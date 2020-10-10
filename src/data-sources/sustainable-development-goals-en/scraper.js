@@ -37,7 +37,7 @@ const extractEntries = (data) => {
     slug: result.slug,
     number: result.number,
     backgroundColor: backgroundColors[result.number],
-    image: images[result.number],
+    image: images[result.number - 1],
     introduction: result.introduction[0].text,
     manifest: result.manifest[0].text,
     targets: result.targets.map((target) => ({
@@ -52,7 +52,7 @@ const extractEntries = (data) => {
 const run = () =>
   axios
     .get(
-      "https://globalgoals.cdn.prismic.io/api/v2/documents/search?ref=XkUcUxAAACcAVT_P&q=%5B%5Bat(document.type%2C%22goal%22)%5D%5D"
+      "https://globalgoals.cdn.prismic.io/api/v2/documents/search?ref=X4BqzxIAACAA8TIX&q=%5B%5Bat(document.type%2C%22goal%22)%5D%5D"
     )
     .then((response) => ({
       title: "Sustainable Development Goals",

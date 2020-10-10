@@ -13,7 +13,8 @@ const scrape = (slug) => {
         JSON.stringify(content, null, 2)
       )
     )
-    .then(() => logger.info(`Scraping ${slug} finished.`));
+    .then(() => logger.info(`Scraping ${slug} finished.`))
+    .catch((error) => logger.error(error));
 };
 
 // Run scraper manually (maybe move this to npm scripts):
@@ -23,5 +24,5 @@ const scrape = (slug) => {
 // scrape("logical-fallacies-en");
 // scrape("xkcd-en");
 // scrape("hacker-laws-en");
-scrape("untools-en");
-// scrape("sustainable-development-goals-en");
+// scrape("untools-en");
+scrape("sustainable-development-goals-en");
