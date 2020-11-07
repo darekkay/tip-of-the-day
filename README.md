@@ -1,6 +1,6 @@
 # Tip of the Day
 
-[![Travis](https://img.shields.io/travis/com/darekkay/tip-of-the-day.svg?style=flat-square)](https://travis-ci.com/darekkay/tip-of-the-day)
+[![Build](https://img.shields.io/github/workflow/status/darekkay/tip-of-the-day/Continuous%20Integration/master?style=flat-square)](https://github.com/darekkay/tip-of-the-day/actions)
 [![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/darekkay/tip-of-the-day/blob/master/LICENSE)
 
 Get your daily knowledge dose.
