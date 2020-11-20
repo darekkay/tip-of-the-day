@@ -3,9 +3,9 @@ const renderItemContent = require("../../utils/ejs");
 const renderItem = data => ({
   title: data.title,
   // url: `https://example.com/${data.id}`,
-  content: renderItemContent({ path: __dirname, item: data })
+  content: renderItemContent({ path: __dirname, item: data }),
 });
 
 module.exports = {
-  renderItem
+  renderItem,
 };

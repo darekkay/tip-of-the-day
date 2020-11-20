@@ -42,6 +42,12 @@
     "description": "The UN global goals for sustainable development."
   },
   {
+    "slug": "wcag-en",
+    "title": "Web Content Accessibility Guidelines 2.1",
+    "language": "en",
+    "description": "Success criteria to fulfill WCAG."
+  },
+  {
     "slug": "plants-de",
     "title": "Pflanzen",
     "language": "de",

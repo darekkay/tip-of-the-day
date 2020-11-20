@@ -25,4 +25,5 @@ const scrape = (slug) => {
 // scrape("xkcd-en");
 // scrape("hacker-laws-en");
 // scrape("untools-en");
-scrape("sustainable-development-goals-en");
+// scrape("sustainable-development-goals-en");
+scrape("wcag-en");
