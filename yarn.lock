@@ -1025,10 +1025,10 @@
     log-symbols "4.0.0"
     loglevel "1.7.1"
 
-"@darekkay/styles@2.3.3":
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/@darekkay/styles/-/styles-2.3.3.tgz#8c8f98b6eed40c170a6c751bbdee93797f07bf7c"
-  integrity sha512-ZN1DwQBAIB4r83SjLss+OCkLZ/cSe9gwhBHhMEjZ/PqQJrQQuU1PQN+RTdUAK/W2/J/vSuGiG2/ktBUzlovyvg==
+"@darekkay/styles@2.3.6":
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/@darekkay/styles/-/styles-2.3.6.tgz#8d12b7d0597added960bb736b5cab7451d27d191"
+  integrity sha512-Rh5+rYYCIq1D40UjQol6TfLzQ1MTzE+kCOOM1McKyxqQquOIzJYqi4PMptN/IaBAOQarw6jmNsBWVPbkiGhCjQ==
 
 "@eslint/eslintrc@^0.1.3":
   version "0.1.3"
