@@ -1,5 +1,4 @@
 const _ = require("lodash");
-
 const logger = require("@darekkay/logger");
 const countries = require("world-countries");
 const currencies = require("@umpirsky/currency-list/data/en/currency.json");

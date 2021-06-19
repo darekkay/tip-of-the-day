@@ -1,7 +1,8 @@
 /** Generates an index page for all data sources */
 
-const { writeFile } = require("fs-extra");
 const { join } = require("path");
+
+const { writeFile } = require("fs-extra");
 
 const renderTemplate = require("../utils/ejs");
 const dataSources = require("../data-sources/index.json");

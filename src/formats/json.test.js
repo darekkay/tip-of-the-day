@@ -1,9 +1,7 @@
-const { expect } = require("chai");
-
 const generateJSON = require("./json.js");
 
 describe("generate JSON", () => {
-  it("return just a single entry", () => {
+  test("return just a single entry", () => {
     const entry = {
       title: "entry title",
       content: "content",
@@ -13,6 +11,6 @@ describe("generate JSON", () => {
       entry,
     }).content;
 
-    expect(feed).to.equal(JSON.stringify(entry, null, 2));
+    expect(feed).toEqual(JSON.stringify(entry, null, 2));
   });
 });

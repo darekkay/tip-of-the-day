@@ -1,6 +1,6 @@
-const { writeFile } = require("fs-extra");
 const { join } = require("path");
 
+const { writeFile } = require("fs-extra");
 const logger = require("@darekkay/logger");
 
 const scrape = (slug) => {

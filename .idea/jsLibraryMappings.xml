@@ -2,6 +2,6 @@
 <project version="4">
   <component name="JavaScriptLibraryMappings">
     <file url="file://$PROJECT_DIR$" libraries="{Node.js Core}" />
-    <file url="PROJECT" libraries="{@types/chai, @types/lodash, @types/mocha}" />
+    <file url="PROJECT" libraries="{@types/jest, @types/lodash}" />
   </component>
 </project>

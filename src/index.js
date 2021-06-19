@@ -10,7 +10,6 @@ const generateRSS = require("./formats/rss");
 const generateJSON = require("./formats/json");
 const generateHTML = require("./formats/html");
 const { selectByDate } = require("./utils/select");
-
 const dataSources = require("./data-sources/index.json");
 
 const generateAllFeeds = (date) => {
