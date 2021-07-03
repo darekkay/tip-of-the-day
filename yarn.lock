@@ -3611,10 +3611,10 @@ cosmiconfig@^5.0.0:
     js-yaml "^3.13.1"
     parse-json "^4.0.0"
 
-country-json@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/country-json/-/country-json-1.1.0.tgz#5a683d3590febd70a1512dd8778eaa9ead40f680"
-  integrity sha512-iJV8zuaB30mD6uOSbYg0UViDrkg1KRf4d113JffNTC7n/RSsvMF4XlxOcnJuL24JQFVYRJvRShAmi2n7WygU9A==
+country-json@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/country-json/-/country-json-1.1.2.tgz#ccf49ba614c6af8b42726b27493ea070d8f82dd3"
+  integrity sha512-LLeN2f0/VuTUNBO3VyccJ319PJMNCf+tSbvQnmHkTZpG4yP9WMj82Y9Uj4m9+SVr1lb/jc7XL+fX12Cdr63XjQ==
 
 cross-env@7.0.3:
   version "7.0.3"

@@ -8,7 +8,7 @@
     "@darekkay/styles": "2.4.0",
     "@umpirsky/currency-list": "git+https://git@github.com/umpirsky/currency-list.git",
     "axios": "0.19.2",
-    "country-json": "1.1.0",
+    "country-json": "1.1.2",
     "ejs": "3.0.1",
     "feed": "4.1.0",
     "fs-extra": "8.1.0",

@@ -20,10 +20,10 @@ const scrape = (slug) => {
 // Run scraper manually (maybe move this to npm scripts):
 
 // scrape("chemical-elements-en");
-// scrape("countries-en");
+scrape("countries-en");
 // scrape("logical-fallacies-en");
 // scrape("xkcd-en");
 // scrape("hacker-laws-en");
 // scrape("untools-en");
 // scrape("sustainable-development-goals-en");
-scrape("wcag-en");
+// scrape("wcag-en");
