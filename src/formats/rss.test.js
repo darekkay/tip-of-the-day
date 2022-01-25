@@ -29,11 +29,11 @@ describe("generate RSS", () => {
   test("sets general feed properties", () => {
     const { feed } = generateAsJSON();
 
-    expect(feed.id._text).toEqual(`${config.baseUrl}/rss/mock.xml`);
-    expect(feed.title._text).toEqual("feed title");
+    expect(feed.id._text).toBe(`${config.baseUrl}/rss/mock.xml`);
+    expect(feed.title._text).toBe("feed title");
     expect(feed.author.email._text).toBe("hello@darekkay.com");
-    expect(feed.updated._text).toEqual("2018-01-02T03:04:05.000Z");
+    expect(feed.updated._text).toBe("2018-01-02T03:04:05.000Z");
     expect(typeof feed.entry).toBe("object");
-    expect(feed.entry.id._text).not.toBeUndefined();
+    expect(feed.entry.id._text).toBeDefined();
   });
 });

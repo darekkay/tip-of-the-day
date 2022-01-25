@@ -5,7 +5,7 @@ describe("tipOfTheDay", () => {
   const day = 1524313323000;
 
   test("returns the same element for a specific date", () => {
-    expect(selectByDate(tips, day)).toEqual("four");
+    expect(selectByDate(tips, day)).toBe("four");
   });
 
   test("cycles through the elements", () => {
