@@ -50,6 +50,7 @@
     "format": "dks format",
     "generate": "plop --plopfile internals/generators/index.js",
     "lint": "dks lint",
+    "preview": "node internals/preview.js",
     "test": "dks test"
   }
 }
