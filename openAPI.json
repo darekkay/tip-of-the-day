@@ -1,0 +1,145 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Tip of The day",
+        "version": "1.0.0",
+        "contact": {},
+        "description": "Get your daily knowledge dose"
+    },
+    "paths": {
+        "/chemical-elements-en.json": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "parameters": [],
+                "operationId": "Periodic table of elements.",
+                "responses": {
+                    "default": {
+                        "description": "Default response"
+                    }
+                }
+            }
+        },
+        "/countries-en.json": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "parameters": [],
+                "operationId": "Capitals, currencies, flags and more.",
+                "responses": {
+                    "default": {
+                        "description": "Default response"
+                    }
+                }
+            }
+        },
+        "xkcd-en.json": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "parameters": [],
+                "operationId": "",
+                "responses": {
+                    "default": {
+                        "description": "Default response"
+                    }
+                }
+            }
+        },
+        "hacker-laws-en.json": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "parameters": [],
+                "operationId": "Laws, Theories, Principles and Patterns for developers.",
+                "responses": {
+                    "default": {
+                        "description": "Default response"
+                    }
+                }
+            }
+        },
+        "/untools-en.json": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "parameters": [],
+                "operationId": "Thinking tools to help you solve problems, make decisions and understand systems.",
+                "responses": {
+                    "default": {
+                        "description": "Default response"
+                    }
+                }
+            }
+        },
+        "/wcag-en.json": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "parameters": [],
+                "operationId": "Success criteria to fulfill WCAG.",
+                "responses": {
+                    "default": {
+                        "description": "Default response"
+                    }
+                }
+            }
+        },
+        "/sustainable-development-goals-en.json": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "parameters": [],
+                "operationId": "The UN global goals for sustainable development.",
+                "responses": {
+                    "default": {
+                        "description": "Default response"
+                    }
+                }
+            }
+        },
+        "/plants-de.json": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "parameters": [],
+                "operationId": "Häufige Pflanzenarten in Europa.",
+                "responses": {
+                    "default": {
+                        "description": "Default response"
+                    }
+                }
+            }
+        },
+        "/logical-fallacies-en.json": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "parameters": [],
+                "operationId": "Learn to identify flaws in reasoning.",
+                "responses": {
+                    "default": {
+                        "description": "Default response"
+                    }
+                }
+            }
+        }
+    },
+    "externalDocs": {
+        "description": "https://github.com/darekkay/tip-of-the-day",
+        "url": "https://github.com/darekkay/tip-of-the-day"
+    },
+    "security": [],
+    "servers": [
+        {
+            "url": "https://tips.darekkay.com/json/",
+            "description": "The main ",
+            "variables": {}
+        }
+    ],
+    "components": {
+        "links": {},
+        "callbacks": {},
+        "schemas": {}
+    }
+}
