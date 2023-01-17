@@ -1,6 +1,6 @@
 # Tip of the Day
 
-[![Build](https://img.shields.io/github/workflow/status/darekkay/tip-of-the-day/Continuous%20Integration/master?style=flat-square)](https://github.com/darekkay/tip-of-the-day/actions)
+[![Build](https://img.shields.io/github/actions/workflow/status/darekkay/tip-of-the-day/ci.yml?branch=master&style=flat-square)](https://github.com/darekkay/tip-of-the-day/actions/workflows/ci.yml)
 [![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/darekkay/tip-of-the-day/blob/master/LICENSE)
 
 Get your daily knowledge dose.

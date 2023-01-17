@@ -10,6 +10,7 @@ package-lock.json
 
 /.idea/httpRequests
 /.idea/markdown.xml
+/.idea/php.xml
 /.idea/shelf
 /.idea/tasks.xml
 /.idea/workspace.xml
