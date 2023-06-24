@@ -16,7 +16,7 @@ const writeEnsureFile = (path, content) =>
   ensureFile(path).then(() => writeFile(path, content));
 
 const readDataSource = (file) =>
-  readFile(join(dataSourcesPath, file, "data.json"), "utf-8");
+  readFile(join(dataSourcesPath, file, "data.json"), "utf8");
 
 const writeFeed = (file, type, content) =>
   writeEnsureFile(join(__dirname, "..", "build", type, file), content);

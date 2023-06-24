@@ -25,7 +25,7 @@ const backgroundColors = {
 };
 
 const images = _.range(1, 18).map((number) =>
-  readFileSync(join(__dirname, "svg", `goal-${number}.svg`), "utf-8")
+  readFileSync(join(__dirname, "svg", `goal-${number}.svg`), "utf8")
 );
 
 const extractEntries = (data) => {
