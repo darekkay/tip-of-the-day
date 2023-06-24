@@ -1608,6 +1608,14 @@
     log-symbols "4.1.0"
     loglevel "1.8.0"
 
+"@darekkay/logger@3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@darekkay/logger/-/logger-3.0.3.tgz#a1a5e9db10c3d2c6d49f647616deaa6a9e397528"
+  integrity sha512-hhhpp2M8bTKLRBJf7oZ7K6S9X74n3q2YjSBhZFkphuPYtz0m/TC8OKQvUe/gfWg+G6vE4yK4Bcw1Ug5RICgrKw==
+  dependencies:
+    chalk "4.1.2"
+    loglevel "1.8.1"
+
 "@darekkay/scripts@1.5.3":
   version "1.5.3"
   resolved "https://registry.yarnpkg.com/@darekkay/scripts/-/scripts-1.5.3.tgz#434791d6e3e40c2d85fb2a698f4d1ab5f8b65bfb"
@@ -1636,10 +1644,10 @@
     which "2.0.2"
     yargs-parser "21.0.0"
 
-"@darekkay/styles@2.6.3":
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/@darekkay/styles/-/styles-2.6.3.tgz#fd400a31e9cdc44e0ac457051a252c16cf969a01"
-  integrity sha512-juBxZ9IMY+TuHaYgDcPwCR0PSZLSrZgc1nIATd80ffsWsutjduJCmOytoljBKV68hBBfJY+d8go1k3ld7DAaZg==
+"@darekkay/styles@4.3.0":
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/@darekkay/styles/-/styles-4.3.0.tgz#9c88c9c6fc1158a71b8f5c9ee28e1616ce7bedfa"
+  integrity sha512-gNR86ZG4uz9rK0inG0/TiDQyTIwclqW9tnwv6BVqewRRGExhxi7mxBGaTNETl7qteeRNUMyfOvaeJ8rw+E/KYA==
   dependencies:
     "@types/tailwindcss" "2.2.4"
 
@@ -3175,6 +3183,14 @@ caseless@~0.12.0:
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
   integrity sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=
 
+chalk@4.1.2, chalk@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.2.tgz#aac4e2b7734a740867aeb16bf02aad556a1e7a01"
+  integrity sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==
+  dependencies:
+    ansi-styles "^4.1.0"
+    supports-color "^7.1.0"
+
 chalk@^1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-1.1.3.tgz#a8115c55e4a702fe4d150abd3872822a7e09fc98"
@@ -3207,14 +3223,6 @@ chalk@^4.1.0:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.1.tgz#c80b3fab28bf6371e6863325eee67e618b77e6ad"
   integrity sha512-diHzdDKxcU+bAsUboHLPEDQiw0qEe0qd7SYUn3HgcFlWgbDcfLGswOHYeGrHKzG9z6UYf01d9VFMfZxPM1xZSg==
-  dependencies:
-    ansi-styles "^4.1.0"
-    supports-color "^7.1.0"
-
-chalk@^4.1.2:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.2.tgz#aac4e2b7734a740867aeb16bf02aad556a1e7a01"
-  integrity sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==
   dependencies:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
@@ -7525,6 +7533,11 @@ loglevel@1.8.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/loglevel/-/loglevel-1.8.0.tgz#e7ec73a57e1e7b419cb6c6ac06bf050b67356114"
   integrity sha512-G6A/nJLRgWOuuwdNuA6koovfEV1YpqqAG4pRUlFaz3jj2QNZ8M4vBqnVA+HBTmU/AMNUtlOsMmSpF6NyOjztbA==
+
+loglevel@1.8.1:
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/loglevel/-/loglevel-1.8.1.tgz#5c621f83d5b48c54ae93b6156353f555963377b4"
+  integrity sha512-tCRIJM51SHjAayKwC+QAg8hT8vg6z7GSgLJKGvzuPb1Wc+hLzqtuVLxp6/HzSPOozuK+8ErAhy7U/sVzw8Dgfg==
 
 loose-envify@^1.4.0:
   version "1.4.0"
