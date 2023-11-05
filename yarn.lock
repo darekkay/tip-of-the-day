@@ -1550,10 +1550,10 @@
     which "3.0.1"
     yargs-parser "21.1.1"
 
-"@darekkay/styles@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/@darekkay/styles/-/styles-4.3.0.tgz#9c88c9c6fc1158a71b8f5c9ee28e1616ce7bedfa"
-  integrity sha512-gNR86ZG4uz9rK0inG0/TiDQyTIwclqW9tnwv6BVqewRRGExhxi7mxBGaTNETl7qteeRNUMyfOvaeJ8rw+E/KYA==
+"@darekkay/styles@5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@darekkay/styles/-/styles-5.0.2.tgz#09fbeb23582e78a48cc469f662d8b9f33743e38f"
+  integrity sha512-BaPArBrBDglNm3NLo3wFgKd7U3QiKjvrEDb55WYitWtCFezKldOtDaV3HMLPkCjhnIdnx63rs+fH0kIGBmPujg==
   dependencies:
     "@types/tailwindcss" "2.2.4"
 
@@ -2851,10 +2851,10 @@ axe-core@^4.6.2:
   resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.7.2.tgz#040a7342b20765cb18bb50b628394c21bccc17a0"
   integrity sha512-zIURGIS1E1Q4pcrMjp+nnEh+16G56eG/MUllJH8yEvw7asDo7Ac9uhC9KIH5jzpITueEZolfYglnCGIuSBz39g==
 
-axios@1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-1.4.0.tgz#38a7bf1224cd308de271146038b551d725f0be1f"
-  integrity sha512-S4XCWMEmzvo64T9GfvQDOXgYRDJ/wsSZc7Jvdgx5u1sd0JwsuPLqb3SYmusag+edF6ziyMensPVqLTSc1PiSEA==
+axios@1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.6.0.tgz#f1e5292f26b2fd5c2e66876adc5b06cdbd7d2102"
+  integrity sha512-EZ1DYihju9pwVB+jg67ogm+Tmqc6JmhamRN6I4Zt8DfZu5lbcQGw3ozH9lFejSJgs/ibaef3A9PMXPLeefFGJg==
   dependencies:
     follow-redirects "^1.15.0"
     form-data "^4.0.0"
@@ -7551,10 +7551,10 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-markdown-it@13.0.1:
-  version "13.0.1"
-  resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-13.0.1.tgz#c6ecc431cacf1a5da531423fc6a42807814af430"
-  integrity sha512-lTlxriVoy2criHP0JKRhO2VDG9c2ypWCsT237eDiLqi09rmbKoUetyGHq2uOIRoRS//kfoJckS0eUzzkDR+k2Q==
+markdown-it@13.0.2:
+  version "13.0.2"
+  resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-13.0.2.tgz#1bc22e23379a6952e5d56217fbed881e0c94d536"
+  integrity sha512-FtwnEuuK+2yVU7goGn/MJ0WBZMM9ZPgU9spqlFs7/A/pDIUNSOQZhUgOqYCficIuR2QaFnrt8LHqBWsbTAoI5w==
   dependencies:
     argparse "^2.0.1"
     entities "~3.0.1"
